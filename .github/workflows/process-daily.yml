@@ -30,6 +30,15 @@ jobs:
       - name: Process OSSF malicious-packages
         run: npm run process
 
+      - name: Validate output (fail if no packages produced)
+        run: |
+          total=$(cat malicious/*.jsonl 2>/dev/null | wc -l)
+          if [ "$total" -eq 0 ]; then
+            echo "ERROR: No packages produced - all JSONL files are empty. Failing build."
+            exit 1
+          fi
+          echo "Produced $total packages - validation passed"
+
       - name: Commit and push output
         run: |
           git config user.name "github-actions[bot]"
