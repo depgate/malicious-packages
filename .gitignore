@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.tmp-*/
+# malicious/ - keep in repo for consumers
+*.log
+.env
+.DS_Store

@@ -1,0 +1,19 @@
+{
+  "name": "malware-packages",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Process OSSF malicious-packages into lightweight JSONL per ecosystem",
+  "type": "module",
+  "scripts": {
+    "process": "tsx src/process.ts",
+    "process:test": "tsx src/process.ts -- --limit 10",
+    "build": "tsc",
+    "run": "node dist/process.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^22.13.4",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  }
+}
