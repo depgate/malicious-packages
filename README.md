@@ -14,7 +14,7 @@ One JSONL file per ecosystem in `malicious/`:
 - `crates.io.jsonl`
 - `rubygems.jsonl`
 
-Each line: `{"name":"package-name"}` (package-level block) or `{"name":"package-name","versions":["1.0.0"]}` when version info is available.
+Each line: `{"name":"package-name","id":"MAL-2022-3"}` (id from OSV report; versions optional when available).
 
 ## Usage
 

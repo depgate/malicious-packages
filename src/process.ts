@@ -41,6 +41,7 @@ type OSVReport = {
 
 type MalwareEntry = {
   name: string;
+  id?: string;
   versions?: string[];
 };
 
@@ -80,7 +81,10 @@ function parseOSVReport(content: string): MalwareEntry | null {
     const name = pkg?.name;
     if (!name) return null;
     const versions = extractVersions(data.affected ?? []);
-    return versions?.length ? { name, versions } : { name };
+    const entry: MalwareEntry = { name };
+    if (data.id) entry.id = data.id;
+    if (versions?.length) entry.versions = versions;
+    return entry;
   } catch {
     return null;
   }
