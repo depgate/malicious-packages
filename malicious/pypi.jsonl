@@ -805,6 +805,7 @@
 {"name":"chalk-harness","id":"MAL-2025-6476"}
 {"name":"change-user-agent","id":"MAL-2025-41638"}
 {"name":"chat-prompt-logger","id":"MAL-2025-191699"}
+{"name":"chat-xdk","id":"MAL-2026-1278"}
 {"name":"chatgpt-aitools","id":"MAL-2024-12233"}
 {"name":"chatgpt4","id":"MAL-2025-6477"}
 {"name":"chbencode","id":"MAL-2025-2945"}
@@ -2616,6 +2617,8 @@
 {"name":"farooq4321","id":"MAL-2025-1975"}
 {"name":"fasdghjkhjafsd","id":"MAL-2024-12271"}
 {"name":"fastapi-https","id":"MAL-2024-5130"}
+{"name":"fastapi-requests","id":"MAL-2026-1261"}
+{"name":"fastapis-requests","id":"MAL-2026-1262"}
 {"name":"fastertelethon","id":"MAL-2025-191723"}
 {"name":"fastgram","id":"MAL-2025-191724"}
 {"name":"fasthttp-globalscraper","id":"MAL-2024-5131"}
@@ -2690,6 +2693,7 @@
 {"name":"flexssl","id":"MAL-2024-12274"}
 {"name":"floogle","id":"MAL-2025-41676"}
 {"name":"flophttp","id":"MAL-2024-10028"}
+{"name":"flowfix","id":"MAL-2026-1276"}
 {"name":"fluiddaddy","id":"MAL-2024-5146"}
 {"name":"flyadmin","id":"MAL-2025-41677"}
 {"name":"flycord","id":"MAL-2026-1049"}
@@ -3104,6 +3108,7 @@
 {"name":"hooktest1","id":"MAL-2025-191760"}
 {"name":"hooktest2","id":"MAL-2025-191483"}
 {"name":"hooktest3","id":"MAL-2025-191761"}
+{"name":"hostlists-plugins-default","id":"MAL-2026-1275"}
 {"name":"hsbcgui","id":"MAL-2024-5206"}
 {"name":"htps1","id":"MAL-2024-5207"}
 {"name":"htties","id":"MAL-2024-5208"}
@@ -5362,6 +5367,7 @@
 {"name":"ppysocks","id":"MAL-2023-1964"}
 {"name":"ppython-binance","id":"MAL-2023-1965"}
 {"name":"ppytorch","id":"MAL-2023-1966"}
+{"name":"prateek-yadav23","id":"MAL-2026-1277"}
 {"name":"presudo-generate","id":"MAL-2025-951"}
 {"name":"pretty-cli-logger","id":"MAL-2025-191816"}
 {"name":"prgoressbar2","id":"MAL-2023-1967"}
@@ -6803,8 +6809,10 @@
 {"name":"python-inance","id":"MAL-2023-2124"}
 {"name":"python-kudu","id":"MAL-2025-41725"}
 {"name":"python-ledgercommon","id":"MAL-2025-47799"}
+{"name":"python-module-installer","id":"MAL-2026-1263"}
 {"name":"python-poller-ball","id":"MAL-2024-5786"}
 {"name":"python-project-wntliogu","id":"MAL-2024-12334"}
+{"name":"python-requirements","id":"MAL-2026-1264"}
 {"name":"python-requirements-inspector","id":"MAL-2025-49320"}
 {"name":"python-rootpath","id":"MAL-2025-191841"}
 {"name":"python-sdkcore","id":"MAL-2024-5787"}
