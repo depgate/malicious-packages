@@ -631,6 +631,7 @@
 {"name":"diet_earthsmoke","id":"MAL-2025-46903"}
 {"name":"diff-analysis","id":"MAL-2025-46904"}
 {"name":"divining-rod","id":"MAL-2024-6863"}
+{"name":"doctolib","id":"MAL-2026-1915"}
 {"name":"dog-biscuits","id":"MAL-2024-6864"}
 {"name":"dogapi_demo","id":"MAL-2024-6865"}
 {"name":"doge-helper","id":"MAL-2024-6866"}
@@ -699,6 +700,7 @@
 {"name":"forgiving-nil","id":"MAL-2024-6923"}
 {"name":"fortnite-api","id":"MAL-2024-6924"}
 {"name":"fossa-curl-test","id":"MAL-2024-6925"}
+{"name":"freshworks-ruby","id":"MAL-2026-1916"}
 {"name":"galvinhsiu-active-cart","id":"MAL-2024-6926"}
 {"name":"game-shuffle_cards","id":"MAL-2024-6927"}
 {"name":"gamer-stats","id":"MAL-2024-6928"}
@@ -743,6 +745,7 @@
 {"name":"jenkins-statsd","id":"MAL-2024-6950"}
 {"name":"jmcnevin-rghost-barcode","id":"MAL-2024-6951"}
 {"name":"johnny_five","id":"MAL-2024-10221"}
+{"name":"kaleido","id":"MAL-2026-1917"}
 {"name":"kevin-thompson","id":"MAL-2024-6952"}
 {"name":"kevins-propietary_brain","id":"MAL-2024-6953"}
 {"name":"komojuu","id":"MAL-2025-1508"}
@@ -832,6 +835,7 @@
 {"name":"mvnd","id":"MAL-2025-46959"}
 {"name":"naveen4gem","id":"MAL-2023-1430"}
 {"name":"naveengem","id":"MAL-2023-1431"}
+{"name":"newlogger","id":"MAL-2026-1918"}
 {"name":"newrubylogger","id":"MAL-2026-1002"}
 {"name":"nhtsa-vin","id":"MAL-2024-6996"}
 {"name":"octolytics","id":"MAL-2025-46960"}
@@ -864,12 +868,15 @@
 {"name":"QubitSDK","id":"MAL-2024-7006"}
 {"name":"queenbee-plugin","id":"MAL-2025-192914"}
 {"name":"rack_envinspector","id":"MAL-2024-7007"}
+{"name":"rafka-rb","id":"MAL-2026-1919"}
 {"name":"rails-structured-logging","id":"MAL-2025-192915"}
+{"name":"rails_structured_logging","id":"MAL-2026-1920"}
 {"name":"rails_test-serving","id":"MAL-2024-7008"}
 {"name":"rate-beer","id":"MAL-2024-7009"}
 {"name":"rbi-central","id":"MAL-2024-7010"}
 {"name":"redis_connectable","id":"MAL-2025-192916"}
 {"name":"referral-candy","id":"MAL-2024-7011"}
+{"name":"resolvrtest","id":"MAL-2026-1921"}
 {"name":"resource_registry","id":"MAL-2025-6348"}
 {"name":"resque-stuck_queue","id":"MAL-2024-7012"}
 {"name":"rollbar-blanket","id":"MAL-2024-7013"}
@@ -879,6 +886,7 @@
 {"name":"rubocop-vintedmetrics","id":"MAL-2026-996"}
 {"name":"ruboty_telegram","id":"MAL-2024-7017"}
 {"name":"ruby-playing_cards","id":"MAL-2024-7018"}
+{"name":"rubylogger","id":"MAL-2026-1922"}
 {"name":"rubylove-playing-cards","id":"MAL-2024-7019"}
 {"name":"s4-client","id":"MAL-2025-46963"}
 {"name":"sarif","id":"MAL-2025-46921"}
@@ -899,6 +907,7 @@
 {"name":"spider_src","id":"MAL-2024-7030"}
 {"name":"spokes-proto","id":"MAL-2025-46944"}
 {"name":"sq-mdc","id":"MAL-2025-192918"}
+{"name":"sq-minimal-feature-flags","id":"MAL-2026-1923"}
 {"name":"sq-samsa","id":"MAL-2025-192919"}
 {"name":"sqlcommenter_rails","id":"MAL-2025-47815"}
 {"name":"stripe-backup","id":"MAL-2025-192920"}
@@ -916,6 +925,7 @@
 {"name":"telegram_bot-ruby","id":"MAL-2024-7038"}
 {"name":"telegram_bot-types","id":"MAL-2024-7039"}
 {"name":"test_gem_978483406ebb19126a2e8c001649a4eb","id":"MAL-2025-192923"}
+{"name":"testcatplzignore","id":"MAL-2026-1924"}
 {"name":"Testpranay","id":"MAL-2024-7040"}
 {"name":"treelights-client","id":"MAL-2025-46945"}
 {"name":"turboghas-client","id":"MAL-2025-46964"}

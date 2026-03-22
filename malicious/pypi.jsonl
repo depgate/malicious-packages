@@ -129,6 +129,7 @@
 {"name":"aiohttp-ssl","id":"MAL-2025-191618"}
 {"name":"aiohttpp","id":"MAL-2023-1579"}
 {"name":"aiolitesql","id":"MAL-2025-4204"}
+{"name":"aiolrucache","id":"MAL-2026-2020"}
 {"name":"aioohttp","id":"MAL-2023-1580"}
 {"name":"aiopbotocore","id":"MAL-2024-11519"}
 {"name":"aiosignalasync","id":"MAL-2025-2931"}
@@ -141,9 +142,11 @@
 {"name":"aiphttp","id":"MAL-2025-2932"}
 {"name":"airbnb-identity","id":"MAL-2026-977"}
 {"name":"airduq","id":"MAL-2024-4758"}
+{"name":"airio","id":"MAL-2026-1984"}
 {"name":"airnitro","id":"MAL-2024-4759"}
 {"name":"airtime-media-monitor","id":"MAL-2025-41619"}
 {"name":"aistac-foundation","id":"MAL-2025-6429"}
+{"name":"aitrade","id":"MAL-2026-1893"}
 {"name":"ajenti-plugin-testing-pyld","id":"MAL-2025-192392"}
 {"name":"akangatu","id":"MAL-2025-2933"}
 {"name":"akatest","id":"MAL-2025-1961"}
@@ -185,6 +188,8 @@
 {"name":"analyze-me","id":"MAL-2024-4765"}
 {"name":"androidspyeye","id":"MAL-2024-4766"}
 {"name":"anduril-lattice-sdk-grpc-python","id":"MAL-2026-440"}
+{"name":"aniresolve","id":"MAL-2026-1543"}
+{"name":"anistream","id":"MAL-2026-1499"}
 {"name":"anku1-rce","id":"MAL-2025-6432"}
 {"name":"anku2-rce","id":"MAL-2025-6433"}
 {"name":"anontest123","id":"MAL-2026-1339"}
@@ -218,6 +223,7 @@
 {"name":"args-python","id":"MAL-2024-4775"}
 {"name":"argspython","id":"MAL-2024-4776"}
 {"name":"argsreq","id":"MAL-2024-4777"}
+{"name":"ariadne-federation","id":"MAL-2026-1431"}
 {"name":"arielbogo","id":"MAL-2024-11524"}
 {"name":"ark-vmp-reverse","id":"MAL-2025-4206"}
 {"name":"arnavtest123","id":"MAL-2026-1288"}
@@ -280,6 +286,7 @@
 {"name":"astronomio","id":"MAL-2025-1963"}
 {"name":"astronomios","id":"MAL-2025-1964"}
 {"name":"async-dispatcher","id":"MAL-2024-4783"}
+{"name":"async-substrate-interface-sub","id":"MAL-2026-1894"}
 {"name":"async-substrate-interface-upgrade","id":"MAL-2026-51"}
 {"name":"asyncaiosignal","id":"MAL-2025-2937"}
 {"name":"asyncconfigreader","id":"MAL-2025-2938"}
@@ -348,6 +355,7 @@
 {"name":"awsutil","id":"MAL-2025-192961"}
 {"name":"axonify","id":"MAL-2025-191688"}
 {"name":"azerty123","id":"MAL-2024-4789"}
+{"name":"azure-eventhub-checkpointstoretable","id":"MAL-2026-1985"}
 {"name":"azure-iothub-service-client","id":"MAL-2025-41622"}
 {"name":"azure-projects","id":"MAL-2024-12211"}
 {"name":"azureml-contrib-daskonbatch","id":"MAL-2023-8563"}
@@ -464,6 +472,9 @@
 {"name":"bicoinlib","id":"MAL-2023-1649"}
 {"name":"bictoinlib","id":"MAL-2023-1650"}
 {"name":"bigip","id":"MAL-2025-192607"}
+{"name":"bigmathex","id":"MAL-2026-1895"}
+{"name":"bigmathix","id":"MAL-2026-1896"}
+{"name":"bigmathutils","id":"MAL-2026-1897"}
 {"name":"bignum","id":"MAL-2025-192391"}
 {"name":"bignum-devel","id":"MAL-2024-4800"}
 {"name":"bigpyx","id":"MAL-2025-192430"}
@@ -804,7 +815,10 @@
 {"name":"cffi-curl","id":"MAL-2025-47752"}
 {"name":"cffii","id":"MAL-2024-4886"}
 {"name":"cffy","id":"MAL-2024-4887"}
+{"name":"cfgmgr-syn","id":"MAL-2026-1999"}
+{"name":"cfgmgr-sync","id":"MAL-2026-2000"}
 {"name":"cflashfiles","id":"MAL-2026-469"}
+{"name":"chacha-lite-encrypt","id":"MAL-2026-1482"}
 {"name":"chain-validator","id":"MAL-2025-4209"}
 {"name":"chain00x","id":"MAL-2024-11555"}
 {"name":"chalk-harness","id":"MAL-2025-6476"}
@@ -859,6 +873,7 @@
 {"name":"clorama","id":"MAL-2023-1687"}
 {"name":"cloroma","id":"MAL-2024-4898"}
 {"name":"cloud-credentials","id":"MAL-2024-4899"}
+{"name":"cloud-datasets","id":"MAL-2026-1986"}
 {"name":"cloudfix","id":"MAL-2024-4900"}
 {"name":"cloudscrapersafe","id":"MAL-2025-6478"}
 {"name":"cloudx-auth","id":"MAL-2025-6479"}
@@ -877,6 +892,7 @@
 {"name":"code-transfering-4","id":"MAL-2026-446"}
 {"name":"codefrequencychecker","id":"MAL-2026-126"}
 {"name":"codeoptimizer","id":"MAL-2025-3440"}
+{"name":"codeshouhu","id":"MAL-2026-1488"}
 {"name":"codeui","id":"MAL-2024-4903"}
 {"name":"codigosintaxis","id":"MAL-2024-4904"}
 {"name":"coffin-codes-2022","id":"MAL-2024-12240"}
@@ -907,6 +923,7 @@
 {"name":"colopym2","id":"MAL-2024-4914"}
 {"name":"color-animated","id":"MAL-2024-4915"}
 {"name":"color-fade","id":"MAL-2024-4916"}
+{"name":"color-list","id":"MAL-2026-1479"}
 {"name":"color-settings","id":"MAL-2024-4917"}
 {"name":"color-vividpy","id":"MAL-2024-4918"}
 {"name":"coloraa","id":"MAL-2023-1692"}
@@ -1011,6 +1028,7 @@
 {"name":"common-test","id":"MAL-2025-6481"}
 {"name":"companyx-metaflow","id":"MAL-2024-12249"}
 {"name":"compilecls","id":"MAL-2024-4990"}
+{"name":"composer-dev","id":"MAL-2026-1987"}
 {"name":"compresai","id":"MAL-2024-10637"}
 {"name":"compressa","id":"MAL-2024-10638"}
 {"name":"compressi","id":"MAL-2024-10639"}
@@ -1269,6 +1287,7 @@
 {"name":"culturestreak","id":"MAL-2024-5012"}
 {"name":"cuolor","id":"MAL-2024-5013"}
 {"name":"cuolur","id":"MAL-2024-5014"}
+{"name":"curl-requester","id":"MAL-2026-1898"}
 {"name":"cusgtomtkinter","id":"MAL-2024-5015"}
 {"name":"cusromtkinter","id":"MAL-2024-5016"}
 {"name":"custm","id":"MAL-2024-5017"}
@@ -1335,6 +1354,7 @@
 {"name":"data-platform-observability-core","id":"MAL-2024-5030"}
 {"name":"data-platform-observability-validation","id":"MAL-2024-5031"}
 {"name":"data-processing-utils","id":"MAL-2025-47755"}
+{"name":"dataflux-pytorch","id":"MAL-2026-1988"}
 {"name":"datagov-harvester","id":"MAL-2025-913"}
 {"name":"datagraph","id":"MAL-2024-5032"}
 {"name":"datasetsgraphviz","id":"MAL-2025-2954"}
@@ -1403,6 +1423,7 @@
 {"name":"dfdfdfdfhhh","id":"MAL-2024-5046"}
 {"name":"dfshoesadsm","id":"MAL-2025-6494"}
 {"name":"dftester-pip","id":"MAL-2024-11575"}
+{"name":"dgl-cu117","id":"MAL-2026-1432"}
 {"name":"dgsinstaller","id":"MAL-2024-12254"}
 {"name":"dhamaka","id":"MAL-2024-5047"}
 {"name":"dhawnz","id":"MAL-2024-5048"}
@@ -1501,6 +1522,7 @@
 {"name":"discordreq99","id":"MAL-2024-5082"}
 {"name":"discordreqq","id":"MAL-2024-5083"}
 {"name":"discordrequ","id":"MAL-2024-5084"}
+{"name":"discordrlbypasser","id":"MAL-2026-1899"}
 {"name":"discordrolex","id":"MAL-2024-5085"}
 {"name":"discordsync","id":"MAL-2025-41662"}
 {"name":"discordwebutil","id":"MAL-2024-5086"}
@@ -1538,6 +1560,7 @@
 {"name":"do-not-install-this-package-001","id":"MAL-2025-192387"}
 {"name":"do-not-install-this-package-002","id":"MAL-2026-163"}
 {"name":"do-not-install-this-package-003","id":"MAL-2026-1018"}
+{"name":"do-not-install-this-package-004","id":"MAL-2026-1436"}
 {"name":"document-inference","id":"MAL-2025-3742"}
 {"name":"donotdownload","id":"MAL-2024-5093"}
 {"name":"donotinstall","id":"MAL-2025-191622"}
@@ -1611,11 +1634,13 @@
 {"name":"ef323refefeffe","id":"MAL-2024-5107"}
 {"name":"ef334343rf3feefefefefeffeefeffe","id":"MAL-2024-5108"}
 {"name":"effre4frferfrf","id":"MAL-2024-5109"}
+{"name":"efghr-honeybee-sdk","id":"MAL-2026-2005"}
 {"name":"egarcia-poc","id":"MAL-2025-191623"}
 {"name":"ehtereum","id":"MAL-2024-9971"}
 {"name":"el1t3","id":"MAL-2025-4217"}
 {"name":"elbloadmonitor","id":"MAL-2025-6499"}
 {"name":"electrum-bch","id":"MAL-2025-47762"}
+{"name":"elleuchdhsolvepwn","id":"MAL-2026-1900"}
 {"name":"embeddings-validation","id":"MAL-2024-5110"}
 {"name":"embeds","id":"MAL-2024-11581"}
 {"name":"emoted","id":"MAL-2025-48890"}
@@ -2562,6 +2587,7 @@
 {"name":"etheurm","id":"MAL-2024-10014"}
 {"name":"ethherium","id":"MAL-2024-10015"}
 {"name":"ethherum","id":"MAL-2024-10016"}
+{"name":"ethical-demo-liviy","id":"MAL-2026-1901"}
 {"name":"ethreeum","id":"MAL-2024-10017"}
 {"name":"ethreium","id":"MAL-2024-10018"}
 {"name":"ethreum","id":"MAL-2024-10019"}
@@ -2711,9 +2737,11 @@
 {"name":"floogle","id":"MAL-2025-41676"}
 {"name":"flophttp","id":"MAL-2024-10028"}
 {"name":"flowfix","id":"MAL-2026-1276"}
+{"name":"flowpeek","id":"MAL-2026-1437"}
 {"name":"fluiddaddy","id":"MAL-2024-5146"}
 {"name":"flyadmin","id":"MAL-2025-41677"}
 {"name":"flycord","id":"MAL-2026-1049"}
+{"name":"flyio-token-client-efgh","id":"MAL-2026-2004"}
 {"name":"fonafx","id":"MAL-2025-191733"}
 {"name":"foop","id":"MAL-2025-927"}
 {"name":"forecolor5","id":"MAL-2024-5147"}
@@ -3087,6 +3115,7 @@
 {"name":"hellohackers","id":"MAL-2025-1977"}
 {"name":"helloharry123c","id":"MAL-2025-192396"}
 {"name":"helloharry123p","id":"MAL-2025-192379"}
+{"name":"helloharry123t-package","id":"MAL-2026-1902"}
 {"name":"hellopythopy","id":"MAL-2024-11606"}
 {"name":"hellopythopyy","id":"MAL-2024-11607"}
 {"name":"hellospa","id":"MAL-2025-191972"}
@@ -3230,6 +3259,7 @@
 {"name":"humunculous5910145","id":"MAL-2025-191637"}
 {"name":"huzzleuo130","id":"MAL-2025-191638"}
 {"name":"huzzleup","id":"MAL-2025-191762"}
+{"name":"hxq-misc-utils-0379","id":"MAL-2026-1453"}
 {"name":"hybrid-sd","id":"MAL-2024-10452"}
 {"name":"hydenmj","id":"MAL-2025-47772"}
 {"name":"hydragame","id":"MAL-2023-3754"}
@@ -3338,6 +3368,7 @@
 {"name":"infourl","id":"MAL-2023-3806"}
 {"name":"infovirtual","id":"MAL-2023-3807"}
 {"name":"infovm","id":"MAL-2023-3808"}
+{"name":"init2winit","id":"MAL-2026-1989"}
 {"name":"initer","id":"MAL-2025-6524"}
 {"name":"initializer","id":"MAL-2024-5261"}
 {"name":"initializers","id":"MAL-2024-5262"}
@@ -3514,6 +3545,7 @@
 {"name":"krisp-audio","id":"MAL-2025-191643"}
 {"name":"ktcalendar","id":"MAL-2023-1890"}
 {"name":"ktusvgeqiu","id":"MAL-2024-5301"}
+{"name":"kvstore-pb2-grpc","id":"MAL-2026-1433"}
 {"name":"kwargs","id":"MAL-2025-6533"}
 {"name":"kynlocker","id":"MAL-2024-5302"}
 {"name":"kzip","id":"MAL-2025-192432"}
@@ -3578,6 +3610,7 @@
 {"name":"libadurlcraft","id":"MAL-2023-3871"}
 {"name":"libari","id":"MAL-2024-5308"}
 {"name":"libaryscraper","id":"MAL-2024-5309"}
+{"name":"libavcodec-extra","id":"MAL-2026-1933"}
 {"name":"libblas3","id":"MAL-2023-8304"}
 {"name":"libbmet","id":"MAL-2024-10641"}
 {"name":"libc-dev","id":"MAL-2026-191"}
@@ -4466,6 +4499,10 @@
 {"name":"loguru-utf8","id":"MAL-2025-192435"}
 {"name":"lolcrazy","id":"MAL-2025-47785"}
 {"name":"loquru","id":"MAL-2025-191784"}
+{"name":"loveahmedclose","id":"MAL-2026-1903"}
+{"name":"loveclose","id":"MAL-2026-1904"}
+{"name":"loveclose1","id":"MAL-2026-1905"}
+{"name":"loveclose2","id":"MAL-2026-1906"}
 {"name":"lowmovers","id":"MAL-2024-5332"}
 {"name":"lowui","id":"MAL-2024-11626"}
 {"name":"loy","id":"MAL-2025-41697"}
@@ -4524,6 +4561,7 @@
 {"name":"malware-test-pack-new","id":"MAL-2024-11629"}
 {"name":"managment","id":"MAL-2025-6545"}
 {"name":"mangasee123","id":"MAL-2024-5348"}
+{"name":"mangrove-sdk","id":"MAL-2026-2006"}
 {"name":"manoj3121pip","id":"MAL-2024-12304"}
 {"name":"manojmacpy","id":"MAL-2024-10040"}
 {"name":"manyhttp","id":"MAL-2024-5349"}
@@ -4614,6 +4652,7 @@
 {"name":"mcp-runcmd-server","id":"MAL-2025-191788"}
 {"name":"mcp-runcommand-server","id":"MAL-2025-191647"}
 {"name":"mcp-runcommand-server2","id":"MAL-2025-191648"}
+{"name":"mcp-transport-proto","id":"MAL-2026-1990"}
 {"name":"mcp-weather-full","id":"MAL-2025-191789"}
 {"name":"mcp-xyz","id":"MAL-2025-4223"}
 {"name":"mcpep","id":"MAL-2023-4741"}
@@ -4770,6 +4809,7 @@
 {"name":"my-fun-tools","id":"MAL-2025-6552"}
 {"name":"my-main-manager","id":"MAL-2024-12308"}
 {"name":"my-service-manager","id":"MAL-2024-12309"}
+{"name":"my-super-lib","id":"MAL-2026-1434"}
 {"name":"my-test-packagexx","id":"MAL-2025-48894"}
 {"name":"myasicapi","id":"MAL-2026-984"}
 {"name":"myethertoolz","id":"MAL-2024-5388"}
@@ -4870,6 +4910,7 @@
 {"name":"np6helperhttptest","id":"MAL-2024-5420"}
 {"name":"nshack","id":"MAL-2024-5421"}
 {"name":"nspacercesolve","id":"MAL-2025-191805"}
+{"name":"nsscache","id":"MAL-2026-1991"}
 {"name":"nt4padyp3","id":"MAL-2024-1625"}
 {"name":"ntoctfutils","id":"MAL-2026-850"}
 {"name":"ntoutils","id":"MAL-2026-823"}
@@ -4883,6 +4924,7 @@
 {"name":"num2words","id":"MAL-2025-6794"}
 {"name":"numberpy","id":"MAL-2024-1396"}
 {"name":"numbervalidator","id":"MAL-2025-41713"}
+{"name":"nump","id":"MAL-2026-2013"}
 {"name":"numpy-req","id":"MAL-2023-1381"}
 {"name":"numpy-selenium","id":"MAL-2023-1382"}
 {"name":"nurset","id":"MAL-2024-10420"}
@@ -5139,6 +5181,7 @@
 {"name":"pepurl","id":"MAL-2023-4845"}
 {"name":"pepvisa","id":"MAL-2023-4846"}
 {"name":"pepvm","id":"MAL-2023-4847"}
+{"name":"perfkitbenchmarker","id":"MAL-2026-1992"}
 {"name":"perfviewer","id":"MAL-2025-191814"}
 {"name":"permsupping","id":"MAL-2025-41717"}
 {"name":"petace","id":"MAL-2025-950"}
@@ -5391,6 +5434,7 @@
 {"name":"prateek-yadav23","id":"MAL-2026-1277"}
 {"name":"presudo-generate","id":"MAL-2025-951"}
 {"name":"pretty-cli-logger","id":"MAL-2025-191816"}
+{"name":"pretty-tabulate","id":"MAL-2026-1480"}
 {"name":"prgoressbar2","id":"MAL-2023-1967"}
 {"name":"prgressbar2","id":"MAL-2023-1968"}
 {"name":"prime-math","id":"MAL-2025-952"}
@@ -5440,7 +5484,12 @@
 {"name":"projectp","id":"MAL-2024-10645"}
 {"name":"projectxlib","id":"MAL-2024-5562"}
 {"name":"prolificdreamer","id":"MAL-2024-11664"}
+{"name":"prometheus-analysis","id":"MAL-2026-1907"}
+{"name":"prometheus-analysis-1","id":"MAL-2026-1908"}
 {"name":"prometheus-api-metrics","id":"MAL-2025-41719"}
+{"name":"prometheus-fast-analysis","id":"MAL-2026-1909"}
+{"name":"prometheus-quick-analysis","id":"MAL-2026-1910"}
+{"name":"prometheus-quicker-analysis","id":"MAL-2026-1911"}
 {"name":"prommpt-toolkit","id":"MAL-2023-1991"}
 {"name":"promogen","id":"MAL-2024-5563"}
 {"name":"promppt-toolkit","id":"MAL-2023-1992"}
@@ -5529,6 +5578,7 @@
 {"name":"ptyhon-binance","id":"MAL-2023-2032"}
 {"name":"ptyorch","id":"MAL-2023-2033"}
 {"name":"public-address-generator","id":"MAL-2024-5574"}
+{"name":"pubsub2inbox","id":"MAL-2026-1993"}
 {"name":"puffioner131","id":"MAL-2024-8025"}
 {"name":"puffionerlolpo2131","id":"MAL-2024-11665"}
 {"name":"pullcc","id":"MAL-2023-4957"}
@@ -6669,6 +6719,7 @@
 {"name":"pymaniac","id":"MAL-2024-5743"}
 {"name":"pymatcha","id":"MAL-2024-12332"}
 {"name":"pyminor","id":"MAL-2023-8582"}
+{"name":"pymnemonic","id":"MAL-2026-1438"}
 {"name":"pymocks","id":"MAL-2022-7426"}
 {"name":"pymulticolor","id":"MAL-2024-5744"}
 {"name":"pynanopro","id":"MAL-2024-5745"}
@@ -6786,6 +6837,7 @@
 {"name":"python-aliyun-sdk-kms","id":"MAL-2023-8366"}
 {"name":"python-aliyun-sdk-rds","id":"MAL-2023-8367"}
 {"name":"python-amazon-doc-utils","id":"MAL-2025-47796"}
+{"name":"python-anchor","id":"MAL-2026-1435"}
 {"name":"python-bbinance","id":"MAL-2023-2105"}
 {"name":"python-biance","id":"MAL-2023-2106"}
 {"name":"python-biannce","id":"MAL-2023-2107"}
@@ -7004,6 +7056,7 @@
 {"name":"qtcolor","id":"MAL-2024-5845"}
 {"name":"qtpv","id":"MAL-2025-191849"}
 {"name":"quantiumbase","id":"MAL-2024-5846"}
+{"name":"quantumania","id":"MAL-2026-1912"}
 {"name":"queryservice-client","id":"MAL-2026-5"}
 {"name":"questpro","id":"MAL-2026-936"}
 {"name":"quickcolors","id":"MAL-2025-3461"}
@@ -7013,6 +7066,7 @@
 {"name":"quicolor","id":"MAL-2025-3462"}
 {"name":"quizdom","id":"MAL-2025-3208"}
 {"name":"qwery-core","id":"MAL-2026-1226"}
+{"name":"qyrm-pipinject4","id":"MAL-2026-2016"}
 {"name":"r-irkernel","id":"MAL-2025-191851"}
 {"name":"radishwxm5","id":"MAL-2026-510"}
 {"name":"raft-dask","id":"MAL-2025-192382"}
@@ -7391,6 +7445,8 @@
 {"name":"roblopython","id":"MAL-2023-1404"}
 {"name":"roblox-py-wrapper","id":"MAL-2024-5949"}
 {"name":"roblox-python-wrapper","id":"MAL-2024-5950"}
+{"name":"robloxapi-test","id":"MAL-2026-1497"}
+{"name":"robloxapi-testy","id":"MAL-2026-1496"}
 {"name":"robloxextra","id":"MAL-2025-6578"}
 {"name":"robloxfollowers","id":"MAL-2024-5951"}
 {"name":"robloxmod","id":"MAL-2024-5952"}
@@ -7406,9 +7462,11 @@
 {"name":"roku-aihub","id":"MAL-2026-1144"}
 {"name":"rolib","id":"MAL-2024-10159"}
 {"name":"rompt-toolkit","id":"MAL-2023-2189"}
+{"name":"ropie","id":"MAL-2026-1577"}
 {"name":"ropython","id":"MAL-2024-5956"}
 {"name":"ros2-demo-py","id":"MAL-2025-41750"}
 {"name":"route-search","id":"MAL-2024-12340"}
+{"name":"rowrap","id":"MAL-2026-1544"}
 {"name":"rozenitro","id":"MAL-2024-5957"}
 {"name":"rpogressbar2","id":"MAL-2023-2190"}
 {"name":"rpompt-toolkit","id":"MAL-2023-2191"}
@@ -8602,6 +8660,7 @@
 {"name":"sparseml-nightly","id":"MAL-2025-6590"}
 {"name":"sparsezoo-nightly","id":"MAL-2025-6591"}
 {"name":"sparsify-nightly","id":"MAL-2025-6592"}
+{"name":"spatialmedia","id":"MAL-2026-1994"}
 {"name":"speed-testing-nt","id":"MAL-2025-191874"}
 {"name":"speed-testing-vps","id":"MAL-2025-191875"}
 {"name":"speedd-testing-bot","id":"MAL-2025-191876"}
@@ -8709,6 +8768,7 @@
 {"name":"subdomainer","id":"MAL-2025-3278"}
 {"name":"subsys-client","id":"MAL-2025-988"}
 {"name":"subsys-counter","id":"MAL-2024-12353"}
+{"name":"suficloud","id":"MAL-2026-1913"}
 {"name":"sumo-py-cli","id":"MAL-2024-11715"}
 {"name":"sunrequests","id":"MAL-2024-11716"}
 {"name":"superad","id":"MAL-2023-6838"}
@@ -8831,6 +8891,7 @@
 {"name":"tablixs","id":"MAL-2025-193013"}
 {"name":"tabulapys","id":"MAL-2026-700"}
 {"name":"tabulation","id":"MAL-2024-6095"}
+{"name":"tabullate","id":"MAL-2026-1914"}
 {"name":"tabullates","id":"MAL-2026-562"}
 {"name":"tahalib","id":"MAL-2024-6096"}
 {"name":"talbat","id":"MAL-2025-191885"}
@@ -8859,6 +8920,7 @@
 {"name":"telebot-info","id":"MAL-2026-930"}
 {"name":"telebot-infoe","id":"MAL-2026-934"}
 {"name":"telebot-infoo","id":"MAL-2026-935"}
+{"name":"telegramdatas","id":"MAL-2026-1498"}
 {"name":"telegramdoxing","id":"MAL-2025-191888"}
 {"name":"telegrampremiumfix","id":"MAL-2025-41771"}
 {"name":"telegrem","id":"MAL-2025-192943"}
@@ -8997,6 +9059,7 @@
 {"name":"this-is-malware","id":"MAL-2023-1420"}
 {"name":"this-is-poc-fortesting-dontinstall-12345","id":"MAL-2024-10174"}
 {"name":"this-is-vvvv","id":"MAL-2025-41779"}
+{"name":"thisismytest","id":"MAL-2026-2017"}
 {"name":"thisisthedaventest","id":"MAL-2025-41780"}
 {"name":"thisisthedaventestz","id":"MAL-2025-41781"}
 {"name":"thoughtspot-rest-api-sdk","id":"MAL-2025-6601"}
