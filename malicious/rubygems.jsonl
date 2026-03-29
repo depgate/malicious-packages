@@ -794,6 +794,8 @@
 {"name":"message_gateway","id":"MAL-2025-6265"}
 {"name":"microsoft_kiota_http","id":"MAL-2023-11"}
 {"name":"modified_bayes","id":"MAL-2023-1429"}
+{"name":"monolith-twirp-codingagentintegrations-codingagentintegrations","id":"MAL-2026-2265"}
+{"name":"monolith-twirp-copilot-registry","id":"MAL-2026-2266"}
 {"name":"monolith-twirp-examples-octocat","id":"MAL-2025-46947"}
 {"name":"monolith-twirp-features-actors","id":"MAL-2025-46948"}
 {"name":"monolith-twirp-features-core","id":"MAL-2025-46912"}
@@ -804,6 +806,7 @@
 {"name":"monolith-twirp-git_src_migrator-monolith","id":"MAL-2025-46928"}
 {"name":"monolith-twirp-github-repositories","id":"MAL-2025-46929"}
 {"name":"monolith-twirp-kredz-core","id":"MAL-2025-46952"}
+{"name":"monolith-twirp-loops-core","id":"MAL-2026-2259"}
 {"name":"monolith-twirp-mailreplies-replies","id":"MAL-2025-46930"}
 {"name":"monolith-twirp-merge-queue-go-mergequeuemonolith","id":"MAL-2025-46931"}
 {"name":"monolith-twirp-merge-queue-go-mergequeueservice","id":"MAL-2025-46932"}
@@ -816,9 +819,15 @@
 {"name":"monolith-twirp-packageregistry-auditlog","id":"MAL-2025-46935"}
 {"name":"monolith-twirp-pages-pagesdeployerapi","id":"MAL-2025-46955"}
 {"name":"monolith-twirp-pages-pagesdfsapi","id":"MAL-2025-46956"}
+{"name":"monolith-twirp-partitioning-pull_requests","id":"MAL-2026-2267"}
 {"name":"monolith-twirp-pipelinemonitor-monitoring","id":"MAL-2025-46957"}
 {"name":"monolith-twirp-proxima-enterprisemanagement","id":"MAL-2025-46915"}
+{"name":"monolith-twirp-pullsd-pullrequestinfo","id":"MAL-2026-2260"}
+{"name":"monolith-twirp-pullsd-repositories","id":"MAL-2026-2261"}
+{"name":"monolith-twirp-pullsd-teams","id":"MAL-2026-2262"}
 {"name":"monolith-twirp-registrymetadata-core","id":"MAL-2025-46916"}
+{"name":"monolith-twirp-reposinsights-reposinsights","id":"MAL-2026-2263"}
+{"name":"monolith-twirp-scribe-scribe","id":"MAL-2026-2264"}
 {"name":"monolith-twirp-snippy-snippy","id":"MAL-2025-46917"}
 {"name":"monolith-twirp-spokesd-core","id":"MAL-2025-46936"}
 {"name":"monolith-twirp-support-helphub","id":"MAL-2025-46937"}
