@@ -210,6 +210,8 @@
 {"name":"aphisher","id":"MAL-2025-6434"}
 {"name":"aphisherman","id":"MAL-2025-6435"}
 {"name":"aphorism-lib","id":"MAL-2025-191683"}
+{"name":"api-analysis","id":"MAL-2026-2556"}
+{"name":"api-feature","id":"MAL-2026-2555"}
 {"name":"api-hypixel","id":"MAL-2024-4769"}
 {"name":"api-requester2","id":"MAL-2024-4770"}
 {"name":"apiclear","id":"MAL-2024-4771"}
@@ -569,6 +571,8 @@
 {"name":"bobikssf","id":"MAL-2023-1448"}
 {"name":"bobotosoji","id":"MAL-2024-4824"}
 {"name":"bogdi","id":"MAL-2024-4825"}
+{"name":"bogus-nydus-op","id":"MAL-2026-2538"}
+{"name":"bonsaitree1","id":"MAL-2026-2531"}
 {"name":"boost-tool","id":"MAL-2024-4826"}
 {"name":"boost-tool-api","id":"MAL-2024-4827"}
 {"name":"boostbot","id":"MAL-2024-4828"}
@@ -1306,6 +1310,7 @@
 {"name":"cusromtkinter","id":"MAL-2024-5016"}
 {"name":"custm","id":"MAL-2024-5017"}
 {"name":"customekinter","id":"MAL-2024-5018"}
+{"name":"customer-local-ops","id":"MAL-2026-2539"}
 {"name":"customtikinter","id":"MAL-2024-5019"}
 {"name":"customtinter","id":"MAL-2024-5020"}
 {"name":"customtkintet","id":"MAL-2024-5021"}
@@ -1369,10 +1374,16 @@
 {"name":"data-platform-observability-validation","id":"MAL-2024-5031"}
 {"name":"data-processing-utils","id":"MAL-2025-47755"}
 {"name":"database-roblox","id":"MAL-2026-2289"}
+{"name":"databaselooks","id":"MAL-2026-2501"}
+{"name":"databasenaps","id":"MAL-2026-2502"}
 {"name":"databaseroboat","id":"MAL-2026-2295"}
 {"name":"databaseroboats","id":"MAL-2026-2305"}
 {"name":"databaserobooms","id":"MAL-2026-2489"}
 {"name":"databaserotacos","id":"MAL-2026-2490"}
+{"name":"databasesupalake","id":"MAL-2026-2559"}
+{"name":"databasesupasafe","id":"MAL-2026-2557"}
+{"name":"databasetapes","id":"MAL-2026-2494"}
+{"name":"databasetrace","id":"MAL-2026-2542"}
 {"name":"databricks-clean-room-orchestrator","id":"MAL-2026-2146"}
 {"name":"dataflux-pytorch","id":"MAL-2026-1988"}
 {"name":"datagov-harvester","id":"MAL-2025-913"}
@@ -1667,6 +1678,7 @@
 {"name":"elleuchdhsolvepwn","id":"MAL-2026-1900"}
 {"name":"embeddings-validation","id":"MAL-2024-5110"}
 {"name":"embeds","id":"MAL-2024-11581"}
+{"name":"emd-ext","id":"MAL-2026-2532"}
 {"name":"emoted","id":"MAL-2025-48890"}
 {"name":"emumonitor","id":"MAL-2024-10450"}
 {"name":"enchantv","id":"MAL-2023-8763"}
@@ -2879,14 +2891,18 @@
 {"name":"gateway-framework","id":"MAL-2025-6508"}
 {"name":"gatr","id":"MAL-2026-7"}
 {"name":"gauravtest123","id":"MAL-2025-41679"}
+{"name":"gc-grocery-api","id":"MAL-2026-2521"}
 {"name":"gcdt-bundler","id":"MAL-2025-6509"}
 {"name":"gclient-eval","id":"MAL-2025-191737"}
 {"name":"gcpipwrap","id":"MAL-2026-2113"}
+{"name":"gd-auth","id":"MAL-2026-2540"}
+{"name":"gd-auth-sso","id":"MAL-2026-2541"}
 {"name":"gearbest-parser","id":"MAL-2025-41680"}
 {"name":"gemini-ai-api","id":"MAL-2026-2268"}
 {"name":"gen-agent-fingerprint","id":"MAL-2024-5171"}
 {"name":"gen-user-random-agent","id":"MAL-2024-11599"}
 {"name":"generator-meeseeks","id":"MAL-2024-5172"}
+{"name":"genesis-1p-tools-rpm-bundle","id":"MAL-2026-2503"}
 {"name":"genqrcode","id":"MAL-2024-5173"}
 {"name":"gentorqkkh","id":"MAL-2024-10030"}
 {"name":"gentorqkkh1","id":"MAL-2024-10031"}
@@ -2983,6 +2999,7 @@
 {"name":"google-search-result","id":"MAL-2026-874"}
 {"name":"googleapis-googleapis-grpc-python","id":"MAL-2025-1976"}
 {"name":"gorilla2","id":"MAL-2024-5186"}
+{"name":"gprofiler-logging","id":"MAL-2026-2514"}
 {"name":"gpt-requests","id":"MAL-2024-5187"}
 {"name":"gptall","id":"MAL-2025-191742"}
 {"name":"gpu-discovery","id":"MAL-2024-12373"}
@@ -3026,6 +3043,7 @@
 {"name":"grandver","id":"MAL-2023-3668"}
 {"name":"grandvisa","id":"MAL-2023-3669"}
 {"name":"grandvm","id":"MAL-2023-3670"}
+{"name":"granulate-utils","id":"MAL-2026-2515"}
 {"name":"graphalgo","id":"MAL-2025-6514"}
 {"name":"graphcore-cloud-tools","id":"MAL-2024-10032"}
 {"name":"graphdata","id":"MAL-2024-5189"}
@@ -3161,6 +3179,7 @@
 {"name":"helrmerter","id":"MAL-2024-5201"}
 {"name":"hera-mapmaking-visibilitysimulation","id":"MAL-2025-41683"}
 {"name":"heroku-tl","id":"MAL-2025-2967"}
+{"name":"hex2pcap","id":"MAL-2026-2546"}
 {"name":"hexadec","id":"MAL-2025-191753"}
 {"name":"hexadecpy","id":"MAL-2025-191754"}
 {"name":"hexcolured","id":"MAL-2024-5202"}
@@ -3478,6 +3497,7 @@
 {"name":"itpython","id":"MAL-2023-1888"}
 {"name":"iufgbewroibgfowiebc","id":"MAL-2024-9306"}
 {"name":"iwantsafecheckit","id":"MAL-2026-2290"}
+{"name":"ixosmonitoring","id":"MAL-2026-2547"}
 {"name":"j5gerggnpuiwerbngpiutbgn0iutb0p","id":"MAL-2024-9408"}
 {"name":"j5gnpfweguiwerbngpiutbgn0iutb0pfwbdfsfef","id":"MAL-2024-9409"}
 {"name":"j5gnpfweguiwerbngpiutbgn0iutb0pfwef","id":"MAL-2024-11617"}
@@ -3519,6 +3539,7 @@
 {"name":"jupyter-pytest-fi-console","id":"MAL-2024-5287"}
 {"name":"just-framework","id":"MAL-2025-191770"}
 {"name":"just-test-framework","id":"MAL-2025-938"}
+{"name":"just4testlm","id":"MAL-2026-2519"}
 {"name":"justanything","id":"MAL-2025-6531"}
 {"name":"jwrincident","id":"MAL-2026-1092"}
 {"name":"jxhcfdwvun","id":"MAL-2024-5288"}
@@ -3580,11 +3601,13 @@
 {"name":"kokokoako","id":"MAL-2023-8566"}
 {"name":"kongstrong","id":"MAL-2024-10039"}
 {"name":"kotlin-stdlib-jdk8","id":"MAL-2025-939"}
+{"name":"kraken-trader","id":"MAL-2026-2517"}
 {"name":"kraken-virus","id":"MAL-2025-47780"}
 {"name":"kraken123","id":"MAL-2025-191778"}
 {"name":"krakenvirus","id":"MAL-2025-47781"}
 {"name":"krbutils","id":"MAL-2026-863"}
 {"name":"krisp-audio","id":"MAL-2025-191643"}
+{"name":"ks-hex2pcap","id":"MAL-2026-2548"}
 {"name":"ktcalendar","id":"MAL-2023-1890"}
 {"name":"ktusvgeqiu","id":"MAL-2024-5301"}
 {"name":"kube-health-tools","id":"MAL-2026-2327"}
@@ -4957,6 +4980,7 @@
 {"name":"nofex-hack","id":"MAL-2025-41711"}
 {"name":"nofexhack","id":"MAL-2025-41712"}
 {"name":"nonertheguy","id":"MAL-2024-5415"}
+{"name":"noonhelpers","id":"MAL-2026-2530"}
 {"name":"noonutil","id":"MAL-2025-47788"}
 {"name":"not-so-evil-package-spaceylad","id":"MAL-2024-5416"}
 {"name":"notary-client","id":"MAL-2025-191804"}
@@ -5257,6 +5281,7 @@
 {"name":"pgmysql","id":"MAL-2025-2986"}
 {"name":"phantomdecoders","id":"MAL-2024-10103"}
 {"name":"phantomdecoderss","id":"MAL-2024-10104"}
+{"name":"phasedibd","id":"MAL-2026-2533"}
 {"name":"phishermanx","id":"MAL-2025-6563"}
 {"name":"photo-extractor","id":"MAL-2026-2488"}
 {"name":"physisyphus","id":"MAL-2024-10455"}
@@ -6909,6 +6934,7 @@
 {"name":"pytho-binance","id":"MAL-2023-2104"}
 {"name":"pythob","id":"MAL-2024-10130"}
 {"name":"pythom","id":"MAL-2024-10131"}
+{"name":"python-aickerso","id":"MAL-2026-2549"}
 {"name":"python-aiogram-telegram-updater","id":"MAL-2026-2278"}
 {"name":"python-alibabacloud-sdk-core","id":"MAL-2023-8362"}
 {"name":"python-alibabacloud-tea-openapi","id":"MAL-2023-8363"}
@@ -7525,6 +7551,11 @@
 {"name":"rllib3","id":"MAL-2023-2187"}
 {"name":"rmrentryutils","id":"MAL-2024-5947"}
 {"name":"ro-py-wrapper","id":"MAL-2024-5948"}
+{"name":"robase","id":"MAL-2026-2543"}
+{"name":"robase-fallback","id":"MAL-2026-2562"}
+{"name":"robase-help","id":"MAL-2026-2561"}
+{"name":"robase-installer","id":"MAL-2026-2563"}
+{"name":"robase-utils","id":"MAL-2026-2558"}
 {"name":"roblopython","id":"MAL-2023-1404"}
 {"name":"roblox-py-wrapper","id":"MAL-2024-5949"}
 {"name":"roblox-python-wrapper","id":"MAL-2024-5950"}
@@ -7540,6 +7571,8 @@
 {"name":"roboat-addition","id":"MAL-2026-2279"}
 {"name":"roboat-additions","id":"MAL-2026-2280"}
 {"name":"roboat-util","id":"MAL-2026-2142"}
+{"name":"roboat-utilities","id":"MAL-2026-2544"}
+{"name":"roboat-utils","id":"MAL-2026-2512"}
 {"name":"roboated","id":"MAL-2026-2143"}
 {"name":"roboats-addition","id":"MAL-2026-2281"}
 {"name":"robustinfer","id":"MAL-2026-97"}
@@ -8575,6 +8608,7 @@
 {"name":"semurgdb","id":"MAL-2024-5986"}
 {"name":"sendtowev","id":"MAL-2024-11704"}
 {"name":"sensadway","id":"MAL-2025-6582"}
+{"name":"sentinel-tool","id":"MAL-2026-2516"}
 {"name":"sentinelone","id":"MAL-2024-5987"}
 {"name":"sentinelone-sdk","id":"MAL-2024-5988"}
 {"name":"sentinelonesdk","id":"MAL-2024-5989"}
@@ -8624,6 +8658,7 @@
 {"name":"si-python","id":"MAL-2024-6009"}
 {"name":"siamphishtest","id":"MAL-2024-6010"}
 {"name":"sickit-learn","id":"MAL-2023-2244"}
+{"name":"siempyl-sumo","id":"MAL-2026-2534"}
 {"name":"siimplejson","id":"MAL-2023-2245"}
 {"name":"siitoogether","id":"MAL-2025-191867"}
 {"name":"sikit-learn","id":"MAL-2023-2246"}
@@ -8812,6 +8847,7 @@
 {"name":"sselenium","id":"MAL-2023-2288"}
 {"name":"ssimplejson","id":"MAL-2023-2289"}
 {"name":"ssolana","id":"MAL-2023-2290"}
+{"name":"st-payment","id":"MAL-2026-2522"}
 {"name":"st-py-de-cli","id":"MAL-2025-41768"}
 {"name":"stackstorm-runner-action-chain","id":"MAL-2024-11714"}
 {"name":"stake-auto-better","id":"MAL-2024-6037"}
@@ -10214,6 +10250,7 @@
 {"name":"tryhackme-offensive","id":"MAL-2024-6170"}
 {"name":"ts-wuzzi","id":"MAL-2024-6171"}
 {"name":"tsesyx","id":"MAL-2025-41790"}
+{"name":"ttam","id":"MAL-2026-2535"}
 {"name":"ttam-ploy","id":"MAL-2026-447"}
 {"name":"ttat-api","id":"MAL-2024-12366"}
 {"name":"ttat-api-test","id":"MAL-2024-12367"}
@@ -10795,6 +10832,7 @@
 {"name":"yfnance","id":"MAL-2023-2461"}
 {"name":"yfniance","id":"MAL-2023-2462"}
 {"name":"ygame","id":"MAL-2023-2463"}
+{"name":"yhaplo1","id":"MAL-2026-2536"}
 {"name":"yolov8mini","id":"MAL-2025-3484"}
 {"name":"your-module-name","id":"MAL-2025-6622"}
 {"name":"youreallydontwantthispackage2131","id":"MAL-2024-10241"}
