@@ -717,6 +717,7 @@
 {"name":"github_org-stats","id":"MAL-2024-6934"}
 {"name":"github_release-stats","id":"MAL-2024-6935"}
 {"name":"gitlab-glfm-markdown","id":"MAL-2023-1425"}
+{"name":"gitlab-orchestrator","id":"MAL-2026-2814"}
 {"name":"gitstats_rb","id":"MAL-2024-6936"}
 {"name":"gitstats_ruby","id":"MAL-2024-6937"}
 {"name":"google-apis-androidpublisher_v2","id":"MAL-2023-1426"}
@@ -822,9 +823,11 @@
 {"name":"monolith-twirp-partitioning-pull_requests","id":"MAL-2026-2267"}
 {"name":"monolith-twirp-pipelinemonitor-monitoring","id":"MAL-2025-46957"}
 {"name":"monolith-twirp-proxima-enterprisemanagement","id":"MAL-2025-46915"}
+{"name":"monolith-twirp-pullsd-authorization","id":"MAL-2026-2815"}
 {"name":"monolith-twirp-pullsd-pullrequestinfo","id":"MAL-2026-2260"}
 {"name":"monolith-twirp-pullsd-repositories","id":"MAL-2026-2261"}
 {"name":"monolith-twirp-pullsd-teams","id":"MAL-2026-2262"}
+{"name":"monolith-twirp-pullsd-users","id":"MAL-2026-2816"}
 {"name":"monolith-twirp-registrymetadata-core","id":"MAL-2025-46916"}
 {"name":"monolith-twirp-reposinsights-reposinsights","id":"MAL-2026-2263"}
 {"name":"monolith-twirp-scribe-scribe","id":"MAL-2026-2264"}
