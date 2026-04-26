@@ -626,6 +626,8 @@
 {"name":"bugbounty","id":"MAL-2024-11541"}
 {"name":"bughunter9","id":"MAL-2024-9953"}
 {"name":"bugscanx","id":"MAL-2025-904"}
+{"name":"build-metadata-logger","id":"MAL-2026-2965"}
+{"name":"buildenv-collector","id":"MAL-2026-2964"}
 {"name":"buildenv-telemetry","id":"MAL-2026-2664"}
 {"name":"buildoslibuploader","id":"MAL-2024-4839"}
 {"name":"buildpeople","id":"MAL-2025-47751"}
@@ -1364,6 +1366,7 @@
 {"name":"cxfreezepy","id":"MAL-2023-2692"}
 {"name":"cxt","id":"MAL-2023-1755"}
 {"name":"cyberart","id":"MAL-2024-9265"}
+{"name":"cycode-dev","id":"MAL-2026-2957"}
 {"name":"cyptocompare","id":"MAL-2023-1756"}
 {"name":"cyptofeed","id":"MAL-2023-1757"}
 {"name":"cyrptocompare","id":"MAL-2023-1758"}
@@ -3533,6 +3536,7 @@
 {"name":"javier-vidal","id":"MAL-2024-10036"}
 {"name":"jd-mlops","id":"MAL-2025-6528"}
 {"name":"jfqyotpnvb","id":"MAL-2024-5279"}
+{"name":"jie-utility-package","id":"MAL-2026-3022"}
 {"name":"jinja22","id":"MAL-2025-41693"}
 {"name":"jirawrapped","id":"MAL-2025-6529"}
 {"name":"jksandbox","id":"MAL-2024-5280"}
@@ -3669,6 +3673,7 @@
 {"name":"lcick","id":"MAL-2023-1891"}
 {"name":"learning-curve-projects","id":"MAL-2026-618"}
 {"name":"learning-pypi-demo-nisimi","id":"MAL-2025-47782"}
+{"name":"leavemealone","id":"MAL-2026-2948"}
 {"name":"legendevil1","id":"MAL-2026-256"}
 {"name":"leip","id":"MAL-2025-6534"}
 {"name":"letters-font","id":"MAL-2024-5307"}
@@ -4630,6 +4635,8 @@
 {"name":"lyft-service","id":"MAL-2024-1142"}
 {"name":"lyft-settings","id":"MAL-2024-1105"}
 {"name":"lyft-stats","id":"MAL-2024-1106"}
+{"name":"lyrox","id":"MAL-2026-3002"}
+{"name":"lyroxcoder","id":"MAL-2026-3015"}
 {"name":"lyroxpy","id":"MAL-2026-841"}
 {"name":"m5tlnyakblwa","id":"MAL-2025-5118"}
 {"name":"m5tlprovetomegz","id":"MAL-2025-41699"}
@@ -4875,6 +4882,9 @@
 {"name":"monlith","id":"MAL-2024-11636"}
 {"name":"monoliht","id":"MAL-2024-11637"}
 {"name":"monolit","id":"MAL-2024-11638"}
+{"name":"moonbit-locale-compat","id":"MAL-2026-2945"}
+{"name":"moonbit-metrics-validator","id":"MAL-2026-2946"}
+{"name":"moonbit-schema-utils","id":"MAL-2026-2947"}
 {"name":"moonitoring","id":"MAL-2025-2976"}
 {"name":"moooo","id":"MAL-2026-2666"}
 {"name":"more-colors","id":"MAL-2025-41702"}
@@ -4919,6 +4929,7 @@
 {"name":"my-first-pypi-demo","id":"MAL-2025-191651"}
 {"name":"my-fun-tools","id":"MAL-2025-6552"}
 {"name":"my-main-manager","id":"MAL-2024-12308"}
+{"name":"my-package-jiecub3","id":"MAL-2026-2962"}
 {"name":"my-service-manager","id":"MAL-2024-12309"}
 {"name":"my-super-lib","id":"MAL-2026-1434"}
 {"name":"my-test-packagexx","id":"MAL-2025-48894"}
@@ -5176,6 +5187,7 @@
 {"name":"oraceldb","id":"MAL-2026-866"}
 {"name":"oracle-tools","id":"MAL-2024-11650"}
 {"name":"orion-algo-extrapol","id":"MAL-2024-11651"}
+{"name":"ort-moe","id":"MAL-2026-3034"}
 {"name":"os-numpy","id":"MAL-2023-1384"}
 {"name":"osanlizer","id":"MAL-2025-47792"}
 {"name":"osbeautify","id":"MAL-2024-5436"}
@@ -5250,6 +5262,7 @@
 {"name":"pathfiles","id":"MAL-2026-696"}
 {"name":"pathfinderpy","id":"MAL-2024-5460"}
 {"name":"pathfound","id":"MAL-2024-5461"}
+{"name":"pathjoin","id":"MAL-2026-2949"}
 {"name":"pathlib-v2-utility","id":"MAL-2026-697"}
 {"name":"paws-room-acoustics-simulator","id":"MAL-2024-10828"}
 {"name":"paypalad","id":"MAL-2023-4815"}
@@ -5577,6 +5590,7 @@
 {"name":"prmduc193","id":"MAL-2025-191818"}
 {"name":"prmopt-toolkit","id":"MAL-2023-1969"}
 {"name":"prmpt-toolkit","id":"MAL-2023-1970"}
+{"name":"process-support","id":"MAL-2026-3001"}
 {"name":"procoder","id":"MAL-2026-2835"}
 {"name":"prodaccess","id":"MAL-2026-2303"}
 {"name":"prof-qu","id":"MAL-2025-191819"}
@@ -5643,6 +5657,7 @@
 {"name":"prompt-ttoolkit","id":"MAL-2023-2009"}
 {"name":"promptcolor","id":"MAL-2024-5564"}
 {"name":"promptcolors","id":"MAL-2024-5565"}
+{"name":"promptflow-runtime","id":"MAL-2026-3035"}
 {"name":"promt-toolkit","id":"MAL-2023-2010"}
 {"name":"promtp-toolkit","id":"MAL-2023-2011"}
 {"name":"proofad","id":"MAL-2023-4931"}
@@ -6691,6 +6706,7 @@
 {"name":"pycoloringv9","id":"MAL-2024-5661"}
 {"name":"pycolorio","id":"MAL-2024-5662"}
 {"name":"pycolorlib","id":"MAL-2024-10114"}
+{"name":"pycolorlib001","id":"MAL-2026-3042"}
 {"name":"pycolorlib3","id":"MAL-2026-2433"}
 {"name":"pycolorlibaryv1","id":"MAL-2024-5663"}
 {"name":"pycolorom","id":"MAL-2026-96"}
@@ -6879,6 +6895,7 @@
 {"name":"pypackagescraper","id":"MAL-2024-5757"}
 {"name":"pypackagescraping","id":"MAL-2024-5758"}
 {"name":"pypackscraper","id":"MAL-2024-10120"}
+{"name":"pypdf-fork","id":"MAL-2026-2999"}
 {"name":"pypep","id":"MAL-2023-5795"}
 {"name":"pypi-package-explore","id":"MAL-2026-593"}
 {"name":"pypiele","id":"MAL-2023-8584"}
@@ -7200,7 +7217,9 @@
 {"name":"questpro","id":"MAL-2026-936"}
 {"name":"quickcolors","id":"MAL-2025-3461"}
 {"name":"quickscan-scraper","id":"MAL-2024-5847"}
+{"name":"quicksolving","id":"MAL-2026-3044"}
 {"name":"quicksort-pro","id":"MAL-2025-191850"}
+{"name":"quicktestybesty","id":"MAL-2026-3045"}
 {"name":"quickwebbasicauth","id":"MAL-2024-1643"}
 {"name":"quicolor","id":"MAL-2025-3462"}
 {"name":"quizdom","id":"MAL-2025-3208"}
@@ -7292,6 +7311,7 @@
 {"name":"raylink","id":"MAL-2024-10587"}
 {"name":"raylinks","id":"MAL-2024-10589"}
 {"name":"rblx-api","id":"MAL-2026-2859"}
+{"name":"rblx-studio-api","id":"MAL-2026-2863"}
 {"name":"rblxfando","id":"MAL-2025-4237"}
 {"name":"rblxsetup","id":"MAL-2025-41731"}
 {"name":"rbx-autohit","id":"MAL-2025-41732"}
@@ -7596,7 +7616,9 @@
 {"name":"robase-help","id":"MAL-2026-2561"}
 {"name":"robase-install","id":"MAL-2026-2625"}
 {"name":"robase-installer","id":"MAL-2026-2563"}
+{"name":"robase-library-quick-install","id":"MAL-2026-3041"}
 {"name":"robase-quick-install","id":"MAL-2026-2821"}
+{"name":"robase-setup","id":"MAL-2026-2864"}
 {"name":"robase-utils","id":"MAL-2026-2558"}
 {"name":"roblopython","id":"MAL-2023-1404"}
 {"name":"roblox-py-wrapper","id":"MAL-2024-5949"}
@@ -7630,6 +7652,7 @@
 {"name":"ropie","id":"MAL-2026-1577"}
 {"name":"ropython","id":"MAL-2024-5956"}
 {"name":"ros2-demo-py","id":"MAL-2025-41750"}
+{"name":"rosolver","id":"MAL-2026-3043"}
 {"name":"route-search","id":"MAL-2024-12340"}
 {"name":"rowrap","id":"MAL-2026-1544"}
 {"name":"rowrapee","id":"MAL-2026-2122"}
@@ -8998,6 +9021,7 @@
 {"name":"svchost","id":"MAL-2026-2628"}
 {"name":"svcmanagement","id":"MAL-2025-47801"}
 {"name":"svcmanager","id":"MAL-2025-191883"}
+{"name":"swampo","id":"MAL-2026-3031"}
 {"name":"swapoc","id":"MAL-2025-989"}
 {"name":"swiftypy","id":"MAL-2024-6054"}
 {"name":"swiv","id":"MAL-2025-6897"}
@@ -9169,6 +9193,7 @@
 {"name":"test-package-sample","id":"MAL-2024-10169"}
 {"name":"test-packages1","id":"MAL-2024-12359"}
 {"name":"test-packages2","id":"MAL-2024-12360"}
+{"name":"test-pkg-jie","id":"MAL-2026-3023"}
 {"name":"test-poc-package-for-session","id":"MAL-2026-502"}
 {"name":"test-poc-package-for-session-2","id":"MAL-2026-503"}
 {"name":"test-test-asd-1","id":"MAL-2024-11722"}
@@ -10312,6 +10337,7 @@
 {"name":"twilio-rest","id":"MAL-2025-3012"}
 {"name":"twittter","id":"MAL-2024-6173"}
 {"name":"type-extension","id":"MAL-2024-10732"}
+{"name":"typelimagic","id":"MAL-2026-2963"}
 {"name":"types-for-adobe","id":"MAL-2024-1186"}
 {"name":"typing-extension","id":"MAL-2024-10733"}
 {"name":"typing-extensions-plus","id":"MAL-2025-191914"}
@@ -10794,6 +10820,7 @@
 {"name":"xfilesyncerx","id":"MAL-2024-6221"}
 {"name":"xhttpsp","id":"MAL-2024-6222"}
 {"name":"xiedemo","id":"MAL-2024-6223"}
+{"name":"xinference","id":"MAL-2026-3000"}
 {"name":"xlatency","id":"MAL-2024-6224"}
 {"name":"xllsxwriter","id":"MAL-2023-2421"}
 {"name":"xlssxwriter","id":"MAL-2023-2422"}
