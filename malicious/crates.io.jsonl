@@ -1,4 +1,9 @@
+{"name":"amzn-codewhisperer-streaming-client","id":"MAL-2026-3103"}
+{"name":"amzn-consolas-client","id":"MAL-2026-3101"}
 {"name":"littest","id":"MAL-2023-8429"}
+{"name":"lsh","id":"MAL-2026-3126"}
 {"name":"mysten-metrics","id":"MAL-2026-2958"}
 {"name":"replit_ruspty","id":"MAL-2025-49350"}
 {"name":"rustdecimal","id":"MAL-2022-1"}
+{"name":"semantic-search-client","id":"MAL-2026-3102"}
+{"name":"supertag","id":"MAL-2026-3129"}
