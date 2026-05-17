@@ -749,6 +749,13 @@
 {"name":"kaleido","id":"MAL-2026-1917"}
 {"name":"kevin-thompson","id":"MAL-2024-6952"}
 {"name":"kevins-propietary_brain","id":"MAL-2024-6953"}
+{"name":"knot-activesupport-logger","id":"MAL-2026-3630"}
+{"name":"knot-date-utils-rb","id":"MAL-2026-3631"}
+{"name":"knot-devise-jwt-helper","id":"MAL-2026-3632"}
+{"name":"knot-rack-session-store","id":"MAL-2026-3633"}
+{"name":"knot-rails-assets-pipeline","id":"MAL-2026-3634"}
+{"name":"knot-rspec-formatter-json","id":"MAL-2026-3635"}
+{"name":"knot-simple-formatter","id":"MAL-2026-3636"}
 {"name":"komojuu","id":"MAL-2025-1508"}
 {"name":"kwai-gitlab","id":"MAL-2024-6954"}
 {"name":"lang-cards","id":"MAL-2024-6955"}
