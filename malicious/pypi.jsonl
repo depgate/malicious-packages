@@ -2882,6 +2882,7 @@
 {"name":"fortnoob123","id":"MAL-2024-5159"}
 {"name":"fortynite","id":"MAL-2024-5160"}
 {"name":"foundry-jupyter-extension","id":"MAL-2025-6248"}
+{"name":"foundry-utils","id":"MAL-2026-3834"}
 {"name":"foungases","id":"MAL-2024-5161"}
 {"name":"fquant","id":"MAL-2025-41678"}
 {"name":"fredli","id":"MAL-2023-3575"}
@@ -6876,6 +6877,7 @@
 {"name":"pydllcfg","id":"MAL-2024-11672"}
 {"name":"pydoxing","id":"MAL-2025-4230"}
 {"name":"pyefflorer","id":"MAL-2023-8570"}
+{"name":"pyenvprep","id":"MAL-2026-3829"}
 {"name":"pyethereum","id":"MAL-2025-956"}
 {"name":"pyethereum2345","id":"MAL-2025-957"}
 {"name":"pyexecutorsme","id":"MAL-2026-3741"}
@@ -8966,6 +8968,7 @@
 {"name":"solana-utils","id":"MAL-2025-2999"}
 {"name":"solana-wallet-sdk","id":"MAL-2026-3376"}
 {"name":"solana-wallet-utils","id":"MAL-2026-3382"}
+{"name":"solana-web3-alt","id":"MAL-2026-3835"}
 {"name":"solanaa","id":"MAL-2023-2279"}
 {"name":"solanakit","id":"MAL-2026-2837"}
 {"name":"solanautil","id":"MAL-2025-4241"}
@@ -9259,6 +9262,7 @@
 {"name":"taoreg","id":"MAL-2024-11718"}
 {"name":"tap-wordpress","id":"MAL-2026-2151"}
 {"name":"target-iceberg","id":"MAL-2026-2152"}
+{"name":"tarpackage","id":"MAL-2026-4166"}
 {"name":"tarseir","id":"MAL-2024-10462"}
 {"name":"tarsie","id":"MAL-2024-10463"}
 {"name":"tarsire","id":"MAL-2024-10464"}
@@ -10668,6 +10672,8 @@
 {"name":"verpy","id":"MAL-2023-7813"}
 {"name":"vertica-parser","id":"MAL-2024-6193"}
 {"name":"vervisa","id":"MAL-2023-7814"}
+{"name":"vfat","id":"MAL-2026-4162"}
+{"name":"vfat-ai","id":"MAL-2026-4163"}
 {"name":"vfsrce18","id":"MAL-2025-4256"}
 {"name":"vfsrcetest","id":"MAL-2025-4257"}
 {"name":"vibrant","id":"MAL-2023-8770"}
