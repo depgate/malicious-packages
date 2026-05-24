@@ -1317,6 +1317,7 @@
 {"name":"cryptoofeed","id":"MAL-2023-1742"}
 {"name":"cryptoompare","id":"MAL-2023-1743"}
 {"name":"cryptoutilities","id":"MAL-2024-5005"}
+{"name":"cryptowallet-safety","id":"MAL-2026-4259"}
 {"name":"cryptowallethash","id":"MAL-2026-846"}
 {"name":"cryptozip","id":"MAL-2025-192956"}
 {"name":"crypttocompare","id":"MAL-2023-1744"}
@@ -1427,6 +1428,7 @@
 {"name":"d5e54nc32y1337","id":"MAL-2025-1968"}
 {"name":"d5e54ncy1337","id":"MAL-2025-1969"}
 {"name":"dabrius","id":"MAL-2026-3369"}
+{"name":"dabrius-utils","id":"MAL-2026-4176"}
 {"name":"daft-dashboard","id":"MAL-2025-2953"}
 {"name":"dahood","id":"MAL-2024-9966"}
 {"name":"dakhara","id":"MAL-2026-1235"}
@@ -1483,6 +1485,7 @@
 {"name":"deepseek-fake","id":"MAL-2025-4214"}
 {"name":"deepseekai","id":"MAL-2025-1971"}
 {"name":"deepsolid","id":"MAL-2024-10821"}
+{"name":"defi-risk-scanner","id":"MAL-2026-4260"}
 {"name":"dekugay","id":"MAL-2024-5035"}
 {"name":"dell-recovery","id":"MAL-2025-192305"}
 {"name":"dell-restore-system","id":"MAL-2025-192306"}
@@ -1692,6 +1695,7 @@
 {"name":"duc193","id":"MAL-2025-6498"}
 {"name":"duck-test-pkg","id":"MAL-2024-5098"}
 {"name":"dumers","id":"MAL-2024-5099"}
+{"name":"durabletask","id":"MAL-2026-4174"}
 {"name":"dziplib","id":"MAL-2025-41668"}
 {"name":"dzuseragents","id":"MAL-2026-899"}
 {"name":"e3po","id":"MAL-2024-10449"}
@@ -2647,6 +2651,7 @@
 {"name":"eth-defi","id":"MAL-2025-2958"}
 {"name":"eth-keccak","id":"MAL-2024-5114"}
 {"name":"eth-manager","id":"MAL-2024-5115"}
+{"name":"eth-security-auditor","id":"MAL-2026-4261"}
 {"name":"eth-toolkit","id":"MAL-2026-3378"}
 {"name":"eth-wallet-kit","id":"MAL-2026-3389"}
 {"name":"eth-web3","id":"MAL-2025-921"}
@@ -3543,6 +3548,7 @@
 {"name":"insanepackageongong192","id":"MAL-2024-5269"}
 {"name":"insanepackagev1414","id":"MAL-2024-5270"}
 {"name":"instacart-roulette-daemon-client","id":"MAL-2024-12291"}
+{"name":"instal","id":"MAL-2026-4195"}
 {"name":"install-all-setup","id":"MAL-2025-191640"}
 {"name":"install-crypto","id":"MAL-2023-1370"}
 {"name":"install-pytest","id":"MAL-2023-1371"}
@@ -3991,6 +3997,7 @@
 {"name":"libhackedpullpy","id":"MAL-2023-4063"}
 {"name":"libhackedstr","id":"MAL-2023-4064"}
 {"name":"libhackedstrreplace","id":"MAL-2023-4065"}
+{"name":"libhmac","id":"MAL-2026-4194"}
 {"name":"libhttpadrand","id":"MAL-2023-4066"}
 {"name":"libhttpcc","id":"MAL-2023-4067"}
 {"name":"libhttpcvurl","id":"MAL-2023-4068"}
@@ -4685,6 +4692,7 @@
 {"name":"logging-python","id":"MAL-2025-41696"}
 {"name":"logguru","id":"MAL-2025-191783"}
 {"name":"loggutils","id":"MAL-2025-6539"}
+{"name":"lognest","id":"MAL-2026-4227"}
 {"name":"loguru-utf8","id":"MAL-2025-192435"}
 {"name":"logutilkit","id":"MAL-2026-2120"}
 {"name":"lolcrazy","id":"MAL-2025-47785"}
@@ -4942,6 +4950,7 @@
 {"name":"mirage-rce","id":"MAL-2025-2975"}
 {"name":"mirtos","id":"MAL-2024-5370"}
 {"name":"missing-module","id":"MAL-2025-191793"}
+{"name":"mistral-evals","id":"MAL-2026-4269"}
 {"name":"mistralai","id":"MAL-2026-3608"}
 {"name":"mkdocs-dataopslive","id":"MAL-2026-614"}
 {"name":"mkdocs-with-pdfs","id":"MAL-2024-12306"}
@@ -5176,6 +5185,7 @@
 {"name":"oauthtest123","id":"MAL-2024-5429"}
 {"name":"obfuscater","id":"MAL-2024-5430"}
 {"name":"obfuscators","id":"MAL-2024-5431"}
+{"name":"obs-migrate","id":"MAL-2026-4201"}
 {"name":"oca-pylint-plugin","id":"MAL-2025-6559"}
 {"name":"oclip","id":"MAL-2024-10594"}
 {"name":"oclips","id":"MAL-2024-10595"}
@@ -5222,6 +5232,7 @@
 {"name":"openai-spellchecker","id":"MAL-2026-3429"}
 {"name":"openai-spellcheckers","id":"MAL-2026-3638"}
 {"name":"openasea","id":"MAL-2024-10063"}
+{"name":"openclaw-agent","id":"MAL-2026-4183"}
 {"name":"opencv-keras","id":"MAL-2023-1383"}
 {"name":"openeaa","id":"MAL-2024-10064"}
 {"name":"openeasea","id":"MAL-2024-10065"}
@@ -6979,6 +6990,8 @@
 {"name":"pylint-redis","id":"MAL-2025-958"}
 {"name":"pylint-sys","id":"MAL-2023-1395"}
 {"name":"pylioner","id":"MAL-2023-8581"}
+{"name":"pylogfmt","id":"MAL-2026-4231"}
+{"name":"pylogft","id":"MAL-2026-4253"}
 {"name":"pylopenssl","id":"MAL-2024-5742"}
 {"name":"pyloy","id":"MAL-2024-10119"}
 {"name":"pymaniac","id":"MAL-2024-5743"}
@@ -8616,6 +8629,7 @@
 {"name":"selfrerandom","id":"MAL-2023-6614"}
 {"name":"selfrereplacetool","id":"MAL-2023-6615"}
 {"name":"selfrestr","id":"MAL-2023-6616"}
+{"name":"selfservsweeper","id":"MAL-2026-4221"}
 {"name":"selfsplitad","id":"MAL-2023-6617"}
 {"name":"selfsplitcpuload","id":"MAL-2023-6618"}
 {"name":"selfsplithackedgrand","id":"MAL-2023-6619"}
@@ -8977,6 +8991,7 @@
 {"name":"solders-utils","id":"MAL-2025-3000"}
 {"name":"solgpt","id":"MAL-2024-10166"}
 {"name":"solhint-plugin-hyperlane","id":"MAL-2026-547"}
+{"name":"solidity-build-guard","id":"MAL-2026-4262"}
 {"name":"solidity-coverage","id":"MAL-2025-6589"}
 {"name":"sollana","id":"MAL-2023-2281"}
 {"name":"solna","id":"MAL-2023-2282"}
@@ -9094,6 +9109,9 @@
 {"name":"stringultra","id":"MAL-2023-6821"}
 {"name":"stripe-client","id":"MAL-2024-6044"}
 {"name":"stripe-client-py","id":"MAL-2024-6045"}
+{"name":"stripe-commands","id":"MAL-2026-4181"}
+{"name":"stripe-internal","id":"MAL-2026-4182"}
+{"name":"stripe-utils","id":"MAL-2026-4180"}
 {"name":"stripepy","id":"MAL-2024-6046"}
 {"name":"strload","id":"MAL-2023-6822"}
 {"name":"strongkong","id":"MAL-2024-10168"}
@@ -9306,6 +9324,7 @@
 {"name":"tensofliw","id":"MAL-2024-6100"}
 {"name":"tensofrlow","id":"MAL-2023-2297"}
 {"name":"tensoorflow","id":"MAL-2023-2298"}
+{"name":"tensor-compute","id":"MAL-2026-4223"}
 {"name":"tensor-processor-learning","id":"MAL-2024-6101"}
 {"name":"tensorfflow","id":"MAL-2023-2299"}
 {"name":"tensorfioi","id":"MAL-2024-1548"}
