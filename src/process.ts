@@ -90,6 +90,43 @@ function parseOSVReport(content: string): MalwareEntry | null {
   }
 }
 
+async function collectFromDir(
+  dirPath: string,
+  entries: MalwareEntry[],
+  seen: Set<string>,
+  limit?: number
+): Promise<void> {
+  if (limit != null && entries.length >= limit) return;
+
+  let items;
+  try {
+    items = await readdir(dirPath, { withFileTypes: true });
+  } catch {
+    return;
+  }
+
+  for (const item of items) {
+    if (limit != null && entries.length >= limit) break;
+    if (item.name.startsWith('.') || item.name === 'README.md') continue;
+
+    const fullPath = join(dirPath, item.name);
+    if (item.isDirectory()) {
+      await collectFromDir(fullPath, entries, seen, limit);
+    } else if (item.isFile() && item.name.endsWith('.json')) {
+      try {
+        const content = await readFile(fullPath, 'utf-8');
+        const entry = parseOSVReport(content);
+        if (entry && !seen.has(entry.name)) {
+          seen.add(entry.name);
+          entries.push(entry);
+        }
+      } catch {
+        /* skip */
+      }
+    }
+  }
+}
+
 async function processEcosystem(
   repoPath: string,
   ecosystem: string,
@@ -99,37 +136,7 @@ async function processEcosystem(
   const entries: MalwareEntry[] = [];
   const seen = new Set<string>();
 
-  let dirs: string[];
-  try {
-    dirs = await readdir(basePath);
-  } catch {
-    return entries;
-  }
-
-  for (const pkgDir of dirs) {
-    if (limit != null && entries.length >= limit) break;
-    if (pkgDir.startsWith('.') || pkgDir === 'README.md') continue;
-    const pkgPath = join(basePath, pkgDir);
-    let files: string[];
-    try {
-      files = await readdir(pkgPath);
-    } catch {
-      continue;
-    }
-    const jsonFile = files.find((f) => f.endsWith('.json'));
-    if (!jsonFile) continue;
-    try {
-      const content = await readFile(join(pkgPath, jsonFile), 'utf-8');
-      const entry = parseOSVReport(content);
-      if (entry && !seen.has(entry.name)) {
-        seen.add(entry.name);
-        entries.push(entry);
-      }
-    } catch {
-      /* skip */
-    }
-  }
-
+  await collectFromDir(basePath, entries, seen, limit);
   return entries;
 }
 
