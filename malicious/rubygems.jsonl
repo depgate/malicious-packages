@@ -669,6 +669,8 @@
 {"name":"execute-with_rescue_with_airbrake","id":"MAL-2024-6893"}
 {"name":"feature-flags-client","id":"MAL-2025-46907"}
 {"name":"fig-rake","id":"MAL-2024-6894"}
+{"name":"final-poc-usa","id":"MAL-2026-6118"}
+{"name":"final-shoaib","id":"MAL-2026-6117"}
 {"name":"first-gem_rakesh","id":"MAL-2024-6895"}
 {"name":"first-giving_api","id":"MAL-2024-6896"}
 {"name":"fluent-plugin-container-logs_filter","id":"MAL-2024-6897"}

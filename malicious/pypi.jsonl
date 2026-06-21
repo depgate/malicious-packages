@@ -19,6 +19,7 @@
 {"name":"90456984689490856","id":"MAL-2024-4728"}
 {"name":"a-oder","id":"MAL-2024-12186"}
 {"name":"a1rn","id":"MAL-2024-4729"}
+{"name":"aaaazzzzaz","id":"MAL-2026-5874"}
 {"name":"aaiohttp","id":"MAL-2023-1574"}
 {"name":"abhamzufu","id":"MAL-2025-191670"}
 {"name":"abilityrequests","id":"MAL-2025-41615"}
@@ -360,7 +361,6 @@
 {"name":"audit-themis-i18n","id":"MAL-2024-12210"}
 {"name":"auohttp","id":"MAL-2026-38"}
 {"name":"aurafarmer","id":"MAL-2026-4741"}
-{"name":"aurapro-ui","id":"MAL-2026-4742"}
 {"name":"aurm-desktop-client","id":"MAL-2025-1966"}
 {"name":"aurm-python-sdk","id":"MAL-2025-1967"}
 {"name":"auth0-ai-ms-agent","id":"MAL-2026-2184"}
@@ -408,6 +408,7 @@
 {"name":"barcodegeneratorqr","id":"MAL-2023-1354"}
 {"name":"barcodeqrgen","id":"MAL-2023-1355"}
 {"name":"base-local-planner","id":"MAL-2026-621"}
+{"name":"bash8","id":"MAL-2026-5768"}
 {"name":"basic-arithmetics","id":"MAL-2024-12214"}
 {"name":"batch-shipyard","id":"MAL-2026-2174"}
 {"name":"batchran","id":"MAL-2024-10445"}
@@ -603,6 +604,7 @@
 {"name":"bmlx-openapi-client","id":"MAL-2025-6466"}
 {"name":"bnanainstaller","id":"MAL-2026-350"}
 {"name":"bo3to","id":"MAL-2024-11538"}
+{"name":"boardflow","id":"MAL-2026-6080"}
 {"name":"bobikssf","id":"MAL-2023-1448"}
 {"name":"bobotosoji","id":"MAL-2024-4824"}
 {"name":"bogdi","id":"MAL-2024-4825"}
@@ -730,6 +732,7 @@
 {"name":"c8tks94kspjyhtb","id":"MAL-2025-5101"}
 {"name":"c8tsdk","id":"MAL-2025-3863"}
 {"name":"caas-jupyter-tools","id":"MAL-2025-191697"}
+{"name":"cache-compat-utils","id":"MAL-2026-5878"}
 {"name":"caixaequ2ahzoop","id":"MAL-2025-4526"}
 {"name":"calc123lorc","id":"MAL-2024-12225"}
 {"name":"calccc","id":"MAL-2024-12226"}
@@ -830,7 +833,6 @@
 {"name":"ccget","id":"MAL-2023-2544"}
 {"name":"ccgrand","id":"MAL-2023-2545"}
 {"name":"ccgui","id":"MAL-2023-2546"}
-{"name":"cch-agent","id":"MAL-2026-4744"}
 {"name":"cchttp","id":"MAL-2023-2547"}
 {"name":"cchydra","id":"MAL-2023-2548"}
 {"name":"ccinfo","id":"MAL-2023-2549"}
@@ -930,9 +932,11 @@
 {"name":"cipherbcrypto","id":"MAL-2024-11557"}
 {"name":"cipherbcryptor","id":"MAL-2024-9959"}
 {"name":"cipherbcryptors","id":"MAL-2024-9960"}
+{"name":"cipherflow","id":"MAL-2026-5839"}
 {"name":"circleinfo","id":"MAL-2024-4891"}
 {"name":"cirtum","id":"MAL-2024-4892"}
 {"name":"cittronn","id":"MAL-2024-12236"}
+{"name":"ckanext-dms","id":"MAL-2026-5775"}
 {"name":"ckr","id":"MAL-2025-4211"}
 {"name":"class-py","id":"MAL-2024-9961"}
 {"name":"claude-lite","id":"MAL-2026-2269"}
@@ -1278,7 +1282,6 @@
 {"name":"crto5","id":"MAL-2025-191708"}
 {"name":"crunchie","id":"MAL-2024-12250"}
 {"name":"crustyhttp","id":"MAL-2024-9264"}
-{"name":"crw","id":"MAL-2026-4746"}
 {"name":"cryostar","id":"MAL-2024-10447"}
 {"name":"crypo","id":"MAL-2025-192947"}
 {"name":"crypocompare","id":"MAL-2023-1704"}
@@ -1449,6 +1452,8 @@
 {"name":"cyptofeed","id":"MAL-2023-1757"}
 {"name":"cyrptocompare","id":"MAL-2023-1758"}
 {"name":"cyrptofeed","id":"MAL-2023-1759"}
+{"name":"d0rk3r","id":"MAL-2026-6246"}
+{"name":"d0rk3r-telemetry","id":"MAL-2026-6244"}
 {"name":"d1n0-exploit-aaaa","id":"MAL-2025-191710"}
 {"name":"d1n0exploitaaaa","id":"MAL-2025-191711"}
 {"name":"d1snakegame","id":"MAL-2025-191712"}
@@ -1483,6 +1488,8 @@
 {"name":"databasetapes","id":"MAL-2026-2494"}
 {"name":"databasetrace","id":"MAL-2026-2542"}
 {"name":"databricks-clean-room-orchestrator","id":"MAL-2026-2146"}
+{"name":"databricks-tools-core","id":"MAL-2026-5809"}
+{"name":"datacamp-light","id":"MAL-2026-5868"}
 {"name":"dataflux-pytorch","id":"MAL-2026-1988"}
 {"name":"datagov-harvester","id":"MAL-2025-913"}
 {"name":"datagraph","id":"MAL-2024-5032"}
@@ -1671,11 +1678,13 @@
 {"name":"discrod-py","id":"MAL-2023-1805"}
 {"name":"discrod-webhook","id":"MAL-2023-1806"}
 {"name":"discself","id":"MAL-2024-12258"}
+{"name":"disksweep","id":"MAL-2026-6081"}
 {"name":"disocrd","id":"MAL-2024-5089"}
 {"name":"disocrd-py","id":"MAL-2023-1807"}
 {"name":"disocrd-webhook","id":"MAL-2023-1808"}
 {"name":"disord-py","id":"MAL-2023-1809"}
 {"name":"disord-webhook","id":"MAL-2023-1810"}
+{"name":"dispatch-internal-plugins","id":"MAL-2026-5810"}
 {"name":"displaydoc","id":"MAL-2026-875"}
 {"name":"disscord-py","id":"MAL-2023-1811"}
 {"name":"disscord-webhook","id":"MAL-2023-1812"}
@@ -1684,6 +1693,7 @@
 {"name":"dividedinkedwarpdrive","id":"MAL-2024-5091"}
 {"name":"djanggo","id":"MAL-2024-1036"}
 {"name":"django-aerospike-sessions","id":"MAL-2025-47758"}
+{"name":"django-auth-middleware-plus","id":"MAL-2026-6230"}
 {"name":"django-b64-img","id":"MAL-2026-3413"}
 {"name":"django-pyyaml","id":"MAL-2023-1362"}
 {"name":"django-storage","id":"MAL-2025-2956"}
@@ -1708,6 +1718,7 @@
 {"name":"donotinstallthisistest5","id":"MAL-2025-41664"}
 {"name":"donotinstallthisistest6","id":"MAL-2025-6213"}
 {"name":"dontdownloadthis","id":"MAL-2024-5094"}
+{"name":"dotenv-sync","id":"MAL-2026-6082"}
 {"name":"doughnuts","id":"MAL-2025-41665"}
 {"name":"doverius","id":"MAL-2025-6496"}
 {"name":"doxer","id":"MAL-2025-47759"}
@@ -1739,11 +1750,13 @@
 {"name":"e89-security","id":"MAL-2025-41669"}
 {"name":"easy-https","id":"MAL-2025-41670"}
 {"name":"easyaillm","id":"MAL-2026-5756"}
+{"name":"easyaillm2","id":"MAL-2026-5765"}
 {"name":"easyascii","id":"MAL-2025-4216"}
 {"name":"easycap","id":"MAL-2024-5100"}
 {"name":"easydicts","id":"MAL-2024-10640"}
 {"name":"easyhttprequest","id":"MAL-2024-5101"}
 {"name":"easyioctl","id":"MAL-2024-12260"}
+{"name":"easyllmai","id":"MAL-2026-5766"}
 {"name":"easypydb","id":"MAL-2024-12261"}
 {"name":"easyreg","id":"MAL-2026-932"}
 {"name":"easyrequests","id":"MAL-2024-5102"}
@@ -2795,6 +2808,7 @@
 {"name":"extracolorsv2","id":"MAL-2024-5126"}
 {"name":"extrazip","id":"MAL-2025-192948"}
 {"name":"ezauto","id":"MAL-2024-10027"}
+{"name":"ezllmgen","id":"MAL-2026-5769"}
 {"name":"f2d5cfdc642c3d4","id":"MAL-2025-3446"}
 {"name":"f2d5cfdc642c3d5","id":"MAL-2025-3447"}
 {"name":"f5-logger","id":"MAL-2025-192608"}
@@ -2828,7 +2842,10 @@
 {"name":"fastapi-middleware-cors","id":"MAL-2026-1422"}
 {"name":"fastapi-requests","id":"MAL-2026-1261"}
 {"name":"fastapis-requests","id":"MAL-2026-1262"}
+{"name":"fastercode","id":"MAL-2026-6206"}
+{"name":"fastercoding","id":"MAL-2026-6208"}
 {"name":"fastertelethon","id":"MAL-2025-191723"}
+{"name":"fastgptmini","id":"MAL-2026-5776"}
 {"name":"fastgram","id":"MAL-2025-191724"}
 {"name":"fasthttp-globalscraper","id":"MAL-2024-5131"}
 {"name":"fastpi","id":"MAL-2026-613"}
@@ -2909,6 +2926,8 @@
 {"name":"flophttp","id":"MAL-2024-10028"}
 {"name":"flowfix","id":"MAL-2026-1276"}
 {"name":"flowpeek","id":"MAL-2026-1437"}
+{"name":"fluent-dashboard-panel-metrics","id":"MAL-2026-6233"}
+{"name":"fluent-panel-metrics","id":"MAL-2026-6182"}
 {"name":"fluiddaddy","id":"MAL-2024-5146"}
 {"name":"fluxhttp","id":"MAL-2026-2244"}
 {"name":"flyadmin","id":"MAL-2025-41677"}
@@ -3038,6 +3057,7 @@
 {"name":"gemini-analyzer","id":"MAL-2026-3347"}
 {"name":"gen-agent-fingerprint","id":"MAL-2024-5171"}
 {"name":"gen-user-random-agent","id":"MAL-2024-11599"}
+{"name":"generatellm","id":"MAL-2026-5773"}
 {"name":"generator-meeseeks","id":"MAL-2024-5172"}
 {"name":"genesis-1p-tools-rpm-bundle","id":"MAL-2026-2503"}
 {"name":"genmedia-izumi-agent","id":"MAL-2026-3130"}
@@ -3094,6 +3114,7 @@
 {"name":"ggghhhrrr","id":"MAL-2024-11600"}
 {"name":"ggitpython","id":"MAL-2023-1854"}
 {"name":"giantmidi-piano","id":"MAL-2024-11601"}
+{"name":"gigl-core","id":"MAL-2026-5811"}
 {"name":"giitpython","id":"MAL-2023-1855"}
 {"name":"giptython","id":"MAL-2023-1856"}
 {"name":"gipython","id":"MAL-2023-1857"}
@@ -3148,6 +3169,7 @@
 {"name":"gpsea","id":"MAL-2026-5316","versions":["0.9.14","0.9.15"]}
 {"name":"gpt-requests","id":"MAL-2024-5187"}
 {"name":"gptall","id":"MAL-2025-191742"}
+{"name":"gptminifast","id":"MAL-2026-5795"}
 {"name":"gpu-discovery","id":"MAL-2024-12373"}
 {"name":"gpu-free-ai","id":"MAL-2025-191743"}
 {"name":"gr-mg","id":"MAL-2024-10823"}
@@ -3319,6 +3341,7 @@
 {"name":"hello-bozzo2","id":"MAL-2024-12283"}
 {"name":"hello-dynamic","id":"MAL-2026-5518"}
 {"name":"hello-from-shiphero","id":"MAL-2025-191751"}
+{"name":"hello-test-s1","id":"MAL-2026-5812"}
 {"name":"hello-wordl","id":"MAL-2025-3600"}
 {"name":"hello-world-installer-test","id":"MAL-2024-12284"}
 {"name":"hello-world-package-test","id":"MAL-2024-10034"}
@@ -3558,6 +3581,7 @@
 {"name":"importlibs-resources","id":"MAL-2024-10739"}
 {"name":"importscraper","id":"MAL-2024-5259"}
 {"name":"importsetup","id":"MAL-2025-47774"}
+{"name":"improvado-layout-panel-metrics","id":"MAL-2026-6231"}
 {"name":"incaperror","id":"MAL-2025-41690"}
 {"name":"indpack","id":"MAL-2026-2114"}
 {"name":"infoad","id":"MAL-2023-3777"}
@@ -3625,6 +3649,8 @@
 {"name":"instructnerf2nerf","id":"MAL-2024-11616"}
 {"name":"instructor-mcp","id":"MAL-2026-5317"}
 {"name":"intcontrol","id":"MAL-2023-3809"}
+{"name":"intel-ai-safety","id":"MAL-2026-5813"}
+{"name":"intel-ai-safety-explainer","id":"MAL-2026-5814"}
 {"name":"intelcraft","id":"MAL-2023-3810"}
 {"name":"intelgrand","id":"MAL-2023-3811"}
 {"name":"intellib","id":"MAL-2023-3812"}
@@ -3766,6 +3792,7 @@
 {"name":"killvisa","id":"MAL-2023-3844"}
 {"name":"kimportsetup","id":"MAL-2025-47779"}
 {"name":"kingwork-test","id":"MAL-2025-191775"}
+{"name":"kinto-slack","id":"MAL-2026-5815"}
 {"name":"kirux189894","id":"MAL-2025-191642"}
 {"name":"kjfgjsfgj","id":"MAL-2024-5294"}
 {"name":"kjfgjsfgj1","id":"MAL-2024-5295"}
@@ -4714,7 +4741,11 @@
 {"name":"lium-io-gztensor","id":"MAL-2026-55"}
 {"name":"livekit-agents-hedra","id":"MAL-2025-192928"}
 {"name":"lixxyly","id":"MAL-2026-2841"}
+{"name":"llamagenerator","id":"MAL-2026-5771"}
 {"name":"llmboost-hub","id":"MAL-2025-112503"}
+{"name":"llmfree","id":"MAL-2026-5796"}
+{"name":"llmgenerator","id":"MAL-2026-5770"}
+{"name":"llvm-aie","id":"MAL-2026-5816"}
 {"name":"lm-sys","id":"MAL-2026-2178"}
 {"name":"lnatainstaller","id":"MAL-2026-128"}
 {"name":"loadad","id":"MAL-2023-4668"}
@@ -4963,6 +4994,7 @@
 {"name":"mennort","id":"MAL-2024-12305"}
 {"name":"meowsapi","id":"MAL-2025-4224"}
 {"name":"merbe","id":"MAL-2025-4225"}
+{"name":"merino-common","id":"MAL-2026-5817"}
 {"name":"merpe","id":"MAL-2025-4226"}
 {"name":"mescouilles","id":"MAL-2025-191790"}
 {"name":"message-serializer","id":"MAL-2024-5358"}
@@ -5042,6 +5074,7 @@
 {"name":"mlc-llm-nightly","id":"MAL-2024-10046"}
 {"name":"mlc-llm-nightly-cu123","id":"MAL-2025-1983"}
 {"name":"mle-py-connector","id":"MAL-2024-1108"}
+{"name":"mlir-aie","id":"MAL-2026-5818"}
 {"name":"mlp-data-product-producer","id":"MAL-2024-5371"}
 {"name":"mmatplotlib","id":"MAL-2023-1911"}
 {"name":"mnemonic-to-address","id":"MAL-2024-5372"}
@@ -5072,6 +5105,7 @@
 {"name":"movers","id":"MAL-2024-5378"}
 {"name":"moveworks-pipeline-test","id":"MAL-2026-803"}
 {"name":"moxel-python-driver","id":"MAL-2025-6550"}
+{"name":"mozautomation","id":"MAL-2026-5819"}
 {"name":"mozilla","id":"MAL-2025-41703"}
 {"name":"mpkg123","id":"MAL-2026-3426"}
 {"name":"mqbench","id":"MAL-2024-10642"}
@@ -5116,6 +5150,7 @@
 {"name":"my-test-packagexx","id":"MAL-2025-48894"}
 {"name":"myasicapi","id":"MAL-2026-984"}
 {"name":"myethertoolz","id":"MAL-2024-5388"}
+{"name":"myfirstpackagetestaaa","id":"MAL-2026-5875"}
 {"name":"myfuntools","id":"MAL-2025-6553"}
 {"name":"mygens","id":"MAL-2024-5389"}
 {"name":"myhexsender","id":"MAL-2024-12310"}
@@ -5172,6 +5207,7 @@
 {"name":"networkpackage","id":"MAL-2024-5403"}
 {"name":"neural-compressor-jax","id":"MAL-2026-1035"}
 {"name":"neuralforge-ml","id":"MAL-2026-5090"}
+{"name":"neurodrift","id":"MAL-2026-5797"}
 {"name":"neursts","id":"MAL-2024-10588"}
 {"name":"neverbeentg","id":"MAL-2024-5404"}
 {"name":"neverbeentgg","id":"MAL-2024-5405"}
@@ -5211,6 +5247,7 @@
 {"name":"nnabla-ext-cuda101-nccl2-ubuntu16","id":"MAL-2023-8308"}
 {"name":"no-install-test-noinst","id":"MAL-2024-5414"}
 {"name":"node-db-indicator","id":"MAL-2025-6558"}
+{"name":"node-scraper","id":"MAL-2026-5820"}
 {"name":"nofex-hack","id":"MAL-2025-41711"}
 {"name":"nofexhack","id":"MAL-2025-41712"}
 {"name":"nonertheguy","id":"MAL-2024-5415"}
@@ -5252,7 +5289,6 @@
 {"name":"nurset","id":"MAL-2024-10420"}
 {"name":"nurst","id":"MAL-2024-10373"}
 {"name":"nvidia-clara-sim","id":"MAL-2024-10315"}
-{"name":"nvidia-nat-semantic-kernel","id":"MAL-2026-4760"}
 {"name":"nvidiaad","id":"MAL-2023-4788"}
 {"name":"nvidiagame","id":"MAL-2023-4789"}
 {"name":"nvidiagui","id":"MAL-2023-4790"}
@@ -7146,6 +7182,7 @@
 {"name":"pyprotectfile","id":"MAL-2024-5762"}
 {"name":"pyproto2","id":"MAL-2022-7427"}
 {"name":"pyproxyx","id":"MAL-2024-5763"}
+{"name":"pyptllm","id":"MAL-2026-5821"}
 {"name":"pypull","id":"MAL-2023-5798"}
 {"name":"pypyw","id":"MAL-2023-5799"}
 {"name":"pyqcolored","id":"MAL-2024-5764"}
@@ -7202,6 +7239,7 @@
 {"name":"pystob","id":"MAL-2023-8586"}
 {"name":"pystyl","id":"MAL-2024-5781"}
 {"name":"pystylerio","id":"MAL-2024-5782"}
+{"name":"pystylish","id":"MAL-2026-6076"}
 {"name":"pysubprocess","id":"MAL-2024-5783"}
 {"name":"pyswyfter","id":"MAL-2025-41722"}
 {"name":"pytarlooko","id":"MAL-2023-8587"}
@@ -7401,7 +7439,6 @@
 {"name":"pywincompile","id":"MAL-2024-5837"}
 {"name":"pywincompiler","id":"MAL-2024-5838"}
 {"name":"pywinfo","id":"MAL-2023-5811"}
-{"name":"pywingui","id":"MAL-2026-4821"}
 {"name":"pywinrequest","id":"MAL-2024-5839"}
 {"name":"pywint","id":"MAL-2023-5812"}
 {"name":"pywkill","id":"MAL-2023-5813"}
@@ -7454,6 +7491,7 @@
 {"name":"quantiumbase","id":"MAL-2024-5846"}
 {"name":"quantumania","id":"MAL-2026-1912"}
 {"name":"quatres","id":"MAL-2026-4829"}
+{"name":"query-profile","id":"MAL-2026-6236"}
 {"name":"queryservice-client","id":"MAL-2026-5"}
 {"name":"questpro","id":"MAL-2026-936"}
 {"name":"quickcolors","id":"MAL-2025-3461"}
@@ -7542,6 +7580,7 @@
 {"name":"randomvisa","id":"MAL-2023-5893"}
 {"name":"randomwifi","id":"MAL-2025-3463"}
 {"name":"randpaypal","id":"MAL-2023-5894"}
+{"name":"randpicker","id":"MAL-2026-6138"}
 {"name":"randpush","id":"MAL-2023-5895"}
 {"name":"randsplit","id":"MAL-2023-5896"}
 {"name":"randtool","id":"MAL-2023-5897"}
@@ -7685,6 +7724,7 @@
 {"name":"requesst-toolbelt","id":"MAL-2023-2154"}
 {"name":"requessts","id":"MAL-2022-7438"}
 {"name":"requessts-toolbelt","id":"MAL-2023-2155"}
+{"name":"request-cache-py","id":"MAL-2026-6245"}
 {"name":"request-get","id":"MAL-2024-5883"}
 {"name":"request-http","id":"MAL-2024-5884"}
 {"name":"request-httpx-4","id":"MAL-2026-1001"}
@@ -7712,6 +7752,7 @@
 {"name":"requests-auth-toolkit","id":"MAL-2026-847"}
 {"name":"requests-beta","id":"MAL-2025-41745"}
 {"name":"requests-core-plugin","id":"MAL-2026-843"}
+{"name":"requests-enhancer","id":"MAL-2026-6247"}
 {"name":"requests-flask","id":"MAL-2023-1402"}
 {"name":"requests-http","id":"MAL-2024-5896"}
 {"name":"requests-https","id":"MAL-2024-5897"}
@@ -7965,7 +8006,6 @@
 {"name":"s3ffs","id":"MAL-2025-5131"}
 {"name":"s3transfer-sl","id":"MAL-2025-191861"}
 {"name":"s4transfer","id":"MAL-2024-11699"}
-{"name":"saas-common-lib-473815","id":"MAL-2026-4766"}
 {"name":"sadonion","id":"MAL-2024-5962"}
 {"name":"safecheckit","id":"MAL-2026-2292"}
 {"name":"safetest123","id":"MAL-2026-1340"}
@@ -8028,6 +8068,7 @@
 {"name":"scray","id":"MAL-2023-2227"}
 {"name":"screencaptned","id":"MAL-2024-5970"}
 {"name":"screenshiterr","id":"MAL-2024-5971"}
+{"name":"scriptworker-client","id":"MAL-2026-5822"}
 {"name":"scrpay","id":"MAL-2023-2228"}
 {"name":"scrrapy","id":"MAL-2023-2229"}
 {"name":"scuffed","id":"MAL-2024-5972"}
@@ -8994,6 +9035,7 @@
 {"name":"shiva123456","id":"MAL-2025-6584"}
 {"name":"shiwers","id":"MAL-2024-6007"}
 {"name":"shleeh","id":"MAL-2025-2996"}
+{"name":"shoaib-done-pack","id":"MAL-2026-6207"}
 {"name":"shokobo","id":"MAL-2024-11706"}
 {"name":"shom","id":"MAL-2024-6008"}
 {"name":"shoots-api-test","id":"MAL-2025-985"}
@@ -9050,6 +9092,7 @@
 {"name":"sklearns","id":"MAL-2024-11708"}
 {"name":"sklern","id":"MAL-2026-4768"}
 {"name":"skydeo","id":"MAL-2026-815"}
+{"name":"sl-pgp","id":"MAL-2026-5823"}
 {"name":"slana","id":"MAL-2023-2270"}
 {"name":"sleenium","id":"MAL-2023-2271"}
 {"name":"slide-tc","id":"MAL-2025-2998"}
@@ -9334,6 +9377,7 @@
 {"name":"synago","id":"MAL-2026-5284"}
 {"name":"synapse-x","id":"MAL-2024-6058"}
 {"name":"synapseml-utils","id":"MAL-2026-1325"}
+{"name":"syncagents","id":"MAL-2026-6083"}
 {"name":"synium","id":"MAL-2025-192438"}
 {"name":"syns-knox-xss-allwhere","id":"MAL-2023-1452"}
 {"name":"syntax-init","id":"MAL-2024-6059"}
@@ -9440,6 +9484,7 @@
 {"name":"telebot-info","id":"MAL-2026-930"}
 {"name":"telebot-infoe","id":"MAL-2026-934"}
 {"name":"telebot-infoo","id":"MAL-2026-935"}
+{"name":"telegram-lite-grabber","id":"MAL-2026-6051"}
 {"name":"telegramdatas","id":"MAL-2026-1498"}
 {"name":"telegramdoxing","id":"MAL-2025-191888"}
 {"name":"telegramlite","id":"MAL-2026-5531"}
@@ -9454,6 +9499,7 @@
 {"name":"teligram","id":"MAL-2026-813"}
 {"name":"telnyx","id":"MAL-2026-2254"}
 {"name":"telstra","id":"MAL-2026-31"}
+{"name":"temp-development-package-test","id":"MAL-2026-5876"}
 {"name":"tempeh","id":"MAL-2025-3007"}
 {"name":"tencent-cloud-python-sdk","id":"MAL-2023-8370"}
 {"name":"tencentcloud-python-sdk","id":"MAL-2023-8371"}
@@ -9544,10 +9590,12 @@
 {"name":"testpackage1mcpe","id":"MAL-2024-6122"}
 {"name":"testpackage2lol","id":"MAL-2024-6123"}
 {"name":"testpackageclaim","id":"MAL-2025-48902"}
+{"name":"testpackagemanyhttpsgo","id":"MAL-2026-5840"}
 {"name":"testpackageroietest2","id":"MAL-2025-41775"}
 {"name":"testpackageroietest3","id":"MAL-2025-41776"}
 {"name":"testpackageroietest4","id":"MAL-2025-41777"}
 {"name":"testpackages159","id":"MAL-2024-6124"}
+{"name":"TestPGAgent","id":"MAL-2026-5824"}
 {"name":"testpipxyz","id":"MAL-2024-6125"}
 {"name":"testpipxyz2","id":"MAL-2024-6126"}
 {"name":"testpipxyz3","id":"MAL-2024-6127"}
@@ -9686,6 +9734,7 @@
 {"name":"tnesorflow","id":"MAL-2023-2337"}
 {"name":"tns-py","id":"MAL-2026-3219"}
 {"name":"tnsorflow","id":"MAL-2023-2338"}
+{"name":"tobihook","id":"MAL-2026-5995"}
 {"name":"tokenapiv4","id":"MAL-2024-6160"}
 {"name":"tokenpath","id":"MAL-2024-6161"}
 {"name":"tokyo-ppe-test","id":"MAL-2026-699"}
@@ -10675,6 +10724,7 @@
 {"name":"tulipgui-python","id":"MAL-2025-6611"}
 {"name":"twilio-rest","id":"MAL-2025-3012"}
 {"name":"twittter","id":"MAL-2024-6173"}
+{"name":"twrap-toolkit","id":"MAL-2026-5841"}
 {"name":"txdpy","id":"MAL-2026-4772"}
 {"name":"txwrap","id":"MAL-2026-3619"}
 {"name":"type-extension","id":"MAL-2024-10732"}
