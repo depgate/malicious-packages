@@ -715,6 +715,7 @@
 {"name":"bytekafka-0-0-15","id":"MAL-2024-10356"}
 {"name":"bytekafka-0-15","id":"MAL-2024-10357"}
 {"name":"bytekafka0-0-15","id":"MAL-2024-10406"}
+{"name":"bytekit","id":"MAL-2026-6751"}
 {"name":"bytemlperf","id":"MAL-2024-10446"}
 {"name":"bytep","id":"MAL-2024-10411"}
 {"name":"bytepilot","id":"MAL-2024-10426"}
@@ -1128,6 +1129,7 @@
 {"name":"conda-package-handling111","id":"MAL-2025-41639"}
 {"name":"config-toolkit","id":"MAL-2026-855"}
 {"name":"config4py","id":"MAL-2025-41640"}
+{"name":"confighub","id":"MAL-2026-6752"}
 {"name":"confighum","id":"MAL-2025-6482"}
 {"name":"confirmedbywaseem","id":"MAL-2025-911"}
 {"name":"confluent-docker-utils","id":"MAL-2024-9963"}
@@ -1696,6 +1698,7 @@
 {"name":"django-aerospike-sessions","id":"MAL-2025-47758"}
 {"name":"django-auth-middleware-plus","id":"MAL-2026-6230"}
 {"name":"django-b64-img","id":"MAL-2026-3413"}
+{"name":"django-bkvision","id":"MAL-2026-6593"}
 {"name":"django-pyyaml","id":"MAL-2023-1362"}
 {"name":"django-storage","id":"MAL-2025-2956"}
 {"name":"djangoframework-test","id":"MAL-2025-191720"}
@@ -1739,6 +1742,7 @@
 {"name":"dsidelib","id":"MAL-2025-41666"}
 {"name":"dsodelib","id":"MAL-2025-41667"}
 {"name":"dstill","id":"MAL-2026-5345"}
+{"name":"dt-validator","id":"MAL-2026-6728"}
 {"name":"dtb-bytehouse","id":"MAL-2024-10415"}
 {"name":"duc193","id":"MAL-2025-6498"}
 {"name":"duck-test-pkg","id":"MAL-2024-5098"}
@@ -1838,6 +1842,7 @@
 {"name":"eoerbisjxqyv","id":"MAL-2024-5111"}
 {"name":"eosio-signer","id":"MAL-2024-11582"}
 {"name":"eosio-signerz","id":"MAL-2024-11583"}
+{"name":"epic-build-scripts","id":"MAL-2026-6733"}
 {"name":"eplang","id":"MAL-2026-4748"}
 {"name":"equest","id":"MAL-2026-6289"}
 {"name":"equests","id":"MAL-2022-7433"}
@@ -2994,6 +2999,7 @@
 {"name":"frqtrade","id":"MAL-2023-1851"}
 {"name":"frreqtrade","id":"MAL-2023-1852"}
 {"name":"fshec2","id":"MAL-2024-5166"}
+{"name":"fsociety-tools","id":"MAL-2026-6558"}
 {"name":"fsspecc","id":"MAL-2025-5114"}
 {"name":"fstcall","id":"MAL-2024-5167"}
 {"name":"fuckingnuker","id":"MAL-2025-47766"}
@@ -3329,6 +3335,7 @@
 {"name":"hancsv","id":"MAL-2025-191748"}
 {"name":"handyfiles","id":"MAL-2024-12282"}
 {"name":"hangimani","id":"MAL-2026-625"}
+{"name":"haproxy-config-client","id":"MAL-2026-6748"}
 {"name":"haqawi","id":"MAL-2026-255"}
 {"name":"hardixx-code","id":"MAL-2026-812"}
 {"name":"hase","id":"MAL-2024-5196"}
@@ -3402,6 +3409,7 @@
 {"name":"hooktest1","id":"MAL-2025-191760"}
 {"name":"hooktest2","id":"MAL-2025-191483"}
 {"name":"hooktest3","id":"MAL-2025-191761"}
+{"name":"horde-python-client","id":"MAL-2026-6734"}
 {"name":"hostlists-plugins-default","id":"MAL-2026-1275"}
 {"name":"hpe-glcp-automation-lib","id":"MAL-2026-5183"}
 {"name":"hsbcgui","id":"MAL-2024-5206"}
@@ -3447,6 +3455,7 @@
 {"name":"httppep","id":"MAL-2023-3740"}
 {"name":"httppip","id":"MAL-2023-3741"}
 {"name":"httppost","id":"MAL-2023-3742"}
+{"name":"httpprobe","id":"MAL-2026-6758"}
 {"name":"httpproof","id":"MAL-2023-3743"}
 {"name":"httppyw","id":"MAL-2023-3744"}
 {"name":"httpram","id":"MAL-2023-3745"}
@@ -3686,6 +3695,7 @@
 {"name":"invokehttp","id":"MAL-2024-8726"}
 {"name":"iou3d","id":"MAL-2025-41691"}
 {"name":"ip-rotat","id":"MAL-2026-6280"}
+{"name":"ipa-user-collector","id":"MAL-2026-6749"}
 {"name":"ipfind-microtip","id":"MAL-2025-47775"}
 {"name":"ipg","id":"MAL-2024-5274"}
 {"name":"ipllow","id":"MAL-2023-1883"}
@@ -5738,6 +5748,7 @@
 {"name":"pitest117","id":"MAL-2024-12326"}
 {"name":"piynstaller","id":"MAL-2023-1947"}
 {"name":"pjllow","id":"MAL-2024-5550"}
+{"name":"pkg-fallback","id":"MAL-2026-6557"}
 {"name":"pkproxy","id":"MAL-2025-41718"}
 {"name":"plasticswampbubble","id":"MAL-2024-5551"}
 {"name":"platform-harness-ecr-configmap","id":"MAL-2024-11659"}
@@ -5860,6 +5871,7 @@
 {"name":"prmpt-toolkit","id":"MAL-2023-1970"}
 {"name":"process-support","id":"MAL-2026-3001"}
 {"name":"procoder","id":"MAL-2026-2835"}
+{"name":"procwire","id":"MAL-2026-6750"}
 {"name":"prodaccess","id":"MAL-2026-2303"}
 {"name":"prof-qu","id":"MAL-2025-191819"}
 {"name":"prof-quotex","id":"MAL-2025-191820"}
@@ -8047,6 +8059,7 @@
 {"name":"sccikit-learn","id":"MAL-2023-2199"}
 {"name":"sccket","id":"MAL-2025-3469"}
 {"name":"sccrapy","id":"MAL-2023-2200"}
+{"name":"schemavault","id":"MAL-2026-6753"}
 {"name":"schubismomv2","id":"MAL-2024-5966"}
 {"name":"schubismomv3","id":"MAL-2024-5967"}
 {"name":"sciikit-learn","id":"MAL-2023-2201"}
@@ -9105,6 +9118,7 @@
 {"name":"sjc","id":"MAL-2024-11707"}
 {"name":"ska-low-cbf-fpga","id":"MAL-2025-2997"}
 {"name":"sketchfab-spinner","id":"MAL-2025-192380"}
+{"name":"skillspector","id":"MAL-2026-6561"}
 {"name":"sklearns","id":"MAL-2024-11708"}
 {"name":"sklern","id":"MAL-2026-4768"}
 {"name":"skydeo","id":"MAL-2026-815"}
@@ -9279,6 +9293,7 @@
 {"name":"stackstorm-runner-action-chain","id":"MAL-2024-11714"}
 {"name":"stake-auto-better","id":"MAL-2024-6037"}
 {"name":"starexx","id":"MAL-2025-191662"}
+{"name":"starlette-healthcheck","id":"MAL-2026-6724"}
 {"name":"stationschedule","id":"MAL-2024-12352"}
 {"name":"stats-helpers","id":"MAL-2026-2139"}
 {"name":"statsapi","id":"MAL-2025-191878"}
@@ -9491,6 +9506,7 @@
 {"name":"tcloud-python-sdk","id":"MAL-2024-6098"}
 {"name":"tcloud-python-sdks","id":"MAL-2025-191887"}
 {"name":"tcloud-python-test","id":"MAL-2025-3006"}
+{"name":"tdata-grabber","id":"MAL-2026-6560"}
 {"name":"team-bsb-bot","id":"MAL-2025-2622"}
 {"name":"teensorflow","id":"MAL-2023-2293"}
 {"name":"telco","id":"MAL-2025-192363"}
@@ -10742,6 +10758,7 @@
 {"name":"tulipgui-python","id":"MAL-2025-6611"}
 {"name":"twilio-rest","id":"MAL-2025-3012"}
 {"name":"twittter","id":"MAL-2024-6173"}
+{"name":"twrap-tool","id":"MAL-2026-6711"}
 {"name":"twrap-toolkit","id":"MAL-2026-5841"}
 {"name":"txdpy","id":"MAL-2026-4772"}
 {"name":"txwrap","id":"MAL-2026-3619"}
@@ -10752,6 +10769,7 @@
 {"name":"typing-extensions-plus","id":"MAL-2025-191914"}
 {"name":"ua-agent-generator","id":"MAL-2024-11734"}
 {"name":"uconst","id":"MAL-2024-10179"}
+{"name":"ue-python-tools","id":"MAL-2026-6735"}
 {"name":"ufish","id":"MAL-2026-5285"}
 {"name":"uidesign","id":"MAL-2024-10180"}
 {"name":"uihuihiuhiuhiu","id":"MAL-2024-6174"}
@@ -10795,6 +10813,7 @@
 {"name":"uniswap-math","id":"MAL-2024-6175"}
 {"name":"unizip","id":"MAL-2025-192689"}
 {"name":"unrartest","id":"MAL-2024-10181"}
+{"name":"unreal-mladapter","id":"MAL-2026-6736"}
 {"name":"unzipxz","id":"MAL-2024-11735"}
 {"name":"update-mss","id":"MAL-2024-6176"}
 {"name":"update-request","id":"MAL-2024-6177"}
@@ -10832,6 +10851,7 @@
 {"name":"urllibb3","id":"MAL-2023-2344"}
 {"name":"urlliib3","id":"MAL-2023-2345"}
 {"name":"urllitelib","id":"MAL-2024-6187"}
+{"name":"urlllib321","id":"MAL-2026-6759"}
 {"name":"urlload","id":"MAL-2023-7786"}
 {"name":"urlmc","id":"MAL-2023-7787"}
 {"name":"urlmine","id":"MAL-2023-7788"}
@@ -11361,6 +11381,7 @@
 {"name":"ypsocks","id":"MAL-2023-2467"}
 {"name":"ypthon-binance","id":"MAL-2023-2468"}
 {"name":"ysocks","id":"MAL-2023-2469"}
+{"name":"yt-api-dlp","id":"MAL-2026-6754"}
 {"name":"yt-yson-bindings","id":"MAL-2024-12371"}
 {"name":"ytest-cov","id":"MAL-2025-3020"}
 {"name":"ython-binance","id":"MAL-2023-2470"}
