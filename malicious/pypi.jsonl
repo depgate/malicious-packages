@@ -1448,6 +1448,9 @@
 {"name":"cxfreezepy","id":"MAL-2023-2692"}
 {"name":"cxt","id":"MAL-2023-1755"}
 {"name":"cyberart","id":"MAL-2024-9265"}
+{"name":"cyberday26szymon-auth","id":"MAL-2026-7452"}
+{"name":"cyberday26szymon-logging","id":"MAL-2026-7453"}
+{"name":"cyberday26szymon-payments","id":"MAL-2026-7454"}
 {"name":"cycode-dev","id":"MAL-2026-2957"}
 {"name":"cyptocompare","id":"MAL-2023-1756"}
 {"name":"cyptofeed","id":"MAL-2023-1757"}
@@ -1504,6 +1507,7 @@
 {"name":"dbsxrchpro","id":"MAL-2025-2955"}
 {"name":"dbt-bytedhouse","id":"MAL-2024-10413"}
 {"name":"dbt-byteshouse","id":"MAL-2024-10414"}
+{"name":"dbzy-tools","id":"MAL-2026-7023"}
 {"name":"dcbot-online","id":"MAL-2025-191714"}
 {"name":"dcbotoffline3","id":"MAL-2025-191715"}
 {"name":"dcchbot","id":"MAL-2026-3689"}
@@ -3745,6 +3749,8 @@
 {"name":"jsonreq-ase","id":"MAL-2025-191768"}
 {"name":"jsonschema-utf8","id":"MAL-2025-192436"}
 {"name":"jsonschema-viewer","id":"MAL-2026-6248"}
+{"name":"jsonschemavalid","id":"MAL-2026-6970"}
+{"name":"jsonschemavalidation","id":"MAL-2026-6945"}
 {"name":"jsonschemex","id":"MAL-2025-191769"}
 {"name":"judyb-advanced","id":"MAL-2024-5284"}
 {"name":"juk","id":"MAL-2024-5285"}
@@ -4886,8 +4892,11 @@
 {"name":"managment","id":"MAL-2025-6545"}
 {"name":"mangasee123","id":"MAL-2024-5348"}
 {"name":"mangrove-sdk","id":"MAL-2026-2006"}
+{"name":"manik","id":"MAL-2026-7006"}
+{"name":"manin","id":"MAL-2026-6978"}
 {"name":"manoj3121pip","id":"MAL-2024-12304"}
 {"name":"manojmacpy","id":"MAL-2024-10040"}
+{"name":"manom","id":"MAL-2026-7007"}
 {"name":"manyhttp","id":"MAL-2024-5349"}
 {"name":"manyhttps","id":"MAL-2024-5350"}
 {"name":"maplotlib","id":"MAL-2023-1895"}
@@ -5180,6 +5189,7 @@
 {"name":"myownpyfiglet","id":"MAL-2025-5119"}
 {"name":"mypackage1337","id":"MAL-2024-5390"}
 {"name":"myproject-bola","id":"MAL-2026-1091"}
+{"name":"myproject234","id":"MAL-2026-7455"}
 {"name":"mypypipkg","id":"MAL-2026-3105"}
 {"name":"myshellcode","id":"MAL-2024-5391"}
 {"name":"mytonctrl","id":"MAL-2025-3452"}
@@ -5278,6 +5288,7 @@
 {"name":"notary-client","id":"MAL-2025-191804"}
 {"name":"noteasonfnsource","id":"MAL-2026-1098"}
 {"name":"notoken887","id":"MAL-2024-11648"}
+{"name":"notrandompacketname","id":"MAL-2026-7456"}
 {"name":"notsogood","id":"MAL-2023-1435"}
 {"name":"novatwo","id":"MAL-2025-1985"}
 {"name":"noway-back","id":"MAL-2025-947"}
@@ -5480,6 +5491,7 @@
 {"name":"otci-openthread","id":"MAL-2024-11652"}
 {"name":"ouc-api","id":"MAL-2025-6561"}
 {"name":"ovcdtwfcak","id":"MAL-2024-5439"}
+{"name":"oxntime","id":"MAL-2026-6975"}
 {"name":"oz-merkle-tree","id":"MAL-2024-10100"}
 {"name":"p-cord","id":"MAL-2024-5440"}
 {"name":"p7zip-full","id":"MAL-2026-790"}
@@ -5544,6 +5556,10 @@
 {"name":"paypalpush","id":"MAL-2023-4822"}
 {"name":"paypalpyw","id":"MAL-2023-4823"}
 {"name":"paypalsplit","id":"MAL-2023-4824"}
+{"name":"paysafe-api","id":"MAL-2026-6926"}
+{"name":"paysafe-kyc","id":"MAL-2026-6927"}
+{"name":"paysafe-payments","id":"MAL-2026-6928"}
+{"name":"paysafe-sdk","id":"MAL-2026-6929"}
 {"name":"pb-common","id":"MAL-2025-6562"}
 {"name":"pckaging","id":"MAL-2024-11655"}
 {"name":"pckg-sv","id":"MAL-2026-2627"}
@@ -5604,6 +5620,7 @@
 {"name":"piauthorizer","id":"MAL-2025-2987"}
 {"name":"piedefender","id":"MAL-2025-3454"}
 {"name":"piepunk","id":"MAL-2024-12322"}
+{"name":"piirgg","id":"MAL-2026-7457"}
 {"name":"pik-utils","id":"MAL-2024-5466"}
 {"name":"pilkow","id":"MAL-2024-5467"}
 {"name":"pill9w","id":"MAL-2024-5468"}
@@ -5756,6 +5773,7 @@
 {"name":"playwrgith","id":"MAL-2024-5552"}
 {"name":"playwright-acustomed","id":"MAL-2026-3354"}
 {"name":"playwright-atoned","id":"MAL-2026-3355"}
+{"name":"playwrightr","id":"MAL-2026-10020"}
 {"name":"pllow","id":"MAL-2023-1948"}
 {"name":"plural","id":"MAL-2025-6567"}
 {"name":"plutodebug","id":"MAL-2024-5553"}
@@ -5981,6 +5999,7 @@
 {"name":"proxiers","id":"MAL-2024-5567"}
 {"name":"proxies-booster-v1","id":"MAL-2024-5568"}
 {"name":"proxieshexler","id":"MAL-2024-5569"}
+{"name":"proxy-check-i","id":"MAL-2026-10100"}
 {"name":"proxycpz","id":"MAL-2024-5570"}
 {"name":"proxyscrapertool","id":"MAL-2024-5571"}
 {"name":"prrogressbar2","id":"MAL-2023-2018"}
@@ -6745,6 +6764,7 @@
 {"name":"py-rever","id":"MAL-2023-5616"}
 {"name":"py-revercontrol","id":"MAL-2023-5617"}
 {"name":"py-revisaram","id":"MAL-2023-5618"}
+{"name":"py-slugify","id":"MAL-2026-6976"}
 {"name":"py-solana-cli","id":"MAL-2024-10110"}
 {"name":"py-solanautil","id":"MAL-2025-4229"}
 {"name":"py-splitcontrolrand","id":"MAL-2023-5619"}
@@ -7033,6 +7053,7 @@
 {"name":"pycryptolibary","id":"MAL-2024-5689"}
 {"name":"pycryptolibrary","id":"MAL-2024-5690"}
 {"name":"pycryptolibv2","id":"MAL-2024-5691"}
+{"name":"pycryptoshuffle","id":"MAL-2026-7458"}
 {"name":"pycryptv7","id":"MAL-2024-5692"}
 {"name":"pydantic-kit","id":"MAL-2025-2989"}
 {"name":"pydantics","id":"MAL-2026-868"}
@@ -7092,6 +7113,12 @@
 {"name":"pygmae","id":"MAL-2023-2065"}
 {"name":"pygments-richstyle","id":"MAL-2025-191654"}
 {"name":"pygrand","id":"MAL-2023-5794"}
+{"name":"pygremlinbox-malware-c2-beacon","id":"MAL-2026-7459"}
+{"name":"pygremlinbox-malware-code-obfuscation","id":"MAL-2026-7460"}
+{"name":"pygremlinbox-malware-credential-harvesting","id":"MAL-2026-7461"}
+{"name":"pygremlinbox-malware-cryptomining-indicators","id":"MAL-2026-7462"}
+{"name":"pygremlinbox-malware-install-execution","id":"MAL-2026-7463"}
+{"name":"pygremlinbox-malware-network-indicators","id":"MAL-2026-7464"}
 {"name":"pyhack","id":"MAL-2025-3459"}
 {"name":"pyheul","id":"MAL-2024-5719"}
 {"name":"pyhjdddo","id":"MAL-2023-8572"}
@@ -7212,6 +7239,7 @@
 {"name":"pypull","id":"MAL-2023-5798"}
 {"name":"pypyw","id":"MAL-2023-5799"}
 {"name":"pyqcolored","id":"MAL-2024-5764"}
+{"name":"pyqt6darktheme","id":"MAL-2026-6960"}
 {"name":"pyqtcolor","id":"MAL-2024-5765"}
 {"name":"pyqubee","id":"MAL-2025-128"}
 {"name":"pyregions-snowflake","id":"MAL-2026-2109"}
@@ -7507,6 +7535,7 @@
 {"name":"qassabi","id":"MAL-2025-964"}
 {"name":"qaxtest-httpx","id":"MAL-2024-5840"}
 {"name":"qdatainstaller","id":"MAL-2026-27"}
+{"name":"qlinforge","id":"MAL-2026-10091"}
 {"name":"qrbarcodegen","id":"MAL-2024-5841"}
 {"name":"qrcodegeneration","id":"MAL-2024-5842"}
 {"name":"qrcoding","id":"MAL-2024-5843"}
@@ -7517,6 +7546,7 @@
 {"name":"quant-backtest-helpers","id":"MAL-2026-5152"}
 {"name":"quantiumbase","id":"MAL-2024-5846"}
 {"name":"quantumania","id":"MAL-2026-1912"}
+{"name":"quatre","id":"MAL-2026-7465"}
 {"name":"quatres","id":"MAL-2026-4829"}
 {"name":"query-profile","id":"MAL-2026-6236"}
 {"name":"queryservice-client","id":"MAL-2026-5"}
@@ -7613,6 +7643,7 @@
 {"name":"randtool","id":"MAL-2023-5897"}
 {"name":"ransomware","id":"MAL-2025-1988"}
 {"name":"rapyd-logger","id":"MAL-2025-5125"}
+{"name":"rarcore","id":"MAL-2026-6977"}
 {"name":"raspberry-getinfo","id":"MAL-2024-5850"}
 {"name":"rawrequest","id":"MAL-2023-5898"}
 {"name":"ray-mcp-server","id":"MAL-2026-5325"}
@@ -8049,11 +8080,14 @@
 {"name":"saml-helper","id":"MAL-2025-5132"}
 {"name":"sample-module","id":"MAL-2025-41758"}
 {"name":"sampling-util","id":"MAL-2024-11700"}
+{"name":"sankislayer","id":"MAL-2026-10119"}
 {"name":"saywh11222","id":"MAL-2024-9022"}
 {"name":"saywh222","id":"MAL-2024-9005"}
 {"name":"saywhu","id":"MAL-2024-9002"}
 {"name":"sc-concurrent-log-handler","id":"MAL-2024-5963"}
 {"name":"sc-oauth2","id":"MAL-2024-5964"}
+{"name":"scan-checker","id":"MAL-2026-7466"}
+{"name":"scanvia","id":"MAL-2026-7467"}
 {"name":"scappy","id":"MAL-2024-5965"}
 {"name":"scarpy","id":"MAL-2023-2198"}
 {"name":"sccikit-learn","id":"MAL-2023-2199"}
@@ -10702,6 +10736,8 @@
 {"name":"trongridlib","id":"MAL-2025-5140"}
 {"name":"trongridperm","id":"MAL-2025-41789"}
 {"name":"trongridpy","id":"MAL-2025-1998"}
+{"name":"tronhap","id":"MAL-2026-6971"}
+{"name":"tronhapy","id":"MAL-2026-6974"}
 {"name":"tronhex","id":"MAL-2025-48903"}
 {"name":"tronhexpy","id":"MAL-2025-48904"}
 {"name":"tronix","id":"MAL-2025-4244"}
@@ -10724,12 +10760,14 @@
 {"name":"tronlix","id":"MAL-2025-4247"}
 {"name":"tronnetpy","id":"MAL-2025-2000"}
 {"name":"tronpad","id":"MAL-2026-907"}
+{"name":"tronpak","id":"MAL-2026-6983"}
 {"name":"tronpath","id":"MAL-2026-3742"}
 {"name":"tronperm","id":"MAL-2025-3478"}
 {"name":"tronpropy","id":"MAL-2025-191913"}
 {"name":"tronpyapi","id":"MAL-2025-6610"}
 {"name":"tronpynet","id":"MAL-2025-2001"}
 {"name":"tronpyweb","id":"MAL-2025-2002"}
+{"name":"tronsev","id":"MAL-2026-7025"}
 {"name":"tronwalletpy","id":"MAL-2025-47809"}
 {"name":"tronwebpy","id":"MAL-2025-2003"}
 {"name":"tronwebwpy","id":"MAL-2025-47810"}
@@ -10756,6 +10794,9 @@
 {"name":"tucan-x","id":"MAL-2023-1421"}
 {"name":"tui-ascii-art","id":"MAL-2026-2117"}
 {"name":"tulipgui-python","id":"MAL-2025-6611"}
+{"name":"turbocalc","id":"MAL-2026-10139"}
+{"name":"turbod","id":"MAL-2026-6979"}
+{"name":"turbom","id":"MAL-2026-7015"}
 {"name":"twilio-rest","id":"MAL-2025-3012"}
 {"name":"twittter","id":"MAL-2024-6173"}
 {"name":"twrap-tool","id":"MAL-2026-6711"}
@@ -11078,6 +11119,7 @@
 {"name":"wasig4321","id":"MAL-2025-2011"}
 {"name":"watchitoring","id":"MAL-2025-3015"}
 {"name":"wave-opensdk","id":"MAL-2024-12368"}
+{"name":"waymo-waymax","id":"MAL-2026-6961"}
 {"name":"wayspiritmcp-enconly","id":"MAL-2025-191924"}
 {"name":"wayspiritmcp-ppa","id":"MAL-2025-191925"}
 {"name":"wayspiritmcp-tpa","id":"MAL-2025-191926"}

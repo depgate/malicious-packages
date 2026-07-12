@@ -529,6 +529,8 @@
 {"name":"Gսna.UI2.WіnForms","id":"MAL-2024-4504"}
 {"name":"Gսna.UI3.WіnForms","id":"MAL-2024-4505"}
 {"name":"Gսոa.UI3.Wіnfօrms","id":"MAL-2024-4506"}
+{"name":"hackney.core.enums","id":"MAL-2026-7448"}
+{"name":"hackney.core.jwt","id":"MAL-2026-7449"}
 {"name":"HarmonyX.Net","id":"MAL-2024-4507"}
 {"name":"HIC.System.Windows.Forms.DataVisualization.Net","id":"MAL-2024-4508"}
 {"name":"Huobi.Net.Core","id":"MAL-2024-4509"}
@@ -674,6 +676,7 @@
 {"name":"Sanka.UI.WinForms","id":"MAL-2024-4636"}
 {"name":"Sanka.UI2.WinForms","id":"MAL-2024-4637"}
 {"name":"Sanka.UI3.WinForms","id":"MAL-2024-4638"}
+{"name":"security_hacks","id":"MAL-2026-7450"}
 {"name":"seedefender","id":"MAL-2025-2923"}
 {"name":"Shade.UI.WinForms","id":"MAL-2024-4639"}
 {"name":"Shade.WPF.Controls","id":"MAL-2024-4640"}
@@ -742,6 +745,7 @@
 {"name":"Ultimate.Wpf.Toolkit","id":"MAL-2024-4691"}
 {"name":"VRCһаt.API","id":"MAL-2024-4692"}
 {"name":"VRCһаt.API.Client","id":"MAL-2024-4693"}
+{"name":"vspropertypages","id":"MAL-2026-7451"}
 {"name":"Whatsapp.API","id":"MAL-2024-4694"}
 {"name":"WindowsAPICodePack.Net","id":"MAL-2024-4695"}
 {"name":"Winforms","id":"MAL-2024-4696"}
