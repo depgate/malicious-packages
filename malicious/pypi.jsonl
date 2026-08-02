@@ -98,16 +98,20 @@
 {"name":"agents-kit","id":"MAL-2025-2930"}
 {"name":"ai-cypher","id":"MAL-2025-192683"}
 {"name":"ai-labs-snippets-sdk","id":"MAL-2025-5094"}
+{"name":"ai-perf-toolkit","id":"MAL-2026-11197"}
 {"name":"ai-solver-gen","id":"MAL-2024-4743"}
 {"name":"ai-solver-images","id":"MAL-2024-4744"}
 {"name":"ai-solver-py","id":"MAL-2024-4745"}
 {"name":"ai-spellcheckers","id":"MAL-2026-3615"}
+{"name":"aiassistcore","id":"MAL-2026-11414"}
+{"name":"aichannel","id":"MAL-2026-11415"}
 {"name":"aicreator","id":"MAL-2024-4746"}
 {"name":"aicreatorpack","id":"MAL-2024-4747"}
 {"name":"aicreatorpackage","id":"MAL-2024-4748"}
 {"name":"aietelegram","id":"MAL-2024-4749"}
 {"name":"aihottp","id":"MAL-2023-1575"}
 {"name":"aiihttp","id":"MAL-2026-35"}
+{"name":"ailaunchkit","id":"MAL-2026-11416"}
 {"name":"ailyboostbot","id":"MAL-2024-4750"}
 {"name":"ailynitro","id":"MAL-2024-4751"}
 {"name":"ailzyn1tr0","id":"MAL-2024-4752"}
@@ -149,6 +153,7 @@
 {"name":"aiottp","id":"MAL-2023-1582"}
 {"name":"aioutil3","id":"MAL-2026-1289"}
 {"name":"aiphttp","id":"MAL-2025-2932"}
+{"name":"aiprepkit","id":"MAL-2026-11417"}
 {"name":"airbnb-identity","id":"MAL-2026-977"}
 {"name":"airduq","id":"MAL-2024-4758"}
 {"name":"airflow-provider-spirit","id":"MAL-2026-10754"}
@@ -303,6 +308,9 @@
 {"name":"asciicolor","id":"MAL-2024-4780"}
 {"name":"asciidrawing","id":"MAL-2024-9944"}
 {"name":"asciitoart","id":"MAL-2026-2624"}
+{"name":"asdk-plugin-ai-platform","id":"MAL-2026-11421"}
+{"name":"asdk-plugin-alphagen","id":"MAL-2026-11422"}
+{"name":"asdk-plugin-legacy","id":"MAL-2026-11423"}
 {"name":"ase-jreq","id":"MAL-2025-191684"}
 {"name":"aslmutetion","id":"MAL-2024-11529"}
 {"name":"asmutation","id":"MAL-2024-10405"}
@@ -827,6 +835,7 @@
 {"name":"cas-base","id":"MAL-2025-193014"}
 {"name":"cascadev","id":"MAL-2024-10820"}
 {"name":"cat-admin-tool","id":"MAL-2026-651"}
+{"name":"catalogai","id":"MAL-2026-11418"}
 {"name":"catbannerslol","id":"MAL-2024-4883"}
 {"name":"catbannersxd","id":"MAL-2024-4884"}
 {"name":"catchmeoutsidehawbade","id":"MAL-2025-6474"}
@@ -904,6 +913,7 @@
 {"name":"cffy","id":"MAL-2024-4887"}
 {"name":"cfgmgr-syn","id":"MAL-2026-1999"}
 {"name":"cfgmgr-sync","id":"MAL-2026-2000"}
+{"name":"cfgzen","id":"MAL-2026-11094"}
 {"name":"cflashfiles","id":"MAL-2026-469"}
 {"name":"chacha-lite-encrypt","id":"MAL-2026-1482"}
 {"name":"chain-validator","id":"MAL-2025-4209"}
@@ -997,6 +1007,7 @@
 {"name":"coffin-codes-pro","id":"MAL-2024-12243"}
 {"name":"coffin-grave","id":"MAL-2024-12244"}
 {"name":"coffin2022","id":"MAL-2024-12245"}
+{"name":"cognikit","id":"MAL-2026-11419"}
 {"name":"coinanalysis","id":"MAL-2025-2946"}
 {"name":"coinanalyze","id":"MAL-2025-2947"}
 {"name":"coingenerator","id":"MAL-2025-2948"}
@@ -5031,6 +5042,7 @@
 {"name":"mcp-runcmd-server","id":"MAL-2025-191788"}
 {"name":"mcp-runcommand-server","id":"MAL-2025-191647"}
 {"name":"mcp-runcommand-server2","id":"MAL-2025-191648"}
+{"name":"mcp-search-server","id":"MAL-2026-11198"}
 {"name":"mcp-transport-proto","id":"MAL-2026-1990"}
 {"name":"mcp-weather-full","id":"MAL-2025-191789"}
 {"name":"mcp-xyz","id":"MAL-2025-4223"}
@@ -5141,7 +5153,11 @@
 {"name":"mkdocs-with-pdfs","id":"MAL-2024-12306"}
 {"name":"mkdsli","id":"MAL-2025-945"}
 {"name":"ml-core-airflow-auth","id":"MAL-2026-10919"}
+{"name":"ml-data-shared","id":"MAL-2026-11199"}
+{"name":"ml-fdbk-shared","id":"MAL-2026-11200"}
 {"name":"ml-linear-regression-lib","id":"MAL-2024-10045"}
+{"name":"ml-nps-shared","id":"MAL-2026-11201"}
+{"name":"ml-shared","id":"MAL-2026-11202"}
 {"name":"ml2000","id":"MAL-2026-4756"}
 {"name":"mlc-ai-nightly","id":"MAL-2025-1980"}
 {"name":"mlc-ai-nightly-cu123","id":"MAL-2025-1981"}
@@ -5386,6 +5402,7 @@
 {"name":"nvidiaurl","id":"MAL-2023-4798"}
 {"name":"nvidiavisa","id":"MAL-2023-4799"}
 {"name":"nvkvictim-poc","id":"MAL-2023-8289"}
+{"name":"nvtorch-oot-nightly","id":"MAL-2026-11425"}
 {"name":"nwin32tls","id":"MAL-2026-2431"}
 {"name":"nwin64tls","id":"MAL-2026-2432"}
 {"name":"oaieval","id":"MAL-2024-12315"}
@@ -5661,6 +5678,7 @@
 {"name":"petace","id":"MAL-2025-950"}
 {"name":"pgame","id":"MAL-2023-1940"}
 {"name":"pgmysql","id":"MAL-2025-2986"}
+{"name":"phabricator-client","id":"MAL-2026-11195"}
 {"name":"phantomdecoders","id":"MAL-2024-10103"}
 {"name":"phantomdecoderss","id":"MAL-2024-10104"}
 {"name":"phasedibd","id":"MAL-2026-2533"}
@@ -7681,6 +7699,7 @@
 {"name":"rando0192490","id":"MAL-2025-191655"}
 {"name":"random-00013","id":"MAL-2025-2994"}
 {"name":"random-security-test-pkg","id":"MAL-2024-12335"}
+{"name":"random-ua-generator","id":"MAL-2026-11068"}
 {"name":"randomad","id":"MAL-2023-5882"}
 {"name":"randomchoicemas","id":"MAL-2026-3324"}
 {"name":"randomgame","id":"MAL-2023-5883"}
@@ -7753,6 +7772,7 @@
 {"name":"regexparam","id":"MAL-2025-41736"}
 {"name":"regixtest","id":"MAL-2025-48896"}
 {"name":"regrand","id":"MAL-2023-5906"}
+{"name":"reguestsc","id":"MAL-2026-11413"}
 {"name":"regui","id":"MAL-2023-5907"}
 {"name":"rehttp","id":"MAL-2023-5908"}
 {"name":"rehttps","id":"MAL-2025-6575"}
@@ -9629,6 +9649,7 @@
 {"name":"telegreph","id":"MAL-2025-193008"}
 {"name":"telemaster","id":"MAL-2025-41772"}
 {"name":"telepycore","id":"MAL-2025-191889"}
+{"name":"telerape","id":"MAL-2026-11424"}
 {"name":"telerer","id":"MAL-2024-6099"}
 {"name":"telethon-pro-safe","id":"MAL-2026-4859"}
 {"name":"telethon2","id":"MAL-2023-8369"}
@@ -10854,6 +10875,7 @@
 {"name":"tronyx","id":"MAL-2025-2005"}
 {"name":"trove4j","id":"MAL-2025-998"}
 {"name":"trstk","id":"MAL-2025-48909"}
+{"name":"trtllm-subdir-test","id":"MAL-2026-11426"}
 {"name":"trunket-dev-driver","id":"MAL-2026-982"}
 {"name":"trustdecoders","id":"MAL-2024-10177"}
 {"name":"trustdecoderss","id":"MAL-2024-10178"}
@@ -11161,6 +11183,7 @@
 {"name":"vsc-accountpage-clients","id":"MAL-2024-11747"}
 {"name":"vsc-config","id":"MAL-2024-11748"}
 {"name":"vtk-osmesa","id":"MAL-2025-5847"}
+{"name":"vtranalytic","id":"MAL-2026-11156"}
 {"name":"vtvqa","id":"MAL-2024-10839"}
 {"name":"vulndify-mcp-server","id":"MAL-2026-4774"}
 {"name":"vvyper","id":"MAL-2023-2350"}
@@ -11194,6 +11217,7 @@
 {"name":"wallettronpy","id":"MAL-2025-5141"}
 {"name":"walletutility","id":"MAL-2025-6620"}
 {"name":"walletweb3","id":"MAL-2025-4260"}
+{"name":"walmart-genai-trace","id":"MAL-2026-11420"}
 {"name":"wandb-widget","id":"MAL-2026-620"}
 {"name":"waseem4321","id":"MAL-2025-2010"}
 {"name":"wasi8787878","id":"MAL-2025-1004"}
