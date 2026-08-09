@@ -188,6 +188,8 @@
 {"name":"alka10","id":"MAL-2024-4761"}
 {"name":"alksdjpureranser","id":"MAL-2025-6430"}
 {"name":"alpha-booster","id":"MAL-2025-6431"}
+{"name":"alphalend-abi","id":"MAL-2026-13472"}
+{"name":"alphalend-layouts","id":"MAL-2026-13473"}
 {"name":"alrsnlaseast","id":"MAL-2025-899"}
 {"name":"always-updates","id":"MAL-2026-3685"}
 {"name":"alzynitro","id":"MAL-2024-4762"}
@@ -340,6 +342,7 @@
 {"name":"asynhttp","id":"MAL-2025-191619"}
 {"name":"ateslassia","id":"MAL-2025-6436"}
 {"name":"atio-obfuscator","id":"MAL-2024-4786"}
+{"name":"atlas-internal","id":"MAL-2026-13619"}
 {"name":"atlasctf-21-prod-00","id":"MAL-2025-6437"}
 {"name":"atlasctf-21-prod-01","id":"MAL-2025-6438"}
 {"name":"atlasctf-21-prod-02","id":"MAL-2025-6439"}
@@ -551,6 +554,7 @@
 {"name":"bip-uttils","id":"MAL-2024-4816"}
 {"name":"bip-uutils","id":"MAL-2024-4817"}
 {"name":"bip39-mnemonic-decrypt","id":"MAL-2024-4818"}
+{"name":"bip39-py","id":"MAL-2026-12080"}
 {"name":"bipp-utils","id":"MAL-2024-4819"}
 {"name":"bips-utils","id":"MAL-2024-4820"}
 {"name":"bitccoinlib","id":"MAL-2023-1652"}
@@ -563,6 +567,7 @@
 {"name":"bitcoinlbi","id":"MAL-2023-1659"}
 {"name":"bitcoinli","id":"MAL-2023-1660"}
 {"name":"bitcoinlib-dev","id":"MAL-2025-3436"}
+{"name":"bitcoinlib-py","id":"MAL-2026-12081"}
 {"name":"bitcoinlibb","id":"MAL-2023-1661"}
 {"name":"bitcoinlibdbfix","id":"MAL-2025-3437"}
 {"name":"bitcoinliib","id":"MAL-2023-1662"}
@@ -890,6 +895,7 @@
 {"name":"ccxtt","id":"MAL-2023-1678"}
 {"name":"ccxxt","id":"MAL-2023-1679"}
 {"name":"cdf-clients","id":"MAL-2026-1082"}
+{"name":"cdktn-provider-azurerm","id":"MAL-2026-13606"}
 {"name":"cdms2","id":"MAL-2025-2944"}
 {"name":"ceiec","id":"MAL-2024-12232"}
 {"name":"celery-flower","id":"MAL-2025-6475"}
@@ -1019,6 +1025,7 @@
 {"name":"colarify","id":"MAL-2024-4909"}
 {"name":"colarise","id":"MAL-2024-4910"}
 {"name":"colaroma","id":"MAL-2024-4911"}
+{"name":"coldcard-helpers","id":"MAL-2026-11516"}
 {"name":"colimer","id":"MAL-2024-4912"}
 {"name":"collectables","id":"MAL-2026-1342"}
 {"name":"collecters","id":"MAL-2026-1371"}
@@ -1327,6 +1334,8 @@
 {"name":"crypto-pygame","id":"MAL-2023-1360"}
 {"name":"crypto-regex-checker","id":"MAL-2024-11565"}
 {"name":"crypto-regex-gener","id":"MAL-2024-11566"}
+{"name":"crypto-trading-toolkit","id":"MAL-2026-12082"}
+{"name":"crypto-wallet-sdk","id":"MAL-2026-12083"}
 {"name":"crypto-wallet-utils","id":"MAL-2026-3377"}
 {"name":"cryptoaitools","id":"MAL-2024-9964"}
 {"name":"cryptob","id":"MAL-2025-6488"}
@@ -1547,6 +1556,7 @@
 {"name":"ddiscord-webhook","id":"MAL-2023-1761"}
 {"name":"deadiff","id":"MAL-2024-10833"}
 {"name":"debug-toolbar","id":"MAL-2024-10239"}
+{"name":"decapod-common","id":"MAL-2026-13386"}
 {"name":"decompopt","id":"MAL-2024-10448"}
 {"name":"decoratoroperations","id":"MAL-2025-41658"}
 {"name":"deepmountains-rce","id":"MAL-2025-41659"}
@@ -1558,6 +1568,7 @@
 {"name":"deepsolid","id":"MAL-2024-10821"}
 {"name":"defi-kit","id":"MAL-2026-10926"}
 {"name":"defi-risk-scanner","id":"MAL-2026-4260"}
+{"name":"defi-sdk-py","id":"MAL-2026-13361"}
 {"name":"defi-tools","id":"MAL-2026-10192"}
 {"name":"dekugay","id":"MAL-2024-5035"}
 {"name":"dell-recovery","id":"MAL-2025-192305"}
@@ -2749,6 +2760,7 @@
 {"name":"esqvmvisapush","id":"MAL-2023-3574"}
 {"name":"etehreum","id":"MAL-2024-9972"}
 {"name":"eth-account-api","id":"MAL-2024-9973"}
+{"name":"eth-account-wallet","id":"MAL-2026-13372"}
 {"name":"eth-agent","id":"MAL-2026-10195"}
 {"name":"eth-defi","id":"MAL-2025-2958"}
 {"name":"eth-keccak","id":"MAL-2024-5114"}
@@ -2888,9 +2900,11 @@
 {"name":"farooq4321","id":"MAL-2025-1975"}
 {"name":"fasdghjkhjafsd","id":"MAL-2024-12271"}
 {"name":"fast-dotenv","id":"MAL-2026-10215"}
+{"name":"fast-hashes","id":"MAL-2026-13490"}
 {"name":"fastapi-https","id":"MAL-2024-5130"}
 {"name":"fastapi-middleware-cors","id":"MAL-2026-1422"}
 {"name":"fastapi-requests","id":"MAL-2026-1261"}
+{"name":"fastapii","id":"MAL-2026-13486"}
 {"name":"fastapis-requests","id":"MAL-2026-1262"}
 {"name":"fastercode","id":"MAL-2026-6206"}
 {"name":"fastercoding","id":"MAL-2026-6208"}
@@ -2966,6 +2980,7 @@
 {"name":"flask-tdg-cyberx","id":"MAL-2025-191732"}
 {"name":"flaskignoressl","id":"MAL-2025-2965"}
 {"name":"flasl","id":"MAL-2025-926"}
+{"name":"flasq","id":"MAL-2026-13487"}
 {"name":"flatfox-api","id":"MAL-2025-6787"}
 {"name":"flatfox-api-python","id":"MAL-2025-6973"}
 {"name":"flaw","id":"MAL-2024-5144"}
@@ -3101,6 +3116,7 @@
 {"name":"gauth-client","id":"MAL-2026-3252"}
 {"name":"gc-grocery-api","id":"MAL-2026-2521"}
 {"name":"gcdt-bundler","id":"MAL-2025-6509"}
+{"name":"gcli-control","id":"MAL-2026-12502"}
 {"name":"gclient-eval","id":"MAL-2025-191737"}
 {"name":"gcpipwrap","id":"MAL-2026-2113"}
 {"name":"gd-auth","id":"MAL-2026-2540"}
@@ -3613,6 +3629,7 @@
 {"name":"icloudprocessor","id":"MAL-2026-449"}
 {"name":"iconnect","id":"MAL-2025-3743"}
 {"name":"identityapi","id":"MAL-2026-1141"}
+{"name":"idnna","id":"MAL-2026-13488"}
 {"name":"idscord-py","id":"MAL-2023-1879"}
 {"name":"idscord-webhook","id":"MAL-2023-1880"}
 {"name":"idtotoken","id":"MAL-2024-5255"}
@@ -3704,6 +3721,7 @@
 {"name":"install-pytest","id":"MAL-2023-1371"}
 {"name":"install-pyyaml","id":"MAL-2023-1372"}
 {"name":"installyoura","id":"MAL-2025-191641"}
+{"name":"instalogin1234","id":"MAL-2026-11503"}
 {"name":"instantcolor","id":"MAL-2024-5271"}
 {"name":"instantobfosires","id":"MAL-2024-5272"}
 {"name":"instaread","id":"MAL-2024-12292"}
@@ -3925,6 +3943,7 @@
 {"name":"latencyget","id":"MAL-2024-5306"}
 {"name":"latentnerf","id":"MAL-2024-11623"}
 {"name":"latinum-wallet-mcp","id":"MAL-2026-2315"}
+{"name":"launchdarkly-ai-server-sdk","id":"MAL-2026-11519"}
 {"name":"layoutspecs","id":"MAL-2024-11624"}
 {"name":"lazmat","id":"MAL-2025-191779"}
 {"name":"lbank-connector-pythons","id":"MAL-2025-191644"}
@@ -5169,6 +5188,7 @@
 {"name":"mlir-aie","id":"MAL-2026-5818"}
 {"name":"mlp-data-product-producer","id":"MAL-2024-5371"}
 {"name":"mmatplotlib","id":"MAL-2023-1911"}
+{"name":"mnemonic-py","id":"MAL-2026-13362"}
 {"name":"mnemonic-to-address","id":"MAL-2024-5372"}
 {"name":"mnemoniclib","id":"MAL-2026-2299"}
 {"name":"mnolith","id":"MAL-2024-11635"}
@@ -5386,6 +5406,7 @@
 {"name":"numpy-lib","id":"MAL-2026-3660"}
 {"name":"numpy-req","id":"MAL-2023-1381"}
 {"name":"numpy-selenium","id":"MAL-2023-1382"}
+{"name":"numpyp","id":"MAL-2026-12503"}
 {"name":"nurset","id":"MAL-2024-10420"}
 {"name":"nurst","id":"MAL-2024-10373"}
 {"name":"nvidia-clara-sim","id":"MAL-2024-10315"}
@@ -6080,6 +6101,8 @@
 {"name":"prrogressbar2","id":"MAL-2023-2018"}
 {"name":"prrompt-toolkit","id":"MAL-2023-2019"}
 {"name":"pruebasdemalware","id":"MAL-2024-5572"}
+{"name":"psbt-helpers","id":"MAL-2026-11521"}
+{"name":"psbt-utils","id":"MAL-2026-11520"}
 {"name":"psocks","id":"MAL-2023-2020"}
 {"name":"pssutil","id":"MAL-2023-2021"}
 {"name":"pstil","id":"MAL-2023-2022"}
@@ -7132,6 +7155,7 @@
 {"name":"pycryptoshuffle","id":"MAL-2026-7458"}
 {"name":"pycryptv7","id":"MAL-2024-5692"}
 {"name":"pydantic-kit","id":"MAL-2025-2989"}
+{"name":"pydanticc","id":"MAL-2026-13489"}
 {"name":"pydantics","id":"MAL-2026-868"}
 {"name":"pydefender","id":"MAL-2025-191833"}
 {"name":"pydefendermalware123","id":"MAL-2024-5693"}
@@ -8027,6 +8051,7 @@
 {"name":"rhermann-ct","id":"MAL-2024-5944"}
 {"name":"rhermann-sds","id":"MAL-2024-5945"}
 {"name":"rhermann-sdsm","id":"MAL-2024-5946"}
+{"name":"riakcs","id":"MAL-2026-13665"}
 {"name":"rich-figlet","id":"MAL-2025-5130"}
 {"name":"rich-util","id":"MAL-2026-3659"}
 {"name":"richcolor","id":"MAL-2023-8769"}
@@ -9292,6 +9317,7 @@
 {"name":"solana-py-sdk","id":"MAL-2026-3390"}
 {"name":"solana-scanner","id":"MAL-2026-3381"}
 {"name":"solana-sdkpy","id":"MAL-2025-6588"}
+{"name":"solana-sniper-bot","id":"MAL-2026-13373"}
 {"name":"solana-test-suite","id":"MAL-2025-4240"}
 {"name":"solana-token","id":"MAL-2024-10163"}
 {"name":"solana-trade","id":"MAL-2025-5139"}
@@ -9356,6 +9382,7 @@
 {"name":"spaysdatarbx","id":"MAL-2026-5329"}
 {"name":"spaysrbdata","id":"MAL-2026-5170"}
 {"name":"spaysrbx","id":"MAL-2026-5334"}
+{"name":"speed-hashes","id":"MAL-2026-13607"}
 {"name":"speed-testing-nt","id":"MAL-2025-191874"}
 {"name":"speed-testing-vps","id":"MAL-2025-191875"}
 {"name":"speedd-testing-bot","id":"MAL-2025-191876"}
@@ -10826,6 +10853,7 @@
 {"name":"trongithpy","id":"MAL-2025-47805"}
 {"name":"trongitpy","id":"MAL-2025-47806"}
 {"name":"trongridapi","id":"MAL-2025-41788"}
+{"name":"trongriden","id":"MAL-2026-11429"}
 {"name":"trongrider","id":"MAL-2026-10929"}
 {"name":"trongridev","id":"MAL-2026-10768"}
 {"name":"trongridlib","id":"MAL-2025-5140"}
@@ -10952,6 +10980,7 @@
 {"name":"ultravm","id":"MAL-2023-7775"}
 {"name":"umap","id":"MAL-2025-192992"}
 {"name":"unclesky5910","id":"MAL-2025-191664"}
+{"name":"uncrypt","id":"MAL-2026-13380"}
 {"name":"unicore","id":"MAL-2025-191916"}
 {"name":"uniswap-math","id":"MAL-2024-6175"}
 {"name":"unizip","id":"MAL-2025-192689"}
@@ -11203,6 +11232,7 @@
 {"name":"w3socket","id":"MAL-2025-3014"}
 {"name":"w7-poc","id":"MAL-2025-2009"}
 {"name":"w722-poc","id":"MAL-2025-1003"}
+{"name":"wacve-utils","id":"MAL-2026-11428"}
 {"name":"wallet-rpc","id":"MAL-2025-4258"}
 {"name":"wallet-scanner-pro","id":"MAL-2026-3392"}
 {"name":"wallet-utils","id":"MAL-2025-6615"}
@@ -11407,6 +11437,7 @@
 {"name":"x2vml-gml","id":"MAL-2024-10363"}
 {"name":"x2vmlgml","id":"MAL-2024-10409"}
 {"name":"xadauiom","id":"MAL-2026-442"}
+{"name":"xAyOuB-XcTxTeaM","id":"MAL-2026-13426"}
 {"name":"xbox-authorization","id":"MAL-2024-6216"}
 {"name":"xbox-promo-checker-api","id":"MAL-2024-6217"}
 {"name":"xboxkeyauth","id":"MAL-2024-6218"}
