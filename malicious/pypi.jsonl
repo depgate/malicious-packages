@@ -531,6 +531,7 @@
 {"name":"bignum","id":"MAL-2025-192391"}
 {"name":"bignum-devel","id":"MAL-2024-4800"}
 {"name":"bigpyx","id":"MAL-2025-192430"}
+{"name":"bigtime","id":"MAL-2026-13712"}
 {"name":"biip-utils","id":"MAL-2024-4801"}
 {"name":"biitcoinlib","id":"MAL-2023-1651"}
 {"name":"binance-sdk-ebate","id":"MAL-2025-47747"}
@@ -673,6 +674,8 @@
 {"name":"bsodinator","id":"MAL-2024-4838"}
 {"name":"bt-burn-watch","id":"MAL-2026-5312"}
 {"name":"bt-signal-utils","id":"MAL-2026-5160"}
+{"name":"btcflip","id":"MAL-2026-13681"}
+{"name":"btcflx","id":"MAL-2026-13682"}
 {"name":"btcli","id":"MAL-2025-47750"}
 {"name":"btcli-security","id":"MAL-2026-162"}
 {"name":"btcoinlib","id":"MAL-2023-1670"}
@@ -924,6 +927,7 @@
 {"name":"chacha-lite-encrypt","id":"MAL-2026-1482"}
 {"name":"chain-validator","id":"MAL-2025-4209"}
 {"name":"chain00x","id":"MAL-2024-11555"}
+{"name":"chaintest","id":"MAL-2026-13686"}
 {"name":"chainutils","id":"MAL-2026-2820"}
 {"name":"chalk-fancy","id":"MAL-2026-3212"}
 {"name":"chalk-harness","id":"MAL-2025-6476"}
@@ -1423,6 +1427,7 @@
 {"name":"ctyps","id":"MAL-2024-5010"}
 {"name":"cuatomtkinter","id":"MAL-2024-5011"}
 {"name":"cubaflixdownload","id":"MAL-2026-900"}
+{"name":"cubesat-upstream-driver","id":"MAL-2026-13666"}
 {"name":"cubifyanything","id":"MAL-2026-5404"}
 {"name":"cugraph-dgl","id":"MAL-2025-4698"}
 {"name":"cugraph-service-client","id":"MAL-2025-4699"}
@@ -1752,6 +1757,8 @@
 {"name":"django-storage","id":"MAL-2025-2956"}
 {"name":"djangoframework-test","id":"MAL-2025-191720"}
 {"name":"dlibex","id":"MAL-2024-11579"}
+{"name":"dlmm","id":"MAL-2026-13728"}
+{"name":"dlmm-sdk","id":"MAL-2026-13729"}
 {"name":"dlocal-cli","id":"MAL-2026-3424"}
 {"name":"dlty","id":"MAL-2026-3690"}
 {"name":"dmclc","id":"MAL-2026-2106"}
@@ -2834,6 +2841,7 @@
 {"name":"etlisalat","id":"MAL-2024-5121"}
 {"name":"etnsorflow","id":"MAL-2023-1827"}
 {"name":"ettherium","id":"MAL-2024-10021"}
+{"name":"euler-sdk","id":"MAL-2026-13730"}
 {"name":"eutherium","id":"MAL-2024-10022"}
 {"name":"evannlegoat","id":"MAL-2024-5122"}
 {"name":"evil-package","id":"MAL-2024-10023"}
@@ -3805,6 +3813,8 @@
 {"name":"jmdrs","id":"MAL-2025-6530"}
 {"name":"johnhammondfanpackage124","id":"MAL-2024-5281"}
 {"name":"johnhammondontop183","id":"MAL-2024-5282"}
+{"name":"joule-btp-extension","id":"MAL-2026-13732"}
+{"name":"joule-sbx-poc","id":"MAL-2026-13756"}
 {"name":"joyboyw","id":"MAL-2025-192322"}
 {"name":"jsbip39-decrypt","id":"MAL-2024-5283"}
 {"name":"jsonconfig-utils","id":"MAL-2026-849"}
@@ -3900,7 +3910,9 @@
 {"name":"kmvn-ekjvnbwkhjbewv","id":"MAL-2024-12298"}
 {"name":"kokokoako","id":"MAL-2023-8566"}
 {"name":"kongstrong","id":"MAL-2024-10039"}
+{"name":"kotanku","id":"MAL-2026-13667"}
 {"name":"kotlin-stdlib-jdk8","id":"MAL-2025-939"}
+{"name":"kotoraka","id":"MAL-2026-13683"}
 {"name":"kraken-trader","id":"MAL-2026-2517"}
 {"name":"kraken-virus","id":"MAL-2025-47780"}
 {"name":"kraken123","id":"MAL-2025-191778"}
@@ -5212,6 +5224,7 @@
 {"name":"morecolor","id":"MAL-2024-5376"}
 {"name":"morin","id":"MAL-2026-4757"}
 {"name":"morosint","id":"MAL-2025-191795"}
+{"name":"morpho-sdk","id":"MAL-2026-13731"}
 {"name":"morty-package","id":"MAL-2026-595"}
 {"name":"mousemovement","id":"MAL-2024-5377"}
 {"name":"movers","id":"MAL-2024-5378"}
@@ -5327,6 +5340,8 @@
 {"name":"neuralforge-ml","id":"MAL-2026-5090"}
 {"name":"neurodrift","id":"MAL-2026-5797"}
 {"name":"neursts","id":"MAL-2024-10588"}
+{"name":"neutrl-contracts","id":"MAL-2026-13709"}
+{"name":"neutrl-core","id":"MAL-2026-13710"}
 {"name":"neverbeentg","id":"MAL-2024-5404"}
 {"name":"neverbeentgg","id":"MAL-2024-5405"}
 {"name":"neverinstallme","id":"MAL-2026-2686"}
@@ -5868,6 +5883,7 @@
 {"name":"playwright-atoned","id":"MAL-2026-3355"}
 {"name":"playwrightr","id":"MAL-2026-10020"}
 {"name":"pllow","id":"MAL-2023-1948"}
+{"name":"plp-contract","id":"MAL-2026-13711"}
 {"name":"plural","id":"MAL-2025-6567"}
 {"name":"plutodebug","id":"MAL-2024-5553"}
 {"name":"plutotesting","id":"MAL-2024-5554"}
@@ -7397,6 +7413,7 @@
 {"name":"pystylish","id":"MAL-2026-6076"}
 {"name":"pysubprocess","id":"MAL-2024-5783"}
 {"name":"pyswyfter","id":"MAL-2025-41722"}
+{"name":"pytablute","id":"MAL-2026-13685"}
 {"name":"pytarlooko","id":"MAL-2023-8587"}
 {"name":"pytasler","id":"MAL-2023-8588"}
 {"name":"pytbon","id":"MAL-2024-10126"}
@@ -9667,6 +9684,7 @@
 {"name":"telebot-info","id":"MAL-2026-930"}
 {"name":"telebot-infoe","id":"MAL-2026-934"}
 {"name":"telebot-infoo","id":"MAL-2026-935"}
+{"name":"telebot-pro","id":"MAL-2026-13757"}
 {"name":"telegram-lite-grabber","id":"MAL-2026-6051"}
 {"name":"telegramdatas","id":"MAL-2026-1498"}
 {"name":"telegramdoxing","id":"MAL-2025-191888"}
