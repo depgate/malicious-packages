@@ -458,6 +458,7 @@
 {"name":"@ai-plus/de-agent-sdk","id":"MAL-2026-11175"}
 {"name":"@ai-studio-web/app","id":"MAL-2026-1020"}
 {"name":"@ai-support-agent/cli","id":"MAL-2026-10707"}
+{"name":"@ai-vertical/ai-agent","id":"MAL-2026-14070"}
 {"name":"@ai0x1337/budoux-extension","id":"MAL-2025-6330","versions":["99.0.0"]}
 {"name":"@ai_/autoprefixers","id":"MAL-2026-11120"}
 {"name":"@aia-digital/request-module","id":"MAL-2022-63"}
@@ -4103,6 +4104,7 @@
 {"name":"@everreal/validate-esmoduleinterop-imports","id":"MAL-2025-191216"}
 {"name":"@everreal/web-analytics","id":"MAL-2025-191217"}
 {"name":"@evg-ui/lib","id":"MAL-2025-5332"}
+{"name":"@evial/runtime-health","id":"MAL-2026-14159"}
 {"name":"@evilpacket/art","id":"MAL-2022-255"}
 {"name":"@evo-tech/backoffice-test-api","id":"MAL-2025-48289"}
 {"name":"@evoja-web/create-react-project","id":"MAL-2026-2710"}
@@ -4336,6 +4338,7 @@
 {"name":"@getstep/sdk","id":"MAL-2022-7443"}
 {"name":"@gettilled/commitlint-preset","id":"MAL-2022-287"}
 {"name":"@gettilled/tslint-preset","id":"MAL-2022-288"}
+{"name":"@gfe/lx-watcher","id":"MAL-2026-14353"}
 {"name":"@gfgtech/ui","id":"MAL-2025-3662","versions":["99.9.1"]}
 {"name":"@ghost_debugger/nanocache","id":"MAL-2026-14046"}
 {"name":"@giftyhq/widget-components","id":"MAL-2026-5747"}
@@ -4517,6 +4520,7 @@
 {"name":"@guangnao/agent-proxy","id":"MAL-2026-14047"}
 {"name":"@guangnao/claude-cli","id":"MAL-2026-13209"}
 {"name":"@guards-lib/auth","id":"MAL-2026-2582"}
+{"name":"@guildai-services/guildai","id":"MAL-2026-14125"}
 {"name":"@gumtree/ui-library","id":"MAL-2023-37"}
 {"name":"@gusmano/reext","id":"MAL-2026-3684"}
 {"name":"@gutierre0x80/ads.components.button","id":"MAL-2026-7074"}
@@ -4826,6 +4830,7 @@
 {"name":"@hsbc-mfe/host","id":"MAL-2026-2332"}
 {"name":"@httpactions/encode-url","id":"MAL-2026-6139"}
 {"name":"@httpactions/strict-uri-encode","id":"MAL-2026-6140"}
+{"name":"@httttt/mcp-demo","id":"MAL-2026-14315"}
 {"name":"@hub-la/payments-proto","id":"MAL-2025-5981","versions":["12.0.0"]}
 {"name":"@hubportal/sdk","id":"MAL-2023-1081"}
 {"name":"@hubsync/web-sdk-react","id":"MAL-2026-11564"}
@@ -4873,6 +4878,7 @@
 {"name":"@ice-idp/webpack","id":"MAL-2025-8077"}
 {"name":"@iceberg-react/test-package","id":"MAL-2024-9466"}
 {"name":"@icmb/fetlife-assets","id":"MAL-2022-344"}
+{"name":"@idanefraim/my-ui-kit","id":"MAL-2026-14309"}
 {"name":"@identity-authn/authn-js-sdk","id":"MAL-2025-6905","versions":["9.9.9"]}
 {"name":"@idme-components/component-utilities","id":"MAL-2025-2216"}
 {"name":"@idms-corp/auth-ui","id":"MAL-2026-10224"}
@@ -5037,6 +5043,7 @@
 {"name":"@jplopezy/connectivity-test-do-not-install","id":"MAL-2026-10220"}
 {"name":"@jquense/component-playground","id":"MAL-2025-8079"}
 {"name":"@jr0ch17/rce-jr0ch17","id":"MAL-2022-372"}
+{"name":"@js-lib-team/env-parser","id":"MAL-2026-14344"}
 {"name":"@js-to-lua/convert","id":"MAL-2025-47004"}
 {"name":"@js-to-lua/fast-follow-commands","id":"MAL-2025-47005"}
 {"name":"@js-to-lua/handler-utils","id":"MAL-2025-47006"}
@@ -5197,6 +5204,7 @@
 {"name":"@juigorg/voluptas-perferendis-eius","id":"MAL-2025-42599"}
 {"name":"@juigorg/voluptates-aperiam","id":"MAL-2025-8120"}
 {"name":"@jumpstart-ui/utils","id":"MAL-2022-373"}
+{"name":"@junofficial/baileys","id":"MAL-2026-14101"}
 {"name":"@junyoung-kim/reins","id":"MAL-2026-13432"}
 {"name":"@jupiter-sdk/trade","id":"MAL-2025-47430"}
 {"name":"@justauth/fetlife-assets","id":"MAL-2022-374"}
@@ -5772,6 +5780,7 @@
 {"name":"@lexisnexisrisk/insider-threat-platform","id":"MAL-2026-6629"}
 {"name":"@lg-private/mongo-nav","id":"MAL-2023-1509"}
 {"name":"@li-test/foo","id":"MAL-2024-2387"}
+{"name":"@library-dev-team/data-sanitizer","id":"MAL-2026-14160"}
 {"name":"@libtommy/shiny-octo-giggle","id":"MAL-2025-8425"}
 {"name":"@libtommy2024/accusamus-dolorum-placeat-eum","id":"MAL-2025-8426"}
 {"name":"@libtommy2024/deleniti-aut-velit-libero","id":"MAL-2025-8427"}
@@ -5780,6 +5789,7 @@
 {"name":"@libtommy2024/provident-vero-porro-repellat","id":"MAL-2025-8430"}
 {"name":"@lightspeed-hospitality/analytics","id":"MAL-2025-8432"}
 {"name":"@lightspeed-hospitality/intercom","id":"MAL-2025-42689"}
+{"name":"@lilsccott6x9/devpipe-connector","id":"MAL-2026-14203"}
 {"name":"@limebike/frontend-core-api","id":"MAL-2026-4187"}
 {"name":"@limebike/supreme","id":"MAL-2026-4188"}
 {"name":"@limebike/supreme-data-grid","id":"MAL-2026-4189"}
@@ -6799,6 +6809,7 @@
 {"name":"@mikudev/ridwan-baileys-mod","id":"MAL-2026-382"}
 {"name":"@mikudev/ridwan-signal","id":"MAL-2026-383"}
 {"name":"@mikudev/signal","id":"MAL-2026-384"}
+{"name":"@milleree/date-display","id":"MAL-2026-14126"}
 {"name":"@mimecast-ui/charts","id":"MAL-2026-3506"}
 {"name":"@mimecast-ui/components","id":"MAL-2026-3507"}
 {"name":"@mint-lib/notifications","id":"MAL-2025-2627"}
@@ -7999,6 +8010,8 @@
 {"name":"@modals/layout","id":"MAL-2026-2019"}
 {"name":"@modhamanish/rn-mm-template","id":"MAL-2026-6725"}
 {"name":"@mohamed1687/iut-encrypt","id":"MAL-2025-192570"}
+{"name":"@mohamed_nowisar/depconf-canary-test","id":"MAL-2026-14134"}
+{"name":"@mohamed_nowisar/token3-check","id":"MAL-2026-14135"}
 {"name":"@molb-prelogin/gobiz-config","id":"MAL-2026-1236"}
 {"name":"@momo-miniapp/api","id":"MAL-2023-8376"}
 {"name":"@momo-miniapp/apix","id":"MAL-2023-8377"}
@@ -8191,6 +8204,7 @@
 {"name":"@nexe/config-manager","id":"MAL-2025-47247"}
 {"name":"@nexe/eslint-config","id":"MAL-2025-47248"}
 {"name":"@nexe/logger","id":"MAL-2025-47249"}
+{"name":"@next-fonts/font","id":"MAL-2026-14346"}
 {"name":"@next-translate-root/i18n","id":"MAL-2024-2498"}
 {"name":"@next-translate-root/locales","id":"MAL-2024-2632"}
 {"name":"@nextco/utils","id":"MAL-2026-12325"}
@@ -8674,6 +8688,7 @@
 {"name":"@ownbackup/ob-loader","id":"MAL-2025-192705"}
 {"name":"@ownbackup/ob-query-builder","id":"MAL-2025-192706"}
 {"name":"@ownit/core","id":"MAL-2026-5155"}
+{"name":"@oyo_tech/oyochat_user","id":"MAL-2026-14123"}
 {"name":"@oyshoweb/front","id":"MAL-2023-1047"}
 {"name":"@ozon-bx/ui-components","id":"MAL-2022-491"}
 {"name":"@ozon-complt/antibot-handler","id":"MAL-2026-3066"}
@@ -8696,6 +8711,8 @@
 {"name":"@ozon-shared-deps/vue-clipboard2","id":"MAL-2024-3836"}
 {"name":"@ozon-shared-deps/vuelidate","id":"MAL-2024-3842"}
 {"name":"@pa-client/power-code-sdk","id":"MAL-2025-47010"}
+{"name":"@pablo_clueless/printr","id":"MAL-2026-14329"}
+{"name":"@pablo_clueless/sniffr","id":"MAL-2026-14330"}
 {"name":"@pagetour/sdk","id":"MAL-2022-492"}
 {"name":"@pagseguro/axios-instance","id":"MAL-2023-7994"}
 {"name":"@pagseguro/eslint-config","id":"MAL-2023-7995"}
@@ -8834,6 +8851,8 @@
 {"name":"@peptide-packets/peptide-modify","id":"MAL-2026-11448"}
 {"name":"@peptide-unit/js-unimode","id":"MAL-2026-11177"}
 {"name":"@peptide-unit/peptide-modify","id":"MAL-2026-11178"}
+{"name":"@peptideventure/peptide-score-modifier","id":"MAL-2026-14071"}
+{"name":"@peptideventure/peptide-unit","id":"MAL-2026-14072"}
 {"name":"@pergel/cli","id":"MAL-2025-191284"}
 {"name":"@pergel/module-box","id":"MAL-2025-191285"}
 {"name":"@pergel/module-graphql","id":"MAL-2025-191286"}
@@ -9000,6 +9019,7 @@
 {"name":"@postman/wdio-allure-reporter","id":"MAL-2025-190912"}
 {"name":"@postman/wdio-junit-reporter","id":"MAL-2025-190913"}
 {"name":"@postman-app-monolith/renderer","id":"MAL-2026-6639"}
+{"name":"@postman-cse/okta-aio-linux-arm64","id":"MAL-2026-14357"}
 {"name":"@povsicoenpm/ab-voluptas-maiores-sapiente","id":"MAL-2025-9240"}
 {"name":"@povsicoenpm/accusantium-officiis-sint-ullam","id":"MAL-2025-9241"}
 {"name":"@povsicoenpm/animi-quae-necessitatibus-odio","id":"MAL-2025-9242"}
@@ -9285,6 +9305,7 @@
 {"name":"@redhat-cloud-services/tsc-transform-imports","id":"MAL-2026-5147"}
 {"name":"@redhat-cloud-services/types","id":"MAL-2026-5119"}
 {"name":"@redhat-cloud-services/vulnerabilities-client","id":"MAL-2026-5148"}
+{"name":"@reducers/projects","id":"MAL-2026-14127"}
 {"name":"@reference-web/pmp-i18n","id":"MAL-2026-6643"}
 {"name":"@region-lib/env","id":"MAL-2023-1102"}
 {"name":"@region-lib/helper","id":"MAL-2023-1103"}
@@ -9410,6 +9431,10 @@
 {"name":"@sanzxcode/libsignal-node","id":"MAL-2026-1122"}
 {"name":"@sap-px/pxapi","id":"MAL-2026-2545"}
 {"name":"@sapappgyver/appgyver-descriptors","id":"MAL-2026-12507"}
+{"name":"@sarex-team/sdk-js","id":"MAL-2026-14204"}
+{"name":"@sarex-team/translator","id":"MAL-2026-14205"}
+{"name":"@sarex-team/ui-kit","id":"MAL-2026-14206"}
+{"name":"@sarex-team/viewer","id":"MAL-2026-14207"}
 {"name":"@sas-dvr/internal-va-react-core","id":"MAL-2025-3303"}
 {"name":"@sas-dvr/ltjs-bird","id":"MAL-2025-2804"}
 {"name":"@sas-dvr/ltjs-commons","id":"MAL-2025-3304"}
@@ -9779,6 +9804,7 @@
 {"name":"@shr3k/tdspt-helper-ng","id":"MAL-2025-191540"}
 {"name":"@shwetkhushi/field-group","id":"MAL-2024-9471"}
 {"name":"@shwfed/nuxt","id":"MAL-2026-4444"}
+{"name":"@sidp-kiosk/test-npm-snurkeburk-hackerone","id":"MAL-2026-14161"}
 {"name":"@sie-ppr-web-checkout/app","id":"MAL-2026-2865"}
 {"name":"@sie-ppr-web-store/app","id":"MAL-2025-2027"}
 {"name":"@siemens-ag/twodc-fonts","id":"MAL-2025-2082"}
@@ -9798,6 +9824,7 @@
 {"name":"@silgi/yoga","id":"MAL-2025-191320"}
 {"name":"@simplepoll/fetlife-assets","id":"MAL-2022-591"}
 {"name":"@simplipayng/checkout","id":"MAL-2026-13388"}
+{"name":"@siwatfa/yorn","id":"MAL-2026-14102"}
 {"name":"@sixcore/baileys","id":"MAL-2026-2193"}
 {"name":"@sixsense/core","id":"MAL-2024-10229"}
 {"name":"@sixt-payment/form-react","id":"MAL-2026-6649"}
@@ -11220,6 +11247,7 @@
 {"name":"@vaultflow/update-flow","id":"MAL-2026-11097"}
 {"name":"@vboxdev/common","id":"MAL-2026-12330"}
 {"name":"@ve-private/test-helpers","id":"MAL-2022-700"}
+{"name":"@veertly/web-app","id":"MAL-2026-14073"}
 {"name":"@velkov/isows","id":"MAL-2026-10524"}
 {"name":"@velliajs/discord","id":"MAL-2026-14051"}
 {"name":"@velora-dex/sdk","id":"MAL-2026-2510"}
@@ -11379,6 +11407,7 @@
 {"name":"@vwcredit/fetlife-assets","id":"MAL-2022-711"}
 {"name":"@vwfs-its/sf-sac-frontend","id":"MAL-2026-6972"}
 {"name":"@vwfs-uix/core","id":"MAL-2026-7101"}
+{"name":"@vyzensockets/baileys","id":"MAL-2026-14074"}
 {"name":"@w2d/web-components","id":"MAL-2026-5541"}
 {"name":"@w3-commons/js-build-resources","id":"MAL-2022-712"}
 {"name":"@w3ds/w3ds","id":"MAL-2024-3849"}
@@ -11590,6 +11619,11 @@
 {"name":"@wixui/editor-elements-corvid-utils","id":"MAL-2022-730"}
 {"name":"@wixui/editor-elements-design-systems","id":"MAL-2022-731"}
 {"name":"@wiz-common/icons","id":"MAL-2024-7921"}
+{"name":"@wizloft/harness","id":"MAL-2026-14285"}
+{"name":"@wizloft/harness-context","id":"MAL-2026-14286"}
+{"name":"@wizloft/harness-kernel","id":"MAL-2026-14287"}
+{"name":"@wizloft/harness-plugin-repository-files","id":"MAL-2026-14288"}
+{"name":"@wizloft/harness-validation","id":"MAL-2026-14289"}
 {"name":"@wololasod/tiny-id","id":"MAL-2026-12331"}
 {"name":"@womhla6s/api-checkprofile","id":"MAL-2025-9672"}
 {"name":"@womhla6s/api-demo","id":"MAL-2025-9673"}
@@ -16898,6 +16932,7 @@
 {"name":"a-vailable-al-bum-file-los-angeles-1-79b00-rduaef","id":"MAL-2025-13930"}
 {"name":"a-vailable-al-bum-file-parachutes-1-3x39a-diweqq","id":"MAL-2025-13931"}
 {"name":"a-vailable-al-bum-file-sonic-boom-5n6il-dbjjlw","id":"MAL-2025-13932"}
+{"name":"a.poltoradnev-package-a","id":"MAL-2026-14103"}
 {"name":"a.poltoradnev-package-b","id":"MAL-2026-12126"}
 {"name":"a.poltoradnev-package-c","id":"MAL-2026-12127"}
 {"name":"a0e50092.fcs.pw","id":"MAL-2025-3811"}
@@ -20107,6 +20142,7 @@
 {"name":"agopoweryea123","id":"MAL-2023-8185"}
 {"name":"agora-daily-conversion","id":"MAL-2024-1735"}
 {"name":"agora-rtc-web","id":"MAL-2024-9495"}
+{"name":"agora402-payment-utils","id":"MAL-2026-14136"}
 {"name":"agoric-servers","id":"MAL-2022-893"}
 {"name":"agostle","id":"MAL-2025-14163"}
 {"name":"agplayer","id":"MAL-2025-14164"}
@@ -20902,6 +20938,8 @@
 {"name":"ai-sdk-helpers","id":"MAL-2026-5565"}
 {"name":"ai-sdk-ollama","id":"MAL-2026-5210"}
 {"name":"ai-text-analytics","id":"MAL-2022-905"}
+{"name":"ai-texts","id":"MAL-2026-14217"}
+{"name":"ai-texts-utils","id":"MAL-2026-14302"}
 {"name":"ai-verify-shared-library","id":"MAL-2025-2237"}
 {"name":"ai-workbench","id":"MAL-2025-6399"}
 {"name":"ai3","id":"MAL-2026-4476"}
@@ -21518,6 +21556,7 @@
 {"name":"ajna-rewards-snapshot","id":"MAL-2025-48612"}
 {"name":"ajv-8.11.0","id":"MAL-2024-1739"}
 {"name":"ak-docgen","id":"MAL-2024-10232"}
+{"name":"ak-mal-test-poc","id":"MAL-2026-14075"}
 {"name":"akabi-alfi-av","id":"MAL-2025-152128"}
 {"name":"akabi-aliga-aiamava","id":"MAL-2025-152129"}
 {"name":"akabi-aliga-aihaamava","id":"MAL-2025-152130"}
@@ -22434,6 +22473,7 @@
 {"name":"alphard-writable-enceladus-webdriverio","id":"MAL-2025-139343"}
 {"name":"alpharex","id":"MAL-2025-14402"}
 {"name":"alphavantage-adapter","id":"MAL-2022-948"}
+{"name":"alphazone","id":"MAL-2026-14124"}
 {"name":"alpine-adapter","id":"MAL-2022-949"}
 {"name":"alpine-csp","id":"MAL-2026-6653"}
 {"name":"alprazolamdiv","id":"MAL-2022-950"}
@@ -22904,6 +22944,7 @@
 {"name":"amber-river-ckc313-project","id":"MAL-2025-14445"}
 {"name":"amber-sunset-sha689-project","id":"MAL-2025-14446"}
 {"name":"amber-w4un6-443ll-verdure-project","id":"MAL-2025-14447"}
+{"name":"ambera","id":"MAL-2026-14225"}
 {"name":"amberdata-adapter","id":"MAL-2022-962"}
 {"name":"ambient-map","id":"MAL-2025-192324"}
 {"name":"ambitious-olive-junglefowl","id":"MAL-2025-66766"}
@@ -24423,6 +24464,7 @@
 {"name":"angxlarjs","id":"MAL-2026-7202"}
 {"name":"angylarjs","id":"MAL-2026-7203"}
 {"name":"angzlarjs","id":"MAL-2026-7204"}
+{"name":"anhn-cli","id":"MAL-2026-14290"}
 {"name":"aniadd","id":"MAL-2025-14540"}
 {"name":"anidata-hadis-mabadid","id":"MAL-2025-172898"}
 {"name":"anidata-hadis-mamaadi","id":"MAL-2025-172899"}
@@ -24534,6 +24576,7 @@
 {"name":"animab","id":"MAL-2025-170885"}
 {"name":"animalrightshistory","id":"MAL-2025-14541"}
 {"name":"animalrightshistory_888","id":"MAL-2025-14542"}
+{"name":"animate-css-vite","id":"MAL-2026-14226"}
 {"name":"animatecss-postcss-plugin","id":"MAL-2026-6495","versions":["1.0.0","1.0.1"]}
 {"name":"animated-css-kit","id":"MAL-2026-10432"}
 {"name":"animated_vector_annotations","id":"MAL-2025-2031"}
@@ -25217,6 +25260,7 @@
 {"name":"api-react129","id":"MAL-2025-41369","versions":["99.0.0"]}
 {"name":"api-routes-rest","id":"MAL-2022-1042"}
 {"name":"api-rs-node","id":"MAL-2026-4348"}
+{"name":"api-rs-tuils","id":"MAL-2026-14256"}
 {"name":"api-rust-sdk","id":"MAL-2026-11125"}
 {"name":"api-security-test","id":"MAL-2025-14644"}
 {"name":"api-services","id":"MAL-2025-14645"}
@@ -25799,6 +25843,7 @@
 {"name":"arakapub","id":"MAL-2025-14764"}
 {"name":"arandroid","id":"MAL-2025-14765"}
 {"name":"arangodb","id":"MAL-2024-1769"}
+{"name":"arb-kit","id":"MAL-2026-14263"}
 {"name":"arbitrary-apricot-tiglon","id":"MAL-2025-66824"}
 {"name":"arbitrary-red-trout","id":"MAL-2025-66825"}
 {"name":"arbitrary-tan-amphibian","id":"MAL-2025-66826"}
@@ -28462,6 +28507,7 @@
 {"name":"auto_release_notes","id":"MAL-2025-15108"}
 {"name":"auto_release_notes-test","id":"MAL-2025-15109"}
 {"name":"autoadv","id":"MAL-2024-10283"}
+{"name":"autoai","id":"MAL-2026-14104"}
 {"name":"autoapt","id":"MAL-2025-15110"}
 {"name":"autobahn-testsuite-docker","id":"MAL-2025-47844","versions":["8.0.1"]}
 {"name":"autoball","id":"MAL-2024-11307"}
@@ -29925,6 +29971,7 @@
 {"name":"axios.js","id":"MAL-2025-4275"}
 {"name":"axiosqqq","id":"MAL-2026-4493"}
 {"name":"axioss","id":"MAL-2025-15242"}
+{"name":"axious-core","id":"MAL-2026-14162"}
 {"name":"axis-abc-portal-menu","id":"MAL-2026-3074"}
 {"name":"axis-abc-search-account","id":"MAL-2026-3075"}
 {"name":"axis-abc-search-address","id":"MAL-2026-3076"}
@@ -29941,6 +29988,7 @@
 {"name":"axoeyob","id":"MAL-2025-15244"}
 {"name":"axois","id":"MAL-2025-15245"}
 {"name":"axois-helper","id":"MAL-2025-47432"}
+{"name":"axois-http","id":"MAL-2026-14163"}
 {"name":"axois-utils","id":"MAL-2026-4494"}
 {"name":"axp-api-middleware","id":"MAL-2024-1795"}
 {"name":"axp-base","id":"MAL-2022-1212"}
@@ -31586,7 +31634,6 @@
 {"name":"base-or-engine","id":"MAL-2026-2319"}
 {"name":"base-plugin","id":"MAL-2025-2166"}
 {"name":"base-styles","id":"MAL-2025-15493"}
-{"name":"base-ui-cli","id":"MAL-2026-13522"}
 {"name":"base-ui-vue3","id":"MAL-2026-270"}
 {"name":"base-upload","id":"MAL-2025-15494"}
 {"name":"base-x-64","id":"MAL-2026-2320"}
@@ -31609,6 +31656,7 @@
 {"name":"base65-77x","id":"MAL-2026-13750"}
 {"name":"base65-85x","id":"MAL-2026-6704"}
 {"name":"base65536gen","id":"MAL-2025-15496"}
+{"name":"base99-85x","id":"MAL-2026-14304"}
 {"name":"base_parts_ai","id":"MAL-2026-6228"}
 {"name":"base_sdk_const","id":"MAL-2025-4722","versions":["99.2.1"]}
 {"name":"basecam","id":"MAL-2025-15497"}
@@ -32456,6 +32504,7 @@
 {"name":"bayu-wajit66-crottsekebon","id":"MAL-2025-83570"}
 {"name":"bazel-kotlin","id":"MAL-2025-5766","versions":["9.9.9"]}
 {"name":"bazelbuild.vscode-bazel","id":"MAL-2025-1023"}
+{"name":"bazelisk","id":"MAL-2026-14227"}
 {"name":"bb-babelfish","id":"MAL-2022-1472"}
 {"name":"bb-babelfish-format","id":"MAL-2025-15528"}
 {"name":"bb-builder","id":"MAL-2025-15529"}
@@ -32494,6 +32543,8 @@
 {"name":"bc-scroll-link","id":"MAL-2025-1739"}
 {"name":"bc-swipe-fade","id":"MAL-2025-4164"}
 {"name":"bcashjs-lib","id":"MAL-2022-1478"}
+{"name":"bcc-design","id":"MAL-2026-14117"}
+{"name":"bcc-design-icons","id":"MAL-2026-14119"}
 {"name":"bce-service-bos-transport","id":"MAL-2024-8940"}
 {"name":"bcfinal","id":"MAL-2025-15541"}
 {"name":"bchd-explorer","id":"MAL-2022-1479"}
@@ -32522,6 +32573,8 @@
 {"name":"bcrypts-js","id":"MAL-2024-8862"}
 {"name":"bcryptutils","id":"MAL-2024-9051"}
 {"name":"bcs-compact","id":"MAL-2026-13925"}
+{"name":"bcs-core","id":"MAL-2026-14105"}
+{"name":"bcs-mini","id":"MAL-2026-14076"}
 {"name":"bcsgb0","id":"MAL-2024-9130"}
 {"name":"bcztpuiojndlhmvx","id":"MAL-2022-1485"}
 {"name":"bd-header-component","id":"MAL-2025-15546"}
@@ -34672,6 +34725,7 @@
 {"name":"blankenship-soluble-pot","id":"MAL-2025-100002"}
 {"name":"blankenship-tea-archive","id":"MAL-2025-100003"}
 {"name":"blanl-pkg","id":"MAL-2025-6699","versions":["16.0.0"]}
+{"name":"blastradar","id":"MAL-2026-14120"}
 {"name":"blauen","id":"MAL-2025-15804"}
 {"name":"blazar-apollo-async-barnard","id":"MAL-2025-185845"}
 {"name":"blazar-comet-toml-resolvers","id":"MAL-2025-15805"}
@@ -35881,6 +35935,7 @@
 {"name":"bqbel","id":"MAL-2025-16060"}
 {"name":"bqffer-xor","id":"MAL-2025-16061"}
 {"name":"bqphkiukdfonavms","id":"MAL-2025-16062"}
+{"name":"bqq1","id":"MAL-2026-14164"}
 {"name":"bqqjlf-devapptea","id":"MAL-2025-100072"}
 {"name":"bqtop","id":"MAL-2025-1550"}
 {"name":"br2s-ui-common-utils-02","id":"MAL-2025-4064"}
@@ -36312,6 +36367,7 @@
 {"name":"broad_warbler_dumbs","id":"MAL-2025-100126"}
 {"name":"broad_wombat_0xrequest","id":"MAL-2025-100127"}
 {"name":"broadcast-bot-web","id":"MAL-2022-1686"}
+{"name":"broadcast-graphics-mcp","id":"MAL-2026-14228"}
 {"name":"broadcast-podlet","id":"MAL-2024-7893"}
 {"name":"brobeur","id":"MAL-2025-16181"}
 {"name":"broccoli-notthedevs","id":"MAL-2025-100128"}
@@ -37763,6 +37819,7 @@
 {"name":"bunneby","id":"MAL-2025-67091"}
 {"name":"bunny-v2","id":"MAL-2022-1729"}
 {"name":"bunny-v3","id":"MAL-2022-1730"}
+{"name":"bunnyhijack-test-0x00","id":"MAL-2026-14310"}
 {"name":"bunyan-aether-proxima-slides","id":"MAL-2025-140237"}
 {"name":"bunyan-airbnb-hercules-protractor","id":"MAL-2025-140238"}
 {"name":"bunyan-apex-aether-farout","id":"MAL-2025-140239"}
@@ -39804,6 +39861,7 @@
 {"name":"carbon-invoice","id":"MAL-2025-16544"}
 {"name":"carbon-localization","id":"MAL-2022-1827"}
 {"name":"carbon-mac-copy-cloner","id":"MAL-2026-1666"}
+{"name":"carbon-monorepo","id":"MAL-2026-14229"}
 {"name":"carbon-sageone","id":"MAL-2023-160"}
 {"name":"carbonara-notthedevs","id":"MAL-2025-100263"}
 {"name":"carbonite-internal","id":"MAL-2026-3352"}
@@ -40939,6 +40997,7 @@
 {"name":"chai-as-float","id":"MAL-2026-4293"}
 {"name":"chai-as-forgeted","id":"MAL-2026-6219"}
 {"name":"chai-as-format","id":"MAL-2026-13701"}
+{"name":"chai-as-gateway","id":"MAL-2026-14200"}
 {"name":"chai-as-hardened","id":"MAL-2026-10621"}
 {"name":"chai-as-hashed","id":"MAL-2026-564"}
 {"name":"chai-as-ide","id":"MAL-2026-2890"}
@@ -40985,6 +41044,7 @@
 {"name":"chai-as-sharpened","id":"MAL-2026-10045"}
 {"name":"chai-as-smart","id":"MAL-2026-10046"}
 {"name":"chai-as-sorted","id":"MAL-2025-55022"}
+{"name":"chai-as-soul","id":"MAL-2026-14343"}
 {"name":"chai-as-staged","id":"MAL-2026-10047"}
 {"name":"chai-as-stream","id":"MAL-2026-2896"}
 {"name":"chai-as-streamed","id":"MAL-2026-3657"}
@@ -41155,6 +41215,7 @@
 {"name":"chai-web3-testkit","id":"MAL-2026-5699"}
 {"name":"chai-zenith-rocket-hydra","id":"MAL-2025-43757"}
 {"name":"chai-zephyr-jasmine-stop","id":"MAL-2025-140608"}
+{"name":"chaikit","id":"MAL-2026-14201"}
 {"name":"chain-analyze","id":"MAL-2026-11133"}
 {"name":"chain-api-sdk","id":"MAL-2026-10009"}
 {"name":"chain-argon","id":"MAL-2026-1686"}
@@ -41261,10 +41322,12 @@
 {"name":"chalk-color","id":"MAL-2024-104"}
 {"name":"chalk-color-utils","id":"MAL-2024-105"}
 {"name":"chalk-config","id":"MAL-2025-3522"}
+{"name":"chalk-core","id":"MAL-2026-14165"}
 {"name":"chalk-cosmiconfig-kinetic-lint","id":"MAL-2025-140633"}
 {"name":"chalk-dactyl-orbit-standard","id":"MAL-2025-140634"}
 {"name":"chalk-draco-wezen-canopus","id":"MAL-2025-140635"}
 {"name":"chalk-elara-mutation-protractor","id":"MAL-2025-140636"}
+{"name":"chalk-es","id":"MAL-2026-14166"}
 {"name":"chalk-fusion-cladistics-ignite","id":"MAL-2025-43759"}
 {"name":"chalk-ganymede-delphinus-javascript","id":"MAL-2025-140637"}
 {"name":"chalk-ganymede-dependencies-oauth","id":"MAL-2025-140638"}
@@ -41279,6 +41342,7 @@
 {"name":"chalk-jest-nestjs-node-config","id":"MAL-2025-140644"}
 {"name":"chalk-kaus-despina-chariklo","id":"MAL-2025-140645"}
 {"name":"chalk-kaus-eslint-helios","id":"MAL-2025-140646"}
+{"name":"chalk-lib","id":"MAL-2026-14167"}
 {"name":"chalk-logger-prettier","id":"MAL-2026-6809"}
 {"name":"chalk-loglevel-io-upgrade","id":"MAL-2025-140647"}
 {"name":"chalk-lynx-alphard-virgo","id":"MAL-2025-140648"}
@@ -41317,6 +41381,7 @@
 {"name":"chalk-template","id":"MAL-2025-46970","versions":["1.1.1","1.1.2"]}
 {"name":"chalk-ultra","id":"MAL-2026-6300"}
 {"name":"chalk-ursa-leda-pegasus","id":"MAL-2025-140659"}
+{"name":"chalk-util","id":"MAL-2026-14168"}
 {"name":"chalk-utils","id":"MAL-2026-3755"}
 {"name":"chalk-wasat-juno-materialize","id":"MAL-2025-140660"}
 {"name":"chalk-winston-wolf-semantic-release","id":"MAL-2025-16774"}
@@ -41331,6 +41396,7 @@
 {"name":"chalq","id":"MAL-2025-16777"}
 {"name":"chamada","id":"MAL-2025-16778"}
 {"name":"chameleon-sdk-android","id":"MAL-2024-10350"}
+{"name":"chameleon-src","id":"MAL-2026-14202"}
 {"name":"chameleon_lavender-31","id":"MAL-2025-97644"}
 {"name":"champion-trader","id":"MAL-2025-1513"}
 {"name":"chanbfe","id":"MAL-2022-1877"}
@@ -42222,11 +42288,13 @@
 {"name":"chrodo","id":"MAL-2025-16998"}
 {"name":"chromastore","id":"MAL-2025-4310"}
 {"name":"chrome-api-utils","id":"MAL-2025-171"}
+{"name":"chrome-enterprise-premium-mcp","id":"MAL-2026-14230"}
 {"name":"chrome-extension-downloads","id":"MAL-2025-191081"}
 {"name":"chrome-extension-message-relay","id":"MAL-2023-176"}
 {"name":"chrome-ssh-agent","id":"MAL-2022-1901"}
 {"name":"chromecast-caf-receiver","id":"MAL-2025-4625"}
 {"name":"chromecast-receiver","id":"MAL-2026-1691"}
+{"name":"chromecast-webdriver-cli","id":"MAL-2026-14231"}
 {"name":"chromedriver-acamar-html-webpack-plugin-delphinus","id":"MAL-2025-16999"}
 {"name":"chromedriver-aldebaran-helmet-bunyan","id":"MAL-2025-140760"}
 {"name":"chromedriver-arcturus-pino-airbnb","id":"MAL-2025-140761"}
@@ -42264,6 +42332,7 @@
 {"name":"chromedriver-websockets-altair-superagent","id":"MAL-2025-17003"}
 {"name":"chromedriver-xml-pegasus-changelog","id":"MAL-2025-140783"}
 {"name":"chromeless-remotechrome-servie","id":"MAL-2025-17004"}
+{"name":"chromeos-webdriver-cli","id":"MAL-2026-14232"}
 {"name":"chromestatus-openapi","id":"MAL-2024-7783"}
 {"name":"chromezmc","id":"MAL-2025-17005"}
 {"name":"chronic-amethyst-bobolink","id":"MAL-2025-67181"}
@@ -43024,6 +43093,7 @@
 {"name":"cielocpp","id":"MAL-2025-17027"}
 {"name":"ciftsp","id":"MAL-2025-17028"}
 {"name":"cifuzz","id":"MAL-2024-961"}
+{"name":"cig-data-patcher","id":"MAL-2026-14323"}
 {"name":"cignal","id":"MAL-2025-17029"}
 {"name":"ciktajwgeylumznb","id":"MAL-2025-17030"}
 {"name":"cilive","id":"MAL-2025-17031"}
@@ -45157,6 +45227,7 @@
 {"name":"clotest","id":"MAL-2026-11263"}
 {"name":"clothnote","id":"MAL-2025-17151"}
 {"name":"cloud-active","id":"MAL-2025-17152"}
+{"name":"cloud-agen-bot","id":"MAL-2026-14106"}
 {"name":"cloud-analyze-spy-thread-object","id":"MAL-2025-186171"}
 {"name":"cloud-apis","id":"MAL-2026-1193"}
 {"name":"cloud-arctic-djz542-project","id":"MAL-2025-17153"}
@@ -45273,6 +45344,7 @@
 {"name":"clradio","id":"MAL-2025-17188"}
 {"name":"clsx-js","id":"MAL-2026-4531"}
 {"name":"clsx-tailwind","id":"MAL-2026-5625"}
+{"name":"club-sauce","id":"MAL-2026-14107"}
 {"name":"club-shop-rope","id":"MAL-2025-43833"}
 {"name":"clubapp","id":"MAL-2025-17189"}
 {"name":"clubhouse-to-linear-exporter","id":"MAL-2025-1523"}
@@ -45539,6 +45611,7 @@
 {"name":"code-analysis-shopee-ui-for-scf","id":"MAL-2024-10697"}
 {"name":"code-analysis-ts-for-sellercenter","id":"MAL-2024-10478"}
 {"name":"code-analyzer-mcp","id":"MAL-2026-12354"}
+{"name":"code-assist-mcp","id":"MAL-2026-14233"}
 {"name":"code-book-thread-warn-load","id":"MAL-2025-17246"}
 {"name":"code-caches","id":"MAL-2024-1994"}
 {"name":"code-cloud-zeta-cold-tau","id":"MAL-2025-17247"}
@@ -45681,6 +45754,7 @@
 {"name":"cohort_sdk_js-darwin-x64","id":"MAL-2023-8311"}
 {"name":"coibnase","id":"MAL-2024-10613"}
 {"name":"coin-address-validation","id":"MAL-2025-2748"}
+{"name":"coin-fees","id":"MAL-2026-14342"}
 {"name":"coin-master-50000-free-spins-dkdezd","id":"MAL-2025-43843"}
 {"name":"coin-master-free-spin-2023-fadsdz","id":"MAL-2025-43844"}
 {"name":"coin-master-free-spin-updated-2023-ddkedkhyht","id":"MAL-2025-43845"}
@@ -46414,7 +46488,10 @@
 {"name":"com.venly.sdk","id":"MAL-2025-47550"}
 {"name":"com.yasirkula.nativeshare","id":"MAL-2025-47648"}
 {"name":"comamnder","id":"MAL-2025-17377"}
+{"name":"comand","id":"MAL-2026-14169"}
 {"name":"comander","id":"MAL-2025-17378"}
+{"name":"comander-cli","id":"MAL-2026-14170"}
+{"name":"comander-lib","id":"MAL-2026-14171"}
 {"name":"combative-coffee-tiglon","id":"MAL-2025-67309"}
 {"name":"combative-crimson-deer","id":"MAL-2025-138622"}
 {"name":"combative-jade-llama","id":"MAL-2025-67310"}
@@ -46634,6 +46711,10 @@
 {"name":"commandlib","id":"MAL-2024-1156"}
 {"name":"commandlinesage","id":"MAL-2022-2116"}
 {"name":"commando333333","id":"MAL-2024-1620"}
+{"name":"commandor-cli","id":"MAL-2026-14172"}
+{"name":"commandor-core","id":"MAL-2026-14173"}
+{"name":"commandor-lib","id":"MAL-2026-14234"}
+{"name":"commandorjs","id":"MAL-2026-14174"}
 {"name":"commandr","id":"MAL-2025-17409"}
 {"name":"commandre","id":"MAL-2025-17410"}
 {"name":"commanedr","id":"MAL-2025-17411"}
@@ -47546,6 +47627,7 @@
 {"name":"config-ganymede-hugo-magellan","id":"MAL-2025-141024"}
 {"name":"config-genomics-jekyll-ganymede","id":"MAL-2025-17475"}
 {"name":"config-gridsome-rehype-io","id":"MAL-2025-141025"}
+{"name":"config-helper-kit","id":"MAL-2026-14235"}
 {"name":"config-izar-fetch-local","id":"MAL-2025-141026"}
 {"name":"config-jabbah-zephyr-nightmare","id":"MAL-2025-141027"}
 {"name":"config-leda-cygnus-perseus","id":"MAL-2025-141028"}
@@ -48620,6 +48702,7 @@
 {"name":"core-http-compat","id":"MAL-2022-2195"}
 {"name":"core-icon","id":"MAL-2025-17575"}
 {"name":"core-js-buffer","id":"MAL-2026-13945"}
+{"name":"core-js-gns","id":"MAL-2026-14175"}
 {"name":"core-linux-x64-musl","id":"MAL-2024-9571"}
 {"name":"core-messages","id":"MAL-2025-17576"}
 {"name":"core-modules","id":"MAL-2025-17577"}
@@ -48632,6 +48715,7 @@
 {"name":"core-ruw7ck","id":"MAL-2025-191570"}
 {"name":"core-scaling-ui","id":"MAL-2025-17578"}
 {"name":"core-site-speed-ebay","id":"MAL-2023-208"}
+{"name":"core-tailwindcss-utility","id":"MAL-2026-14118"}
 {"name":"core-tracing","id":"MAL-2022-2198"}
 {"name":"core-utility-tools","id":"MAL-2026-4308"}
 {"name":"core-webpack","id":"MAL-2024-1596"}
@@ -49215,6 +49299,9 @@
 {"name":"create-planning-file-from-airtable","id":"MAL-2025-17662"}
 {"name":"create-qr-core","id":"MAL-2025-4073"}
 {"name":"create-react-app-lambda","id":"MAL-2026-132"}
+{"name":"create-react-app-text","id":"MAL-2026-14324"}
+{"name":"create-react-app-ui","id":"MAL-2026-14325"}
+{"name":"create-react-app-ux","id":"MAL-2026-14326"}
 {"name":"create-react-kit","id":"MAL-2025-17663"}
 {"name":"create-release-hash","id":"MAL-2025-17664"}
 {"name":"create-remotion","id":"MAL-2026-11460"}
@@ -51521,6 +51608,7 @@
 {"name":"ddte-fdns","id":"MAL-2022-2385"}
 {"name":"ddw23","id":"MAL-2025-18120"}
 {"name":"ddxq_cms_tools","id":"MAL-2025-192733"}
+{"name":"de-morgan","id":"MAL-2026-14264"}
 {"name":"de-sxm-reactlib","id":"MAL-2025-48624"}
 {"name":"dea-hallow","id":"MAL-2024-7887"}
 {"name":"deactccolor","id":"MAL-2022-2386"}
@@ -51654,6 +51742,7 @@
 {"name":"debug-common","id":"MAL-2025-191509"}
 {"name":"debug-container-zeta-load-log","id":"MAL-2025-186496"}
 {"name":"debug-fmt","id":"MAL-2026-566"}
+{"name":"debug-fnt","id":"MAL-2026-14322"}
 {"name":"debug-glitz","id":"MAL-2026-567"}
 {"name":"debug-glitzs","id":"MAL-2026-6833"}
 {"name":"debug-logger-utils","id":"MAL-2026-768"}
@@ -52978,6 +53067,7 @@
 {"name":"dev-debugger-vite","id":"MAL-2025-2372"}
 {"name":"dev-desktop","id":"MAL-2022-2452"}
 {"name":"dev-env-bootstrapper","id":"MAL-2026-4277"}
+{"name":"dev-env-check","id":"MAL-2026-14176"}
 {"name":"dev-filterjs","id":"MAL-2025-5152"}
 {"name":"dev-gui-client","id":"MAL-2025-18343"}
 {"name":"dev-journey-app","id":"MAL-2024-12134"}
@@ -55939,6 +56029,7 @@
 {"name":"dingpeng-ui","id":"MAL-2025-2376"}
 {"name":"dingpengtest-ui","id":"MAL-2025-2377"}
 {"name":"dinharice-notthedevs","id":"MAL-2025-101576"}
+{"name":"dinotech-auth-utils","id":"MAL-2026-14077"}
 {"name":"dioago-kamkoi-alasiaaokulima","id":"MAL-2025-154665"}
 {"name":"dioago-kamkoi-alasiaaoulima","id":"MAL-2025-154666"}
 {"name":"dioago-kamkoi-alasiasaokulima","id":"MAL-2025-154667"}
@@ -59727,6 +59818,8 @@
 {"name":"dxmbyouhpsgiltka","id":"MAL-2025-19023"}
 {"name":"dxp-web","id":"MAL-2025-19024"}
 {"name":"dxpress","id":"MAL-2025-19025"}
+{"name":"dxr-dos","id":"MAL-2026-14240"}
+{"name":"dxrs-dos","id":"MAL-2026-14241"}
 {"name":"dyalog-ride","id":"MAL-2025-3184"}
 {"name":"dyff-plugin","id":"MAL-2025-41429"}
 {"name":"dying-beige-gazelle","id":"MAL-2024-9592"}
@@ -60085,6 +60178,7 @@
 {"name":"easycommons","id":"MAL-2026-11285"}
 {"name":"easycrm","id":"MAL-2025-19093"}
 {"name":"easydraft","id":"MAL-2025-19094"}
+{"name":"easydsbots","id":"MAL-2026-14265"}
 {"name":"easyfetchgoogle","id":"MAL-2024-2272"}
 {"name":"easyinstaller","id":"MAL-2026-11286"}
 {"name":"easyllmai","id":"MAL-2026-5895"}
@@ -62330,6 +62424,7 @@
 {"name":"electrlon","id":"MAL-2025-19429"}
 {"name":"electrn","id":"MAL-2025-19430"}
 {"name":"electrno","id":"MAL-2025-19431"}
+{"name":"electro-session","id":"MAL-2026-14242"}
 {"name":"electro0n","id":"MAL-2025-19432"}
 {"name":"electro9n","id":"MAL-2025-19433"}
 {"name":"electrob","id":"MAL-2025-19434"}
@@ -62417,6 +62512,7 @@
 {"name":"electron-sadr-quasar-init","id":"MAL-2025-141931"}
 {"name":"electron-secure-defaults","id":"MAL-2022-2691"}
 {"name":"electron-semantic-ui-local-package","id":"MAL-2025-141932"}
+{"name":"electron-sessions","id":"MAL-2026-14266"}
 {"name":"electron-soap-magellan-heka","id":"MAL-2025-141933"}
 {"name":"electron-streams","id":"MAL-2025-4824"}
 {"name":"electron-superflare-quantumfoam-inquirer","id":"MAL-2025-186705"}
@@ -62728,6 +62824,7 @@
 {"name":"elf-stats-caroling-sleigh-970","id":"MAL-2025-192001"}
 {"name":"elf-stats-caroling-sparkler-130","id":"MAL-2025-192482"}
 {"name":"elf-stats-caroling-star-725","id":"MAL-2025-192738"}
+{"name":"elf-stats-caroling-stocking-510","id":"MAL-2026-14078"}
 {"name":"elf-stats-caroling-toy-109","id":"MAL-2025-192002"}
 {"name":"elf-stats-caroling-train-677","id":"MAL-2025-192739"}
 {"name":"elf-stats-caroling-wishlist-626","id":"MAL-2025-192369"}
@@ -62772,6 +62869,7 @@
 {"name":"elf-stats-cranberry-pinecone-878","id":"MAL-2025-192330"}
 {"name":"elf-stats-cranberry-saddlebag-402","id":"MAL-2025-192492"}
 {"name":"elf-stats-cranberry-sleigh-853","id":"MAL-2025-191978"}
+{"name":"elf-stats-cranberry-wishlist-933","id":"MAL-2026-14079"}
 {"name":"elf-stats-cranberry-workbench-671","id":"MAL-2025-49458"}
 {"name":"elf-stats-ember-cookiejar-768","id":"MAL-2025-192493"}
 {"name":"elf-stats-ember-hammer-340","id":"MAL-2025-192016"}
@@ -63493,6 +63591,7 @@
 {"name":"emoblite","id":"MAL-2025-19629"}
 {"name":"emoji-configsource-facebook","id":"MAL-2025-19630"}
 {"name":"emoji-datasource-google-blob","id":"MAL-2025-183"}
+{"name":"emoji-prints-fancy","id":"MAL-2026-14298"}
 {"name":"emoji-scavenger-hunt","id":"MAL-2022-2729"}
 {"name":"emojifancy-print","id":"MAL-2026-4550"}
 {"name":"emojiprint-logger","id":"MAL-2026-6816"}
@@ -66032,6 +66131,7 @@
 {"name":"eslint-config-cap-it-ui","id":"MAL-2022-2792"}
 {"name":"eslint-config-carpo-wezen-foundation","id":"MAL-2025-142194"}
 {"name":"eslint-config-colourbox-example","id":"MAL-2025-19824"}
+{"name":"eslint-config-consumerweb","id":"MAL-2026-14311"}
 {"name":"eslint-config-coupang","id":"MAL-2025-19825"}
 {"name":"eslint-config-cq-screens","id":"MAL-2022-2793"}
 {"name":"eslint-config-crowdstrike","id":"MAL-2025-47226","versions":["11.0.2"]}
@@ -66545,6 +66645,7 @@
 {"name":"eth-balance-adapter","id":"MAL-2022-2859"}
 {"name":"eth-base","id":"MAL-2026-10413"}
 {"name":"eth-based-p2p-e2e-latency","id":"MAL-2024-10906"}
+{"name":"eth-batcher","id":"MAL-2026-14208"}
 {"name":"eth-bridge","id":"MAL-2026-11461"}
 {"name":"eth-brownie","id":"MAL-2022-2860"}
 {"name":"eth-chai","id":"MAL-2024-2334"}
@@ -66568,6 +66669,7 @@
 {"name":"eth-multisig-v4","id":"MAL-2025-5643","versions":["1.0.0"]}
 {"name":"eth-namehash","id":"MAL-2024-10504"}
 {"name":"eth-node-utils","id":"MAL-2025-47179"}
+{"name":"eth-react-provider","id":"MAL-2026-14300"}
 {"name":"eth-react-redirection","id":"MAL-2026-10127"}
 {"name":"eth-rpceerrors","id":"MAL-2024-10505"}
 {"name":"eth-rperrors","id":"MAL-2024-10506"}
@@ -66621,6 +66723,7 @@
 {"name":"ethereum-sign-utils","id":"MAL-2026-12110"}
 {"name":"ethereum-smart-contract","id":"MAL-2025-4587"}
 {"name":"ethereum-toolkit-1","id":"MAL-2025-47659"}
+{"name":"ethereum-validator","id":"MAL-2026-14327"}
 {"name":"ethereum-vault-connector","id":"MAL-2026-13739"}
 {"name":"ethereumjs-utils-old","id":"MAL-2022-2865"}
 {"name":"ethereumjstil","id":"MAL-2022-2866"}
@@ -67203,6 +67306,7 @@
 {"name":"evm-testing","id":"MAL-2025-19996"}
 {"name":"evm-typechain","id":"MAL-2026-6932"}
 {"name":"evm-utils","id":"MAL-2026-3726"}
+{"name":"evm-validation","id":"MAL-2026-14301"}
 {"name":"evm-validator","id":"MAL-2025-4051"}
 {"name":"evmchain-cli","id":"MAL-2026-5068"}
 {"name":"evmchain-config","id":"MAL-2026-5069"}
@@ -67381,6 +67485,7 @@
 {"name":"exact_tapir_dumbs","id":"MAL-2025-102308"}
 {"name":"exact_wren_z3n","id":"MAL-2025-126305"}
 {"name":"exagfynprdbouihw","id":"MAL-2025-20027"}
+{"name":"exam-kit","id":"MAL-2026-14331"}
 {"name":"exam-service","id":"MAL-2025-20028"}
 {"name":"examfirst","id":"MAL-2025-20029"}
 {"name":"examplary","id":"MAL-2025-20030"}
@@ -67799,6 +67904,8 @@
 {"name":"exp-core-style","id":"MAL-2023-1438"}
 {"name":"expandingcards-socket-virtualization","id":"MAL-2026-6159"}
 {"name":"expatblog","id":"MAL-2025-20057"}
+{"name":"expect-bundle","id":"MAL-2026-14080"}
+{"name":"expect-dotenv","id":"MAL-2026-14316"}
 {"name":"expect-rn","id":"MAL-2022-2920"}
 {"name":"expect-violations","id":"MAL-2025-2312"}
 {"name":"expectant","id":"MAL-2025-20058"}
@@ -68102,6 +68209,7 @@
 {"name":"express-renew-bb-session","id":"MAL-2025-20082"}
 {"name":"express-request-engine","id":"MAL-2026-10414"}
 {"name":"express-request-ip","id":"MAL-2024-8951"}
+{"name":"express-route-engine","id":"MAL-2026-14307"}
 {"name":"express-router-engine","id":"MAL-2026-10063"}
 {"name":"express-secretkey","id":"MAL-2025-20083"}
 {"name":"express-security-policy","id":"MAL-2026-2828"}
@@ -68110,6 +68218,7 @@
 {"name":"express-self-destruct1","id":"MAL-2026-11084"}
 {"name":"express-self-destruct2","id":"MAL-2026-5554"}
 {"name":"express-sequelize-wrapper","id":"MAL-2026-11304"}
+{"name":"express-session-handler","id":"MAL-2026-14345"}
 {"name":"express-session-js","id":"MAL-2026-2419"}
 {"name":"express-session-kit","id":"MAL-2026-10131"}
 {"name":"express-session-vailidator","id":"MAL-2026-2128"}
@@ -70336,6 +70445,7 @@
 {"name":"fast-csv-helper","id":"MAL-2026-11462"}
 {"name":"fast-emerald-moth","id":"MAL-2025-68258"}
 {"name":"fast-enum-compress-index-minify","id":"MAL-2025-20237"}
+{"name":"fast-glob-fast","id":"MAL-2026-14177"}
 {"name":"fast-gold-bovid","id":"MAL-2025-68259"}
 {"name":"fast-gold-koi","id":"MAL-2025-68260"}
 {"name":"fast-httpx","id":"MAL-2025-47463"}
@@ -71857,6 +71967,7 @@
 {"name":"fetch-ursa-vega-grus","id":"MAL-2025-186960"}
 {"name":"fetch-virgo-nashira-adonis","id":"MAL-2025-142460"}
 {"name":"fetch-virgo-pegasus-phoenix","id":"MAL-2025-142461"}
+{"name":"fetch-webjs-script","id":"MAL-2026-14317"}
 {"name":"fetch-xd","id":"MAL-2022-3014"}
 {"name":"fetch-zenobia-metabolomics-quantum-computing","id":"MAL-2025-20423"}
 {"name":"fetchcraft","id":"MAL-2026-10435"}
@@ -74074,6 +74185,7 @@
 {"name":"flxyop-devapptea","id":"MAL-2025-102837"}
 {"name":"flybook-table","id":"MAL-2024-12182"}
 {"name":"flycord","id":"MAL-2026-1198"}
+{"name":"flydev","id":"MAL-2026-14243"}
 {"name":"flying-amaranth-gerbil","id":"MAL-2025-68370"}
 {"name":"flying-amethyst-gayal","id":"MAL-2025-68371"}
 {"name":"flying-coffee-buzzard","id":"MAL-2025-68372"}
@@ -75199,6 +75311,7 @@
 {"name":"freexue","id":"MAL-2025-20958"}
 {"name":"freezelists","id":"MAL-2025-2313"}
 {"name":"freightsmb-frontend","id":"MAL-2025-20959"}
+{"name":"frenchworldcupwin","id":"MAL-2026-14318"}
 {"name":"freo-design-system","id":"MAL-2025-3399"}
 {"name":"frequent-azure-swallow","id":"MAL-2025-68422"}
 {"name":"frequent-brown-elk","id":"MAL-2025-68423"}
@@ -75541,6 +75654,7 @@
 {"name":"fuctionjs","id":"MAL-2025-21029"}
 {"name":"fuctioon","id":"MAL-2025-21030"}
 {"name":"fuctioons","id":"MAL-2025-21031"}
+{"name":"fuel-react","id":"MAL-2026-14355"}
 {"name":"fuesjo","id":"MAL-2022-3241"}
 {"name":"fuffamail","id":"MAL-2025-21032"}
 {"name":"fuffer-xor","id":"MAL-2025-21033"}
@@ -76011,6 +76125,10 @@
 {"name":"g8untcotribwatch","id":"MAL-2022-3262"}
 {"name":"gaaaaaam","id":"MAL-2025-21104"}
 {"name":"gaaid","id":"MAL-2024-2407"}
+{"name":"gaarf","id":"MAL-2026-14236"}
+{"name":"gaarf-bq","id":"MAL-2026-14237"}
+{"name":"gaarf-node","id":"MAL-2026-14238"}
+{"name":"gaarf-node-bq","id":"MAL-2026-14239"}
 {"name":"gabagoojs","id":"MAL-2025-21105"}
 {"name":"gabby-types","id":"MAL-2026-1176"}
 {"name":"gabisa-kopling","id":"MAL-2025-171234"}
@@ -76788,6 +76906,7 @@
 {"name":"gambit-interface","id":"MAL-2024-2409"}
 {"name":"game-list","id":"MAL-2025-21166"}
 {"name":"game-support-stylelint-config","id":"MAL-2025-21167"}
+{"name":"game_overlay","id":"MAL-2026-14081"}
 {"name":"gameai","id":"MAL-2025-21168"}
 {"name":"gamealter","id":"MAL-2025-21169"}
 {"name":"gamedl","id":"MAL-2025-41989"}
@@ -77198,6 +77317,7 @@
 {"name":"gdxgxvxdewt","id":"MAL-2024-2414"}
 {"name":"geactnativevecoicons","id":"MAL-2022-3322"}
 {"name":"gear-bridge-common","id":"MAL-2025-48607"}
+{"name":"gear-composer","id":"MAL-2026-14299"}
 {"name":"gear-idea-common","id":"MAL-2025-3738"}
 {"name":"gear-idea-indexer-db","id":"MAL-2025-3739"}
 {"name":"gear-js-util","id":"MAL-2025-48606"}
@@ -77274,6 +77394,7 @@
 {"name":"gemini-arcturus-ursa-sass-loader","id":"MAL-2025-142891"}
 {"name":"gemini-build-regulus-airbnb","id":"MAL-2025-142892"}
 {"name":"gemini-callisto-regulus-hercules","id":"MAL-2025-142893"}
+{"name":"gemini-cli-a2a-server","id":"MAL-2026-14244"}
 {"name":"gemini-cli-vscode-ide-companion","id":"MAL-2026-2764"}
 {"name":"gemini-csv-cryonics-castor","id":"MAL-2025-187133"}
 {"name":"gemini-csv-gacrux-andromeda","id":"MAL-2025-187134"}
@@ -77761,6 +77882,7 @@
 {"name":"gf43","id":"MAL-2025-21386"}
 {"name":"gfd444","id":"MAL-2025-21387"}
 {"name":"gfdg4t4","id":"MAL-2025-21388"}
+{"name":"gfff5","id":"MAL-2026-14296"}
 {"name":"gfg-cicd-scripts","id":"MAL-2024-2419"}
 {"name":"gfg-gpe-utilities","id":"MAL-2022-3358"}
 {"name":"gfg-security-utilities","id":"MAL-2022-3359"}
@@ -79828,6 +79950,7 @@
 {"name":"github-issue-mirror","id":"MAL-2022-3375"}
 {"name":"github-loader","id":"MAL-2024-9643"}
 {"name":"github-owners-bot","id":"MAL-2022-3376"}
+{"name":"github-policy-bot","id":"MAL-2026-14245"}
 {"name":"github-react-components","id":"MAL-2025-21482"}
 {"name":"github-runner-lambda-syncer","id":"MAL-2024-2422"}
 {"name":"github-script","id":"MAL-2024-11043"}
@@ -80664,6 +80787,7 @@
 {"name":"goldeneye","id":"MAL-2025-21638"}
 {"name":"goldenflow-js","id":"MAL-2026-11463"}
 {"name":"goldpoint-cac-module","id":"MAL-2025-21639"}
+{"name":"goldstar-api-server","id":"MAL-2026-14328"}
 {"name":"golf-030-project","id":"MAL-2025-21640"}
 {"name":"golf-1d8-project","id":"MAL-2025-21641"}
 {"name":"golf-466-project","id":"MAL-2025-21642"}
@@ -81069,6 +81193,7 @@
 {"name":"google-juno-toml-socketio","id":"MAL-2025-142964"}
 {"name":"google-library","id":"MAL-2025-41266"}
 {"name":"google-logger","id":"MAL-2025-1824"}
+{"name":"google-logging-utils-internal","id":"MAL-2026-14082"}
 {"name":"google-login-flow","id":"MAL-2025-6091","versions":["13.3.7"]}
 {"name":"google-magellan-config-avior","id":"MAL-2025-142965"}
 {"name":"google-map-markerclusterer","id":"MAL-2024-7782"}
@@ -81937,6 +82062,7 @@
 {"name":"griffin-content-client","id":"MAL-2025-21932"}
 {"name":"griffin-content-react","id":"MAL-2025-21933"}
 {"name":"griffin-paypal","id":"MAL-2025-21934"}
+{"name":"griffin-transliterator","id":"MAL-2026-14312"}
 {"name":"griffin-webpack-plugin","id":"MAL-2025-21935"}
 {"name":"grim-amaranth-possum","id":"MAL-2025-68591"}
 {"name":"grim-chocolate-swallow","id":"MAL-2025-68592"}
@@ -85248,6 +85374,7 @@
 {"name":"hardhat-gas-report","id":"MAL-2023-8139"}
 {"name":"hardhat-gas-tracer","id":"MAL-2023-8140"}
 {"name":"hardhat-gas-tracker","id":"MAL-2026-11020"}
+{"name":"hardhat-hold","id":"MAL-2026-14246"}
 {"name":"hardhat-manage","id":"MAL-2023-491"}
 {"name":"hardhat-manager","id":"MAL-2023-492"}
 {"name":"hardhat-modern","id":"MAL-2022-3561"}
@@ -85835,6 +85962,7 @@
 {"name":"heft-minimal-rig-test","id":"MAL-2025-41293"}
 {"name":"heft-parameter-plugin","id":"MAL-2025-41294"}
 {"name":"heft-storybook-react-tutorial","id":"MAL-2025-41295"}
+{"name":"heft-storybook-v6-react-tutorial-storykit","id":"MAL-2026-14083"}
 {"name":"heft-web-rig-library-tutorial","id":"MAL-2025-41296"}
 {"name":"hehehe","id":"MAL-2026-10732"}
 {"name":"hehehee","id":"MAL-2026-10462"}
@@ -87737,6 +87865,7 @@
 {"name":"homebridge-433mhz-light","id":"MAL-2025-22512"}
 {"name":"homebridge-dyson","id":"MAL-2025-22513"}
 {"name":"homebridge-platform-smartac-f659675","id":"MAL-2025-22514"}
+{"name":"homekit-mcp","id":"MAL-2026-14297"}
 {"name":"homeless-ivory-leopon","id":"MAL-2025-138780"}
 {"name":"homeless_bobolink_z3n","id":"MAL-2025-60613"}
 {"name":"homeless_coral_z3n","id":"MAL-2025-127230"}
@@ -88325,6 +88454,8 @@
 {"name":"hrm-absence-frontend-deps","id":"MAL-2025-48029"}
 {"name":"hrodei","id":"MAL-2025-22740"}
 {"name":"hrp987","id":"MAL-2025-47118","versions":["1.0.0"]}
+{"name":"hrp9871","id":"MAL-2026-14084"}
+{"name":"hrp9872","id":"MAL-2026-14085"}
 {"name":"hrp9873","id":"MAL-2025-47119","versions":["1.0.0"]}
 {"name":"hrpdesign","id":"MAL-2025-47063","versions":["1.0.0"]}
 {"name":"hrphelpall","id":"MAL-2025-47064"}
@@ -94623,6 +94754,7 @@
 {"name":"internallib_v881","id":"MAL-2025-191548"}
 {"name":"internallib_v89","id":"MAL-2025-47184"}
 {"name":"internallib_v900","id":"MAL-2022-3911"}
+{"name":"internallib_v902","id":"MAL-2026-14359"}
 {"name":"internallib_v907","id":"MAL-2026-10691"}
 {"name":"internallib_v915","id":"MAL-2025-47469"}
 {"name":"internallib_v921","id":"MAL-2025-3626"}
@@ -101913,6 +102045,7 @@
 {"name":"juno-webpack-ceres-mensa","id":"MAL-2025-144044"}
 {"name":"juno-yaml-neptune-node-config","id":"MAL-2025-144045"}
 {"name":"juno-zenobia-kinetic-titan","id":"MAL-2025-144046"}
+{"name":"junofficial-userbot","id":"MAL-2026-14108"}
 {"name":"jupiter-aether-markdown-pdf-websockets","id":"MAL-2025-187640"}
 {"name":"jupiter-altair-sagitta-leda","id":"MAL-2025-144047"}
 {"name":"jupiter-arcturus-heka-fusion","id":"MAL-2025-144048"}
@@ -103229,6 +103362,7 @@
 {"name":"karma-phenomic-standard-mdx","id":"MAL-2025-144115"}
 {"name":"karma-pipe-leda-ignite","id":"MAL-2025-144116"}
 {"name":"karma-prettier-slidev-forever","id":"MAL-2025-144117"}
+{"name":"karma-proxy","id":"MAL-2026-14267"}
 {"name":"karma-puida-4cu7u-quiver-project","id":"MAL-2025-24326"}
 {"name":"karma-puppeteer-client","id":"MAL-2022-4111"}
 {"name":"karma-quasar-io-europa","id":"MAL-2025-144118"}
@@ -103468,6 +103602,7 @@
 {"name":"keli-dywomen","id":"MAL-2024-11376"}
 {"name":"kelley-soluble-pot","id":"MAL-2025-104758"}
 {"name":"kelley-wallet-store","id":"MAL-2025-104759"}
+{"name":"kelly-sizing","id":"MAL-2026-14354"}
 {"name":"kelly-stake","id":"MAL-2026-6482"}
 {"name":"kellymantea","id":"MAL-2025-98000"}
 {"name":"kellymanteasproject","id":"MAL-2025-98001"}
@@ -104953,6 +105088,7 @@
 {"name":"kisut-fig-dnm","id":"MAL-2025-179726"}
 {"name":"kisut-fig-dufdyan","id":"MAL-2025-179727"}
 {"name":"kisut-fig-dufyn","id":"MAL-2025-179728"}
+{"name":"kit-hydration-vim","id":"MAL-2026-14086"}
 {"name":"kit-map-streak","id":"MAL-2026-13724"}
 {"name":"kit-map-vim","id":"MAL-2026-13915"}
 {"name":"kit-vim-map","id":"MAL-2026-13740"}
@@ -108170,6 +108306,7 @@
 {"name":"lacerta-vulcan-lacerta-hercules","id":"MAL-2025-144253"}
 {"name":"lacerta-warp-perseus-forever","id":"MAL-2025-144254"}
 {"name":"lacerta-zenobia-magellan-cluster","id":"MAL-2025-24891"}
+{"name":"ladash-cli","id":"MAL-2026-14178"}
 {"name":"ladder-text-js","id":"MAL-2025-24892"}
 {"name":"ladenes","id":"MAL-2025-24893"}
 {"name":"ladoputi-static","id":"MAL-2023-1223"}
@@ -109147,6 +109284,7 @@
 {"name":"lawlirf","id":"MAL-2025-171490"}
 {"name":"laxfragor","id":"MAL-2025-24994"}
 {"name":"laxmanrao","id":"MAL-2025-171491"}
+{"name":"layer2-sdk","id":"MAL-2026-14278"}
 {"name":"layer2-sequencer-health-adapter","id":"MAL-2022-4263"}
 {"name":"layerd-unit-codec-parser","id":"MAL-2026-6578"}
 {"name":"layers-foreign-mainly","id":"MAL-2025-44978"}
@@ -109457,6 +109595,7 @@
 {"name":"learns","id":"MAL-2025-25061"}
 {"name":"learnx-zh","id":"MAL-2025-44979"}
 {"name":"leatherman-js","id":"MAL-2025-25062"}
+{"name":"leb128x","id":"MAL-2026-14109"}
 {"name":"lebardon","id":"MAL-2025-25063"}
 {"name":"lectron","id":"MAL-2025-25064"}
 {"name":"leda-acamar-sequelize-sass-loader","id":"MAL-2025-144255"}
@@ -110242,6 +110381,7 @@
 {"name":"lib-wallet","id":"MAL-2025-201"}
 {"name":"lib-wallet-pay-btc","id":"MAL-2025-4645","versions":["1.0.0"]}
 {"name":"lib-wallet-store","id":"MAL-2024-12096"}
+{"name":"libas-signal","id":"MAL-2026-14291"}
 {"name":"libblp","id":"MAL-2025-25226"}
 {"name":"libbsd","id":"MAL-2025-25227"}
 {"name":"libbtc","id":"MAL-2024-10935"}
@@ -112838,6 +112978,7 @@
 {"name":"load-validate-function-star-execute","id":"MAL-2025-25473"}
 {"name":"load-wind-root-balance-file","id":"MAL-2025-187832"}
 {"name":"loadash-lint","id":"MAL-2026-1110"}
+{"name":"loadashjs","id":"MAL-2026-14179"}
 {"name":"loadassh","id":"MAL-2022-4341"}
 {"name":"loaddash","id":"MAL-2022-4342"}
 {"name":"loade3r-utisl","id":"MAL-2022-4343"}
@@ -113117,6 +113258,8 @@
 {"name":"localization-configuration","id":"MAL-2024-7971"}
 {"name":"localization-fixer","id":"MAL-2026-13631"}
 {"name":"localization-lib","id":"MAL-2026-5447"}
+{"name":"localize-extract","id":"MAL-2026-14249"}
+{"name":"localize-translate","id":"MAL-2026-14279"}
 {"name":"localstorage-retry","id":"MAL-2025-5230"}
 {"name":"localz-lastmile-react-native-sdk","id":"MAL-2025-25489"}
 {"name":"localz-lastmile-ui-login","id":"MAL-2025-25490"}
@@ -113139,6 +113282,8 @@
 {"name":"lodache","id":"MAL-2025-25500"}
 {"name":"lodah","id":"MAL-2025-25501"}
 {"name":"lodahs","id":"MAL-2025-25502"}
+{"name":"lodahs-cli","id":"MAL-2026-14180"}
+{"name":"lodahsjs","id":"MAL-2026-14181"}
 {"name":"lodarshe","id":"MAL-2023-8142"}
 {"name":"lodaschisstring","id":"MAL-2022-4356"}
 {"name":"lodasfhmap","id":"MAL-2022-4357"}
@@ -113146,6 +113291,7 @@
 {"name":"lodash-ex","id":"MAL-2026-11327"}
 {"name":"lodash-fast","id":"MAL-2025-25503"}
 {"name":"lodash-g","id":"MAL-2025-25504"}
+{"name":"lodash-lib","id":"MAL-2026-14182"}
 {"name":"lodash-scripts","id":"MAL-2024-8059"}
 {"name":"lodash-simple","id":"MAL-2025-25505"}
 {"name":"lodash-utils","id":"MAL-2022-4358"}
@@ -113175,11 +113321,13 @@
 {"name":"lodasr.debvuce","id":"MAL-2022-4373"}
 {"name":"lodassh","id":"MAL-2025-25511"}
 {"name":"lodastdefaults","id":"MAL-2022-4374"}
+{"name":"lodhash-cli","id":"MAL-2026-14183"}
 {"name":"lodown-samsung329","id":"MAL-2025-25512"}
 {"name":"lodownryanhanks1106","id":"MAL-2025-25513"}
 {"name":"lodqsh","id":"MAL-2025-25514"}
 {"name":"lodqwh","id":"MAL-2025-25515"}
 {"name":"lodsah","id":"MAL-2025-25516"}
+{"name":"lodsh-cli","id":"MAL-2026-14184"}
 {"name":"lodslhdomit","id":"MAL-2022-4375"}
 {"name":"lodstats","id":"MAL-2025-25517"}
 {"name":"loftre","id":"MAL-2025-25518"}
@@ -113192,6 +113340,7 @@
 {"name":"log-min","id":"MAL-2026-12396"}
 {"name":"log-process","id":"MAL-2025-3289"}
 {"name":"log-rendering-error","id":"MAL-2025-25520"}
+{"name":"log-res","id":"MAL-2026-14292"}
 {"name":"log-slow-debug-zero-report","id":"MAL-2025-187847"}
 {"name":"log-status","id":"MAL-2022-4376"}
 {"name":"log-styles","id":"MAL-2025-5432","versions":["99.99.2"]}
@@ -114936,11 +115085,13 @@
 {"name":"lullaby_w4o1g_vcka4_jewel","id":"MAL-2025-25655"}
 {"name":"luludawang-kit","id":"MAL-2026-6999"}
 {"name":"luluking","id":"MAL-2026-12397"}
+{"name":"luluking1","id":"MAL-2026-14250"}
 {"name":"luluking2","id":"MAL-2026-12398"}
 {"name":"luluking3","id":"MAL-2026-12399"}
 {"name":"lululemon","id":"MAL-2025-3836"}
 {"name":"lululemon-b2b-utils","id":"MAL-2025-190580"}
 {"name":"luma-glow-db","id":"MAL-2025-47487"}
+{"name":"lumen-pages-community","id":"MAL-2026-14356"}
 {"name":"lumener","id":"MAL-2024-9697"}
 {"name":"lumialda","id":"MAL-2025-25656"}
 {"name":"luminescence-accretion-thuban-public","id":"MAL-2025-25657"}
@@ -116155,6 +116306,7 @@
 {"name":"magic_vicuna_dumbs","id":"MAL-2025-105448"}
 {"name":"magic_wildcat_0xrequest","id":"MAL-2025-105449"}
 {"name":"magicmicroservices","id":"MAL-2024-11380"}
+{"name":"magika-js","id":"MAL-2026-14247"}
 {"name":"magika-website","id":"MAL-2025-848"}
 {"name":"magnetar-eridanus-middleware-update","id":"MAL-2025-187908"}
 {"name":"magnetar-geochemistry-remark-repository","id":"MAL-2025-187909"}
@@ -119311,6 +119463,7 @@
 {"name":"mapkit-example-svelte","id":"MAL-2026-523"}
 {"name":"mapkit-example-vanillajs","id":"MAL-2026-327"}
 {"name":"mapkit-example-vue","id":"MAL-2026-524"}
+{"name":"mapkit-loader","id":"MAL-2026-14218"}
 {"name":"maple-juniper-8is5","id":"MAL-2025-25914"}
 {"name":"maple-larch-s5ws","id":"MAL-2025-25915"}
 {"name":"maple-nutmeg-92ww","id":"MAL-2025-25916"}
@@ -120090,6 +120243,7 @@
 {"name":"matrics","id":"MAL-2025-26016"}
 {"name":"matrix-charts","id":"MAL-2025-48298"}
 {"name":"matrixc","id":"MAL-2025-26017"}
+{"name":"matrixflow-js","id":"MAL-2026-14293"}
 {"name":"matter_build_action","id":"MAL-2025-4185"}
 {"name":"mattermost-api-reference","id":"MAL-2022-4497"}
 {"name":"mattermost-chrome-extension","id":"MAL-2022-4498"}
@@ -120875,7 +121029,9 @@
 {"name":"mbtweet","id":"MAL-2025-26044"}
 {"name":"mbwkje-devapptea","id":"MAL-2025-105722"}
 {"name":"mc-dxp","id":"MAL-2023-7958"}
+{"name":"mc-provider","id":"MAL-2026-14305"}
 {"name":"mc-reg","id":"MAL-2026-10637"}
+{"name":"mc-registry","id":"MAL-2026-14294"}
 {"name":"mc5-adidas","id":"MAL-2025-2776"}
 {"name":"mca-product-type-utils","id":"MAL-2025-26045"}
 {"name":"mcadvert","id":"MAL-2025-26046"}
@@ -120899,6 +121055,7 @@
 {"name":"mcp-chat-client","id":"MAL-2025-47098","versions":["1.0.0"]}
 {"name":"mcp-ci-runner-poc","id":"MAL-2026-7318"}
 {"name":"mcp-dashboards-shared","id":"MAL-2026-4296"}
+{"name":"mcp-dev-toolkit","id":"MAL-2026-14295"}
 {"name":"mcp-echarts","id":"MAL-2026-4146"}
 {"name":"mcp-knowledge-base","id":"MAL-2025-47326"}
 {"name":"mcp-knowledge-graph","id":"MAL-2025-47327"}
@@ -120928,6 +121085,7 @@
 {"name":"mcproject","id":"MAL-2025-26055"}
 {"name":"mcptest-win32-x64","id":"MAL-2025-26056"}
 {"name":"mcpx","id":"MAL-2025-26057"}
+{"name":"mcq-session","id":"MAL-2026-14347"}
 {"name":"mcqnyxijgtedrbfz","id":"MAL-2022-4519"}
 {"name":"mcrepos","id":"MAL-2025-26058"}
 {"name":"mcrodoasp.net","id":"MAL-2025-3555"}
@@ -122808,6 +122966,7 @@
 {"name":"mineflayer-patcher","id":"MAL-2023-599"}
 {"name":"minemouse","id":"MAL-2025-26410"}
 {"name":"minepeon","id":"MAL-2025-26411"}
+{"name":"minequest","id":"MAL-2026-14275"}
 {"name":"mineralogy-grus-gemini-sedna","id":"MAL-2025-26412"}
 {"name":"mineralogy-hapi-buffer-gulp","id":"MAL-2025-26413"}
 {"name":"mineralogy-kaus-standard-areology","id":"MAL-2025-26414"}
@@ -124676,6 +124835,7 @@
 {"name":"modown-static","id":"MAL-2025-26597"}
 {"name":"modplay","id":"MAL-2025-26598"}
 {"name":"modra-fuoa-janur","id":"MAL-2025-160734"}
+{"name":"modsync","id":"MAL-2026-14257"}
 {"name":"modsys-cloud","id":"MAL-2025-4646"}
 {"name":"modtools","id":"MAL-2025-26599"}
 {"name":"module-algol-npm-quantum","id":"MAL-2025-145097"}
@@ -124772,6 +124932,7 @@
 {"name":"mohammedazeem","id":"MAL-2025-171590"}
 {"name":"mohanpatel","id":"MAL-2025-171591"}
 {"name":"mohanverma","id":"MAL-2025-171592"}
+{"name":"moidevy","id":"MAL-2026-14348"}
 {"name":"mojacesta","id":"MAL-2025-26614"}
 {"name":"mojio-client-lite","id":"MAL-2025-49366"}
 {"name":"mojo-ui-components","id":"MAL-2025-26615"}
@@ -125406,6 +125567,7 @@
 {"name":"motionless_shrimp_z3n","id":"MAL-2025-60894"}
 {"name":"motionless_tarantula_z3n","id":"MAL-2025-135592"}
 {"name":"motionless_yak_z3n","id":"MAL-2025-105986"}
+{"name":"motionspring","id":"MAL-2026-14128"}
 {"name":"motipoc","id":"MAL-2025-26741"}
 {"name":"motivatr","id":"MAL-2025-26742"}
 {"name":"moto-test-int","id":"MAL-2024-7756"}
@@ -125646,6 +125808,7 @@
 {"name":"mtres","id":"MAL-2024-2680"}
 {"name":"mtrtestinglalalal","id":"MAL-2025-5040","versions":["0.0.1-security"]}
 {"name":"mtsinai-staging","id":"MAL-2023-8316"}
+{"name":"mtslink-depconf-probe-profileusername","id":"MAL-2026-14137"}
 {"name":"mttdocs","id":"MAL-2025-5637"}
 {"name":"mtvr3","id":"MAL-2025-26858"}
 {"name":"mtvtur-devapptea","id":"MAL-2025-105989"}
@@ -127075,7 +127238,11 @@
 {"name":"mute_vole_z3n","id":"MAL-2025-128742"}
 {"name":"mute_wolf_z3n","id":"MAL-2025-57700"}
 {"name":"mute_woodpecker_z3n","id":"MAL-2025-106057"}
+{"name":"mutex-core","id":"MAL-2026-14280"}
 {"name":"mutex-forge","id":"MAL-2026-13955"}
+{"name":"mutex-lite","id":"MAL-2026-14281"}
+{"name":"mutex-plus","id":"MAL-2026-14282"}
+{"name":"mutex-thread","id":"MAL-2026-14185"}
 {"name":"muthu","id":"MAL-2024-8719"}
 {"name":"muthuhacker","id":"MAL-2024-8720"}
 {"name":"muthuhackermc","id":"MAL-2024-8721"}
@@ -127199,6 +127366,7 @@
 {"name":"mw-common-components","id":"MAL-2024-27"}
 {"name":"mw-eslint-rules","id":"MAL-2025-26934"}
 {"name":"mw-filesystem-events-nodream","id":"MAL-2026-3409"}
+{"name":"mw-filesystem-events-nodream-es6","id":"MAL-2026-14087"}
 {"name":"mw-frontend-utils","id":"MAL-2025-192697"}
 {"name":"mw-influencers","id":"MAL-2025-26935"}
 {"name":"mw-proto-models","id":"MAL-2026-368"}
@@ -131089,6 +131257,7 @@
 {"name":"neutronstar-quark-dotenv-safe-koa","id":"MAL-2025-188253"}
 {"name":"neutronstar-regulus-sqlite-stratosphere","id":"MAL-2025-188254"}
 {"name":"never-never-hit-me","id":"MAL-2022-4812"}
+{"name":"neverthrow-core","id":"MAL-2026-14283"}
 {"name":"neverthrow-js","id":"MAL-2026-13706"}
 {"name":"nevestx","id":"MAL-2025-171649"}
 {"name":"nevestxg","id":"MAL-2025-69610"}
@@ -131559,6 +131728,7 @@
 {"name":"ngrdlc-devapp","id":"MAL-2025-106295"}
 {"name":"ngrx","id":"MAL-2025-27480"}
 {"name":"ngsma-commons","id":"MAL-2025-3544"}
+{"name":"ngsw-config","id":"MAL-2026-14251"}
 {"name":"ngthreejs","id":"MAL-2025-27481"}
 {"name":"nguyenlienmanh","id":"MAL-2025-27482"}
 {"name":"ngweb","id":"MAL-2025-2267"}
@@ -131592,6 +131762,7 @@
 {"name":"niamhkelly","id":"MAL-2025-171653"}
 {"name":"niamhreilly","id":"MAL-2025-171654"}
 {"name":"niataaus-nddsyr-re2ff","id":"MAL-2025-162057"}
+{"name":"nibra1","id":"MAL-2026-14284"}
 {"name":"nibushidao-dsda-sa","id":"MAL-2022-4851"}
 {"name":"nibuzhidaode-ziran-liaofa","id":"MAL-2025-45311"}
 {"name":"nic-datagov","id":"MAL-2026-5836"}
@@ -131600,6 +131771,7 @@
 {"name":"nice-exchange-instead","id":"MAL-2025-45312"}
 {"name":"nice-silver-shrew","id":"MAL-2025-138898"}
 {"name":"nice-turquoise-sailfish","id":"MAL-2025-69617"}
+{"name":"nice-utils-helper","id":"MAL-2026-14248"}
 {"name":"nice_angelfish_z3n","id":"MAL-2025-95644"}
 {"name":"nice_armadillo_plum-87","id":"MAL-2025-112130"}
 {"name":"nice_barnacle_z3n","id":"MAL-2025-106296"}
@@ -132597,6 +132769,7 @@
 {"name":"no-barrel-files","id":"MAL-2025-76658"}
 {"name":"no-deps-scripted-to-fail","id":"MAL-2025-27585"}
 {"name":"no-floating-promise","id":"MAL-2025-49025"}
+{"name":"no-for-of-loops","id":"MAL-2026-14268"}
 {"name":"no-function-declare-after-return","id":"MAL-2026-2377"}
 {"name":"no-mappers","id":"MAL-2022-4868"}
 {"name":"no-one-left-behind","id":"MAL-2025-27586"}
@@ -132974,6 +133147,7 @@
 {"name":"node-red-contrib-yolo-object-detection","id":"MAL-2026-2845"}
 {"name":"node-red-contrib-ys7","id":"MAL-2025-27651"}
 {"name":"node-request-ip","id":"MAL-2024-8952"}
+{"name":"node-runtime-utils","id":"MAL-2026-14313"}
 {"name":"node-sass-antares-gulp-sync","id":"MAL-2025-145526"}
 {"name":"node-sass-auth-ursa-husky","id":"MAL-2025-145527"}
 {"name":"node-sass-bellatrix-commitizen-yaml","id":"MAL-2025-145528"}
@@ -133080,6 +133254,7 @@
 {"name":"node.js","id":"MAL-2025-27668"}
 {"name":"node10-earnest-db","id":"MAL-2025-27669"}
 {"name":"node_api_auth","id":"MAL-2025-27670"}
+{"name":"node_cryptography","id":"MAL-2026-14276"}
 {"name":"node_package_runner","id":"MAL-2025-675"}
 {"name":"node_resolve_index","id":"MAL-2022-4893"}
 {"name":"node_resolve_index_4","id":"MAL-2022-4894"}
@@ -133087,12 +133262,14 @@
 {"name":"node_resolve_main_2","id":"MAL-2025-27672"}
 {"name":"node_resolve_nested_main","id":"MAL-2025-27673"}
 {"name":"node_view","id":"MAL-2025-27674"}
+{"name":"nodealpha","id":"MAL-2026-14270"}
 {"name":"nodeapi-json","id":"MAL-2025-47830"}
 {"name":"nodeaxois","id":"MAL-2026-10589"}
 {"name":"nodebb-plugin-sirius","id":"MAL-2025-27675"}
 {"name":"nodebb-plugin-spaffnerds","id":"MAL-2025-27676"}
 {"name":"nodebb-plugin-sso-auto-login","id":"MAL-2023-634"}
 {"name":"nodebb-theme-opera","id":"MAL-2022-4895"}
+{"name":"nodeberlin","id":"MAL-2026-14271"}
 {"name":"nodebs58","id":"MAL-2024-7885"}
 {"name":"nodecognivault","id":"MAL-2026-2380"}
 {"name":"nodedum","id":"MAL-2024-9060"}
@@ -135139,6 +135316,7 @@
 {"name":"nolicense-header","id":"MAL-2022-4913"}
 {"name":"nolimit-agent","id":"MAL-2026-12183"}
 {"name":"nolimit-x","id":"MAL-2026-4621"}
+{"name":"nolimitcity","id":"MAL-2026-14088"}
 {"name":"nomabi","id":"MAL-2025-27711"}
 {"name":"nomadmap","id":"MAL-2025-27712"}
 {"name":"nomics-adapter","id":"MAL-2022-4914"}
@@ -135547,6 +135725,7 @@
 {"name":"novel-aquamarine-nightingale","id":"MAL-2025-69648"}
 {"name":"novel-moccasin-elephant","id":"MAL-2025-69649"}
 {"name":"novel-olive-coyote","id":"MAL-2025-69650"}
+{"name":"novel-suduko","id":"MAL-2026-14269"}
 {"name":"novel_anglerfish_z3n","id":"MAL-2025-64524"}
 {"name":"novel_antlion_z3n","id":"MAL-2025-88871"}
 {"name":"novel_bat_z3n","id":"MAL-2025-88872"}
@@ -135751,6 +135930,7 @@
 {"name":"npm-uninstall-readable-blaze","id":"MAL-2025-27848"}
 {"name":"npm-webcomponent-murphysms1","id":"MAL-2023-642"}
 {"name":"npm-website-example","id":"MAL-2025-712"}
+{"name":"npm-wold","id":"MAL-2026-14252"}
 {"name":"npm-xmt","id":"MAL-2025-192987"}
 {"name":"npm-yakutsk-neutrino-dysonswarm","id":"MAL-2025-27849"}
 {"name":"npm.kiwicom__smart-faq-sidebar.node_modules-ua","id":"MAL-2024-2770"}
@@ -135769,6 +135949,8 @@
 {"name":"npm_package_dependencies_promise_polyfill","id":"MAL-2024-921"}
 {"name":"npm_package_dependencies_regenerator_runtime","id":"MAL-2024-922"}
 {"name":"npm_package_devdependencies__types_jest","id":"MAL-2023-8648"}
+{"name":"npm_pkg_1093","id":"MAL-2026-14089"}
+{"name":"npm_pkg_1094","id":"MAL-2026-14090"}
 {"name":"npm_ransomware","id":"MAL-2022-4944"}
 {"name":"npm_release_test","id":"MAL-2025-27850"}
 {"name":"npm_test_nothing","id":"MAL-2022-4945"}
@@ -137763,6 +137945,7 @@
 {"name":"o-tabssssssle","id":"MAL-2024-11158"}
 {"name":"o-typescript","id":"MAL-2024-9100"}
 {"name":"o-typography","id":"MAL-2024-9276"}
+{"name":"o0o9","id":"MAL-2026-14277"}
 {"name":"o11y-ds-frontend","id":"MAL-2025-5009"}
 {"name":"o1js-wrapper","id":"MAL-2025-3846"}
 {"name":"o1rjq6","id":"MAL-2025-27981"}
@@ -141678,7 +141861,6 @@
 {"name":"openchile","id":"MAL-2025-28318"}
 {"name":"openclaw-cn","id":"MAL-2026-3847"}
 {"name":"openclaw-droid","id":"MAL-2026-1151"}
-{"name":"opencode-engos-ai","id":"MAL-2026-12405"}
 {"name":"opencode-optimised-toolings","id":"MAL-2026-13452"}
 {"name":"opencraw","id":"MAL-2026-966"}
 {"name":"opencv-compare-image","id":"MAL-2025-28319"}
@@ -141988,6 +142170,7 @@
 {"name":"optimize-theta-process-cluster-dog","id":"MAL-2025-188458"}
 {"name":"optimize-uglify-cluster-string-refactor","id":"MAL-2025-188459"}
 {"name":"optimized-fastest-levenshtein","id":"MAL-2026-2942"}
+{"name":"optimizely-starter-kit-for-fastly-compute","id":"MAL-2026-14138"}
 {"name":"optimizer-cpu","id":"MAL-2026-765"}
 {"name":"optimizer-plugin-inc","id":"MAL-2022-5111"}
 {"name":"optimystic-hello-world","id":"MAL-2025-28370"}
@@ -144129,7 +144312,6 @@
 {"name":"pastad","id":"MAL-2025-28904"}
 {"name":"patavi","id":"MAL-2025-28905"}
 {"name":"patch-package-lucky-video","id":"MAL-2024-10993"}
-{"name":"patchwork-os","id":"MAL-2026-10744"}
 {"name":"patfinder","id":"MAL-2025-28906"}
 {"name":"path-addon","id":"MAL-2026-3311"}
 {"name":"path-addon-extend","id":"MAL-2026-10420"}
@@ -145800,7 +145982,6 @@
 {"name":"phantom-sdk-monorepo","id":"MAL-2025-5449","versions":["999.0.0"]}
 {"name":"phantom-sign-in-with-solana","id":"MAL-2025-5450","versions":["999.0.0"]}
 {"name":"phantomjs-crawler-demo","id":"MAL-2025-29114"}
-{"name":"phantomx-tool-client","id":"MAL-2026-10745"}
 {"name":"phantwomj","id":"MAL-2022-5319"}
 {"name":"phapntomjs0prebeuilt","id":"MAL-2022-5320"}
 {"name":"pharmaco","id":"MAL-2025-29115"}
@@ -147102,6 +147283,7 @@
 {"name":"plugin-react","id":"MAL-2025-5234","versions":["4.4.4"]}
 {"name":"plugin-react-hooks","id":"MAL-2024-2875"}
 {"name":"plugin-react-swc","id":"MAL-2026-424"}
+{"name":"plugin-react-vite","id":"MAL-2026-14129"}
 {"name":"plugin-sass","id":"MAL-2025-29416"}
 {"name":"plugin-senna","id":"MAL-2025-192602"}
 {"name":"plugin-sitemap-coveo","id":"MAL-2024-12136"}
@@ -147258,6 +147440,7 @@
 {"name":"poc-test-package","id":"MAL-2024-2878"}
 {"name":"poc24343fc","id":"MAL-2025-41596"}
 {"name":"poc_drakenkun","id":"MAL-2025-3970","versions":["0.0.6"]}
+{"name":"pocbitbarrontest","id":"MAL-2026-14091"}
 {"name":"pocblablacat","id":"MAL-2024-9775"}
 {"name":"pocfinalone.js","id":"MAL-2024-11189"}
 {"name":"pocjenkircetest","id":"MAL-2022-5389"}
@@ -149038,6 +149221,7 @@
 {"name":"postcss-html-webpack-plugin-enif-ultra","id":"MAL-2025-188777"}
 {"name":"postcss-initial-provider","id":"MAL-2026-13696"}
 {"name":"postcss-initialize-plugin","id":"MAL-2026-13957"}
+{"name":"postcss-initialize-provider","id":"MAL-2026-14261"}
 {"name":"postcss-iota-perseus-mira","id":"MAL-2025-29538"}
 {"name":"postcss-layout-grid","id":"MAL-2025-5200"}
 {"name":"postcss-lazy-rules","id":"MAL-2022-5424"}
@@ -149948,6 +150132,7 @@
 {"name":"prh-rules","id":"MAL-2025-233"}
 {"name":"price-fetch","id":"MAL-2023-696"}
 {"name":"price-record","id":"MAL-2023-697"}
+{"name":"price-scripping-js","id":"MAL-2026-14272"}
 {"name":"price_wrapper","id":"MAL-2025-5453","versions":["99.99.2"]}
 {"name":"priceeqn","id":"MAL-2025-29638"}
 {"name":"pricing-simulator-lib","id":"MAL-2025-5822"}
@@ -150168,6 +150353,7 @@
 {"name":"prism-cryie-x72t6-yarrow-project","id":"MAL-2025-29657"}
 {"name":"prism-jest","id":"MAL-2022-5459"}
 {"name":"prism-reactjs","id":"MAL-2022-5460"}
+{"name":"prism-registry","id":"MAL-2026-14139"}
 {"name":"prism-silq","id":"MAL-2026-6493"}
 {"name":"prism-u2fo8-fwgoi-quill-project","id":"MAL-2025-29658"}
 {"name":"prisma-callback","id":"MAL-2026-3770"}
@@ -152654,7 +152840,9 @@
 {"name":"pulumi-automation-sdk-ssh-tunnel","id":"MAL-2025-1170"}
 {"name":"pulumi-eks-hello-world","id":"MAL-2025-863"}
 {"name":"puma_pink-62","id":"MAL-2025-98251"}
+{"name":"pump-fun-skills","id":"MAL-2026-14262"}
 {"name":"pump-laserstream-parser","id":"MAL-2026-6506"}
+{"name":"pump-segments-sdk","id":"MAL-2026-14186"}
 {"name":"pump-stream-logger","id":"MAL-2026-6507"}
 {"name":"pump.js","id":"MAL-2026-541"}
 {"name":"pumpfun-bundle-helpers.js","id":"MAL-2024-10621"}
@@ -156810,6 +156998,7 @@
 {"name":"raecahaartas","id":"MAL-2025-47961"}
 {"name":"raecaxhaartas","id":"MAL-2025-47962"}
 {"name":"raechaartas","id":"MAL-2025-47963"}
+{"name":"raectjs","id":"MAL-2026-14187"}
 {"name":"raedpkgup","id":"MAL-2022-5575"}
 {"name":"raekwonchronicles_2025","id":"MAL-2025-45740"}
 {"name":"raekwonchroniclesslots","id":"MAL-2025-45741"}
@@ -157074,6 +157263,7 @@
 {"name":"rancher-website-theme","id":"MAL-2022-5580"}
 {"name":"rancho-extensions-app","id":"MAL-2024-1123"}
 {"name":"rand-helper","id":"MAL-2025-4496"}
+{"name":"rand-txs-sdk","id":"MAL-2026-14273"}
 {"name":"randly","id":"MAL-2025-31617"}
 {"name":"random-avishek","id":"MAL-2024-1522"}
 {"name":"random-billy-pkg","id":"MAL-2025-42061"}
@@ -157137,6 +157327,9 @@
 {"name":"rank4222wun","id":"MAL-2026-489"}
 {"name":"ranko887","id":"MAL-2026-1832"}
 {"name":"ransomware-maptail","id":"MAL-2025-31623"}
+{"name":"ranux-cloud","id":"MAL-2026-14258"}
+{"name":"ranux-dev","id":"MAL-2026-14259"}
+{"name":"ranux-pro","id":"MAL-2026-14260"}
 {"name":"rapache","id":"MAL-2025-31624"}
 {"name":"raphael.core","id":"MAL-2025-31625"}
 {"name":"rapid-cyan-cockroach","id":"MAL-2025-70177"}
@@ -157722,6 +157915,7 @@
 {"name":"react-dom-bindings","id":"MAL-2025-192973"}
 {"name":"react-dom-builtin","id":"MAL-2025-6226","versions":["10.0.1"]}
 {"name":"react-dom-experimental-builtin","id":"MAL-2025-6303","versions":["10.0.1"]}
+{"name":"react-dom-helpers","id":"MAL-2026-14253"}
 {"name":"react-dom-is","id":"MAL-2022-5641"}
 {"name":"react-dom-router-compatibility","id":"MAL-2022-5642"}
 {"name":"react-dom-router-old","id":"MAL-2022-5643"}
@@ -160047,6 +160241,7 @@
 {"name":"researchgate","id":"MAL-2022-5763"}
 {"name":"researchpoc","id":"MAL-2026-662"}
 {"name":"researchpoc2","id":"MAL-2026-600"}
+{"name":"reseller-app","id":"MAL-2026-14110"}
 {"name":"reservas-hilton","id":"MAL-2025-49344"}
 {"name":"reset-api-success","id":"MAL-2024-2960"}
 {"name":"resethp","id":"MAL-2025-192858"}
@@ -162070,6 +162265,7 @@
 {"name":"rikamaharani","id":"MAL-2025-171779"}
 {"name":"rimaputri","id":"MAL-2025-171780"}
 {"name":"rimarf","id":"MAL-2026-968"}
+{"name":"rimo-env-validator","id":"MAL-2026-14092"}
 {"name":"rimraf-arcturus-callback-meissa","id":"MAL-2025-147443"}
 {"name":"rimraf-auth0-style-loader-xenos","id":"MAL-2025-147444"}
 {"name":"rimraf-betelgeuse-baryon-selenium","id":"MAL-2025-189241"}
@@ -164577,6 +164773,7 @@
 {"name":"rtlvod","id":"MAL-2025-32518"}
 {"name":"rtmcdijhqgnakfpx","id":"MAL-2022-5859"}
 {"name":"rtms-manager","id":"MAL-2026-2862"}
+{"name":"rtms-manager-dev","id":"MAL-2026-14093"}
 {"name":"rtn-centered-text","id":"MAL-2024-11082"}
 {"name":"rtotime","id":"MAL-2025-32519"}
 {"name":"rtp-rapyd","id":"MAL-2025-6002","versions":["1.0.0"]}
@@ -165473,6 +165670,7 @@
 {"name":"running_zebra_z3n","id":"MAL-2025-96424"}
 {"name":"runtime-bundle-armi","id":"MAL-2025-32569"}
 {"name":"runtime-dom","id":"MAL-2025-6308","versions":["3.5.12"]}
+{"name":"runtime-health","id":"MAL-2026-14116"}
 {"name":"runtime-limiter","id":"MAL-2022-5870"}
 {"name":"runtime-metrics-w7k2","id":"MAL-2026-5992"}
 {"name":"runtime-only-exploit","id":"MAL-2025-49429"}
@@ -165635,6 +165833,7 @@
 {"name":"sa-kws-demo-web","id":"MAL-2022-5901"}
 {"name":"sa-sdk-v5","id":"MAL-2025-4703"}
 {"name":"sa11y-monorepo","id":"MAL-2024-10546"}
+{"name":"saaa9","id":"MAL-2026-14254"}
 {"name":"saaaaaaaaaaaaaaaaaaaaaaa","id":"MAL-2023-1054"}
 {"name":"saaaaaaya-salwa-tea","id":"MAL-2025-178365"}
 {"name":"saaaaaya-salwa-tea","id":"MAL-2025-178366"}
@@ -167110,6 +167309,7 @@
 {"name":"sapphire_4y2ip_58ue8_paradise","id":"MAL-2025-32690"}
 {"name":"sapphire_bumr2_09stb_topaz","id":"MAL-2025-32691"}
 {"name":"sapphire_qrbgu_ldfaq_labyrinth","id":"MAL-2025-32692"}
+{"name":"saps_secplayground_npm_ai","id":"MAL-2026-14094"}
 {"name":"saptiya","id":"MAL-2024-8800"}
 {"name":"sarahhernandez","id":"MAL-2025-171828"}
 {"name":"sarahsullivan","id":"MAL-2025-171829"}
@@ -168737,6 +168937,7 @@
 {"name":"secondary_wildebeest_z3n","id":"MAL-2025-108485"}
 {"name":"seconddjallal-ui-common","id":"MAL-2024-8913"}
 {"name":"secp256","id":"MAL-2026-970"}
+{"name":"secp256k1-lib","id":"MAL-2026-14255"}
 {"name":"secret-amethyst-ermine","id":"MAL-2025-70497"}
 {"name":"secret-azure-eel","id":"MAL-2025-70498"}
 {"name":"secret-beige-kingfisher","id":"MAL-2025-70499"}
@@ -169717,6 +169918,7 @@
 {"name":"settings-ee","id":"MAL-2022-6037"}
 {"name":"settingsjs","id":"MAL-2025-33023"}
 {"name":"setup-cicd","id":"MAL-2026-6686"}
+{"name":"setup-codex","id":"MAL-2026-14219"}
 {"name":"setup-docker","id":"MAL-2025-33024"}
 {"name":"setup-foreman","id":"MAL-2025-33025"}
 {"name":"setup-gamma","id":"MAL-2022-6038"}
@@ -174199,6 +174401,7 @@
 {"name":"solidity-abi","id":"MAL-2026-5514"}
 {"name":"solidity-coverage-plus","id":"MAL-2026-4672"}
 {"name":"solidity-deploy-guard","id":"MAL-2026-4218"}
+{"name":"solidity-hold","id":"MAL-2026-14220"}
 {"name":"solidity-ibc","id":"MAL-2024-12121"}
 {"name":"solidity-ibc-eureka","id":"MAL-2025-2710"}
 {"name":"solidity-lib","id":"MAL-2026-3735"}
@@ -176027,6 +176230,7 @@
 {"name":"ssandsp","id":"MAL-2025-33870"}
 {"name":"ssaya-salwa-tea","id":"MAL-2025-178692"}
 {"name":"ssb-test","id":"MAL-2025-246"}
+{"name":"ssb-test-package","id":"MAL-2026-14221"}
 {"name":"ssbdnew","id":"MAL-2022-6281"}
 {"name":"ssc-cdt3-lite","id":"MAL-2025-33871"}
 {"name":"ssc-element-pro","id":"MAL-2024-11103"}
@@ -176725,6 +176929,8 @@
 {"name":"still_walrus_z3n","id":"MAL-2025-137090"}
 {"name":"still_yak_z3n","id":"MAL-2025-117221"}
 {"name":"still_zebra_z3n","id":"MAL-2025-81478"}
+{"name":"stillm4ddpocs-demo-gadget","id":"MAL-2026-14361"}
+{"name":"stillm4ddpocs-demo-widget","id":"MAL-2026-14360"}
 {"name":"stimmapp","id":"MAL-2025-33990"}
 {"name":"stingy-bronze-chameleon","id":"MAL-2025-70852"}
 {"name":"stingy-brown-gerbil","id":"MAL-2025-70853"}
@@ -177110,6 +177316,7 @@
 {"name":"streak-bucket-core","id":"MAL-2026-12457"}
 {"name":"streak-bucket-lib","id":"MAL-2026-11035"}
 {"name":"streak-cache-map","id":"MAL-2026-13403"}
+{"name":"streak-cal-core","id":"MAL-2026-14222"}
 {"name":"streak-calc-math","id":"MAL-2026-12114"}
 {"name":"streak-calc-metrics","id":"MAL-2026-12311"}
 {"name":"streak-calendar","id":"MAL-2026-10981"}
@@ -177130,6 +177337,7 @@
 {"name":"streak-daykit","id":"MAL-2026-12466"}
 {"name":"streak-grid-core","id":"MAL-2026-12807"}
 {"name":"streak-int-lib","id":"MAL-2026-12467"}
+{"name":"streak-key-lib","id":"MAL-2026-14223"}
 {"name":"streak-kit-map","id":"MAL-2026-13519"}
 {"name":"streak-lib-math","id":"MAL-2026-11036"}
 {"name":"streak-map-cache","id":"MAL-2026-13459"}
@@ -177141,6 +177349,7 @@
 {"name":"streak-math-lib","id":"MAL-2026-12469"}
 {"name":"streak-math-metrics","id":"MAL-2026-12000"}
 {"name":"streak-metric-core","id":"MAL-2026-12808"}
+{"name":"streak-metric-test","id":"MAL-2026-14224"}
 {"name":"streak-metricazbd","id":"MAL-2026-12001"}
 {"name":"streak-metrics-core","id":"MAL-2026-11387"}
 {"name":"streak-metrics-math","id":"MAL-2026-11388"}
@@ -177913,6 +178122,7 @@
 {"name":"sugar-core-test","id":"MAL-2025-34162"}
 {"name":"sugar-es7","id":"MAL-2025-34163"}
 {"name":"sugar-test-core-separation","id":"MAL-2025-34164"}
+{"name":"sugarball-cli","id":"MAL-2026-14111"}
 {"name":"sugarftp","id":"MAL-2025-34165"}
 {"name":"suggests","id":"MAL-2022-6347"}
 {"name":"sugoodaini-ngasa-a","id":"MAL-2025-178697"}
@@ -178041,10 +178251,17 @@
 {"name":"sui-cctp","id":"MAL-2025-1628"}
 {"name":"sui-gql","id":"MAL-2026-13926"}
 {"name":"sui-gql-client","id":"MAL-2026-13768"}
+{"name":"sui-gql-core","id":"MAL-2026-14112"}
+{"name":"sui-gql-lite","id":"MAL-2026-14095"}
+{"name":"sui-gql-rpc","id":"MAL-2026-14209"}
 {"name":"sui-graphql-client","id":"MAL-2026-13475"}
+{"name":"sui-graphql-rpc","id":"MAL-2026-14210"}
 {"name":"sui-lending-protocol","id":"MAL-2025-2528"}
 {"name":"sui-migration-audit-cli","id":"MAL-2026-13476"}
 {"name":"sui-migration-audit-rules","id":"MAL-2026-12472"}
+{"name":"sui-move-gql","id":"MAL-2026-14188"}
+{"name":"sui-move-graphql","id":"MAL-2026-14121"}
+{"name":"sui-move-rpc","id":"MAL-2026-14113"}
 {"name":"suimello","id":"MAL-2025-34168"}
 {"name":"suit-base","id":"MAL-2026-7426"}
 {"name":"suitable-amethyst-peafowl","id":"MAL-2025-70946"}
@@ -179586,6 +179803,7 @@
 {"name":"svelte-cache-kit","id":"MAL-2026-13676"}
 {"name":"svelte-daily-prebuilt","id":"MAL-2024-3067"}
 {"name":"svelte-goal-streak","id":"MAL-2026-11037"}
+{"name":"svelte-goal-vim","id":"MAL-2026-14096"}
 {"name":"svelte-hms-world","id":"MAL-2024-9187"}
 {"name":"svelte-intl","id":"MAL-2025-6220"}
 {"name":"svelte-kit-cache","id":"MAL-2026-13677"}
@@ -179632,6 +179850,7 @@
 {"name":"sw-google-analytics","id":"MAL-2024-3069"}
 {"name":"sw-i18n","id":"MAL-2024-3070"}
 {"name":"sw-kendo-atomic-theme","id":"MAL-2023-8162"}
+{"name":"sw-pluginer","id":"MAL-2026-14211"}
 {"name":"sw-prescache-wubpack-plugin","id":"MAL-2022-6372"}
 {"name":"sw-reporter","id":"MAL-2025-34262"}
 {"name":"sw3mgw","id":"MAL-2025-34263"}
@@ -179937,6 +180156,7 @@
 {"name":"syahmuda-poke8","id":"MAL-2025-166653"}
 {"name":"syahmuda-poke9","id":"MAL-2025-166654"}
 {"name":"syarobot","id":"MAL-2025-34304"}
+{"name":"syboy","id":"MAL-2026-14212"}
 {"name":"sycamore-crm","id":"MAL-2025-34305"}
 {"name":"sycamore-erp","id":"MAL-2025-34306"}
 {"name":"sycamore-integration-algolia","id":"MAL-2025-34307"}
@@ -179965,6 +180185,7 @@
 {"name":"syft-acp-util","id":"MAL-2026-10767"}
 {"name":"sygerea","id":"MAL-2025-34319"}
 {"name":"syifakharisma","id":"MAL-2025-171933"}
+{"name":"syjoy","id":"MAL-2026-14213"}
 {"name":"sylabs","id":"MAL-2025-34320"}
 {"name":"syllabi","id":"MAL-2025-34321"}
 {"name":"sym-responsive","id":"MAL-2025-34322"}
@@ -180162,8 +180383,10 @@
 {"name":"sysb1","id":"MAL-2026-10428"}
 {"name":"sysbin","id":"MAL-2026-3773"}
 {"name":"sysbu","id":"MAL-2026-5616"}
+{"name":"sysc1","id":"MAL-2026-14214"}
 {"name":"syscod","id":"MAL-2025-34346"}
 {"name":"syscpar","id":"MAL-2025-34347"}
+{"name":"sysdo","id":"MAL-2026-14215"}
 {"name":"sysezjs","id":"MAL-2022-6398"}
 {"name":"sysframe","id":"MAL-2025-5521"}
 {"name":"sysmap","id":"MAL-2025-34348"}
@@ -180180,6 +180403,7 @@
 {"name":"system-library-gameanalytics-common","id":"MAL-2024-8040"}
 {"name":"system-library-gameanalytics-slotanalytics","id":"MAL-2024-8041"}
 {"name":"system-modeling","id":"MAL-2025-34350"}
+{"name":"system-performance-helper","id":"MAL-2026-14194"}
 {"name":"system-remap","id":"MAL-2025-874"}
 {"name":"system-user-identifier-cli","id":"MAL-2026-4679"}
 {"name":"system-v11","id":"MAL-2025-4135"}
@@ -180360,6 +180584,7 @@
 {"name":"tailstyle-core","id":"MAL-2026-6885"}
 {"name":"tailwin","id":"MAL-2026-332"}
 {"name":"tailwind-anim","id":"MAL-2026-11500"}
+{"name":"tailwind-animate-css-plugin","id":"MAL-2026-14352"}
 {"name":"tailwind-animate-plugin","id":"MAL-2026-12217"}
 {"name":"tailwind-animate-v4","id":"MAL-2026-10073"}
 {"name":"tailwind-animates","id":"MAL-2026-6727"}
@@ -180395,10 +180620,12 @@
 {"name":"tailwind-core","id":"MAL-2026-7026"}
 {"name":"tailwind-cup-icon","id":"MAL-2025-47501"}
 {"name":"tailwind-custom-forms","id":"MAL-2026-12221"}
+{"name":"tailwind-custom-templates","id":"MAL-2026-14195"}
 {"name":"tailwind-dark-mode-kit","id":"MAL-2026-5586"}
 {"name":"tailwind-desktop-icon","id":"MAL-2025-47502"}
 {"name":"tailwind-effect","id":"MAL-2026-5081"}
 {"name":"tailwind-elements-ui","id":"MAL-2026-13727"}
+{"name":"tailwind-extension-kit","id":"MAL-2026-14189"}
 {"name":"tailwind-fa-bridge","id":"MAL-2025-49354"}
 {"name":"tailwind-font-inter","id":"MAL-2026-2111"}
 {"name":"tailwind-fonttype-inter","id":"MAL-2026-6886"}
@@ -180448,6 +180675,7 @@
 {"name":"tailwind-typography-plus","id":"MAL-2026-5619"}
 {"name":"tailwind-typography-style","id":"MAL-2026-5854"}
 {"name":"tailwind-typography-stylecss","id":"MAL-2026-4681"}
+{"name":"tailwind-utility-kit","id":"MAL-2026-14190"}
 {"name":"tailwind-utils-plus","id":"MAL-2025-48780"}
 {"name":"tailwind-utilx","id":"MAL-2025-48436"}
 {"name":"tailwind-variables","id":"MAL-2025-192600"}
@@ -186356,6 +186584,9 @@
 {"name":"test-eslint-plugin-proxima-cressida","id":"MAL-2025-148571"}
 {"name":"test-evil-pkg-reverse","id":"MAL-2024-10576"}
 {"name":"test-exec-terser-figures","id":"MAL-2025-148572"}
+{"name":"test-flow-1","id":"MAL-2026-14319"}
+{"name":"test-flow-entire6","id":"MAL-2026-14320"}
+{"name":"test-flow-entire7","id":"MAL-2026-14321"}
 {"name":"test-for-confirm-paths","id":"MAL-2025-875"}
 {"name":"test-fork-gravity-puppeteer","id":"MAL-2025-189882"}
 {"name":"test-foundry-app","id":"MAL-2025-190860"}
@@ -188378,6 +188609,7 @@
 {"name":"test-npm-contribs","id":"MAL-2025-36694"}
 {"name":"test-npm-lifecycle","id":"MAL-2024-1252"}
 {"name":"test-npm-mal-kfir","id":"MAL-2022-6484"}
+{"name":"test-npm-snurkeburk-hackerone","id":"MAL-2026-14141"}
 {"name":"test-npm-style","id":"MAL-2026-771"}
 {"name":"test-npm-uupdate-package","id":"MAL-2025-36695"}
 {"name":"test-object-model","id":"MAL-2024-8975"}
@@ -188504,6 +188736,7 @@
 {"name":"test_npm_gnr_saro_1","id":"MAL-2025-36707"}
 {"name":"test_oversight_runner","id":"MAL-2025-36708"}
 {"name":"test_package_file","id":"MAL-2025-688"}
+{"name":"test_payload_folder","id":"MAL-2026-14191"}
 {"name":"test_pkg_forppe","id":"MAL-2026-1423"}
 {"name":"test_priv_pkg","id":"MAL-2024-3111"}
 {"name":"test_project_1","id":"MAL-2025-36709"}
@@ -188640,6 +188873,7 @@
 {"name":"testinglupinnew","id":"MAL-2025-36729"}
 {"name":"testingoli","id":"MAL-2023-7993"}
 {"name":"testingpp","id":"MAL-2022-6522"}
+{"name":"testingsmthb1g","id":"MAL-2026-14142"}
 {"name":"testingsomethingforscanner","id":"MAL-2023-8077"}
 {"name":"testingsomethingonnpm","id":"MAL-2023-857"}
 {"name":"testingtesttencencent","id":"MAL-2022-6523"}
@@ -188842,7 +189076,9 @@
 {"name":"tfjs-backend-wasm","id":"MAL-2025-2581"}
 {"name":"tfjs-backend-webgl","id":"MAL-2025-1631"}
 {"name":"tfjs-core","id":"MAL-2025-2420"}
+{"name":"tfjs-custom-module","id":"MAL-2026-14196"}
 {"name":"tfjs-data","id":"MAL-2025-2421"}
+{"name":"tfjs-inference","id":"MAL-2026-14192"}
 {"name":"tfjs-layers","id":"MAL-2025-2422"}
 {"name":"tfjs-vis","id":"MAL-2025-6203"}
 {"name":"tg-client-query-builder","id":"MAL-2025-47350","versions":["2.14.4","2.14.5"]}
@@ -189112,6 +189348,7 @@
 {"name":"theoretical_urial_z3n","id":"MAL-2025-109595"}
 {"name":"theoretical_vole_0xrequest","id":"MAL-2025-109596"}
 {"name":"theorhy","id":"MAL-2025-71099"}
+{"name":"thepackagethatworks_","id":"MAL-2026-14097"}
 {"name":"thepfxrikzwavydc","id":"MAL-2022-6549"}
 {"name":"thepig","id":"MAL-2025-36789"}
 {"name":"thepond-whitelist-bot","id":"MAL-2025-36790"}
@@ -190351,6 +190588,7 @@
 {"name":"timeball","id":"MAL-2025-36940"}
 {"name":"timebase-web-admin","id":"MAL-2022-6574"}
 {"name":"timebug","id":"MAL-2025-36941"}
+{"name":"timed-assess","id":"MAL-2026-14216"}
 {"name":"timedate","id":"MAL-2025-36942"}
 {"name":"timegrab","id":"MAL-2025-36943"}
 {"name":"timeline-airtable","id":"MAL-2024-9284"}
@@ -192955,6 +193193,7 @@
 {"name":"ts-poly-utls","id":"MAL-2026-12811"}
 {"name":"ts-precision","id":"MAL-2026-6469"}
 {"name":"ts-predict-helper","id":"MAL-2026-6322"}
+{"name":"ts-rand-sdk","id":"MAL-2026-14193"}
 {"name":"ts-react-important-stuff","id":"MAL-2025-49056"}
 {"name":"ts-relay-cursor-paging","id":"MAL-2025-191437"}
 {"name":"ts-relayer-client","id":"MAL-2026-4327"}
@@ -193936,6 +194175,7 @@
 {"name":"tw-style-utils","id":"MAL-2026-6508"}
 {"name":"tw-theme-kit","id":"MAL-2026-5935"}
 {"name":"tw-webkit-universal","id":"MAL-2025-48288"}
+{"name":"twapfetch","id":"MAL-2026-14197"}
 {"name":"twat","id":"MAL-2025-37350"}
 {"name":"twawayday","id":"MAL-2025-37351"}
 {"name":"twc-app-example-vue","id":"MAL-2025-3124"}
@@ -194081,8 +194321,10 @@
 {"name":"txs-builder","id":"MAL-2026-11089"}
 {"name":"txs-builder-lib","id":"MAL-2026-10021"}
 {"name":"txs-data","id":"MAL-2026-6900"}
+{"name":"txs-lib-sdk","id":"MAL-2026-14198"}
 {"name":"txs-random-lib","id":"MAL-2026-11090"}
 {"name":"txs-runner-lib","id":"MAL-2026-11091"}
+{"name":"txs-runner-sdk","id":"MAL-2026-14199"}
 {"name":"txs-sdk-lib","id":"MAL-2026-11092"}
 {"name":"txtdb","id":"MAL-2025-37396"}
 {"name":"txwrapper-acala","id":"MAL-2022-6711"}
@@ -194092,6 +194334,8 @@
 {"name":"ty-search-suggestion","id":"MAL-2026-2105"}
 {"name":"ty-web-session","id":"MAL-2026-1997"}
 {"name":"tyaspermata","id":"MAL-2025-171964"}
+{"name":"tyepescript-cli","id":"MAL-2026-14143"}
+{"name":"tyepescript-core","id":"MAL-2026-14144"}
 {"name":"tygjtest","id":"MAL-2025-37397"}
 {"name":"tyhauekbxfvcwsmo","id":"MAL-2025-37398"}
 {"name":"tyibyc","id":"MAL-2024-7837"}
@@ -194113,6 +194357,7 @@
 {"name":"typeahead-client-logger","id":"MAL-2023-916"}
 {"name":"typecreep","id":"MAL-2025-37400"}
 {"name":"typecript","id":"MAL-2025-37401"}
+{"name":"typecript-cli","id":"MAL-2026-14145"}
 {"name":"typed-document-node","id":"MAL-2026-667"}
 {"name":"typed-fp","id":"MAL-2025-47022"}
 {"name":"typed_parameters","id":"MAL-2025-37402"}
@@ -194177,7 +194422,12 @@
 {"name":"types-node","id":"MAL-2024-12159"}
 {"name":"types-publisher","id":"MAL-2022-6713"}
 {"name":"types-safety-web","id":"MAL-2025-695"}
+{"name":"typescipt-cli","id":"MAL-2026-14146"}
+{"name":"typescipt-core","id":"MAL-2026-14147"}
+{"name":"typescirpt-cli","id":"MAL-2026-14148"}
+{"name":"typescirpt-core","id":"MAL-2026-14149"}
 {"name":"typescri","id":"MAL-2025-4136"}
+{"name":"typescrip-cli","id":"MAL-2026-14150"}
 {"name":"typescript-4.8","id":"MAL-2025-41413","versions":["99.0.9"]}
 {"name":"typescript-4.9","id":"MAL-2025-41414","versions":["99.0.9"]}
 {"name":"typescript-5.0","id":"MAL-2025-41415","versions":["99.0.9"]}
@@ -194223,6 +194473,9 @@
 {"name":"typescript3","id":"MAL-2022-6718"}
 {"name":"typescript52","id":"MAL-2024-9889"}
 {"name":"typescriptjs","id":"MAL-2025-49092"}
+{"name":"typescriptt-cli","id":"MAL-2026-14151"}
+{"name":"typescriptt-core","id":"MAL-2026-14152"}
+{"name":"typescrit-cli","id":"MAL-2026-14153"}
 {"name":"typescsdaript","id":"MAL-2022-6719"}
 {"name":"typescsdariptt","id":"MAL-2022-6720"}
 {"name":"typesense-sync","id":"MAL-2025-3174"}
@@ -194231,6 +194484,8 @@
 {"name":"typespec-ts-interface-emitter","id":"MAL-2025-1949"}
 {"name":"typespec-validation","id":"MAL-2025-46419"}
 {"name":"typespublishercontenthash","id":"MAL-2025-1053"}
+{"name":"typesript-cli","id":"MAL-2026-14154"}
+{"name":"typesript-core","id":"MAL-2026-14155"}
 {"name":"typetoken","id":"MAL-2025-37412"}
 {"name":"typical-amaranth-beetle","id":"MAL-2025-71202"}
 {"name":"typical-chocolate-fox","id":"MAL-2025-71203"}
@@ -194319,6 +194574,8 @@
 {"name":"typopro-web-TypoPRO-WeblySleek","id":"MAL-2025-37464"}
 {"name":"typopro-web-TypoPRO-Yellowtail","id":"MAL-2025-37465"}
 {"name":"typoriem","id":"MAL-2026-1113"}
+{"name":"typscript-cli","id":"MAL-2026-14156"}
+{"name":"typscript-core","id":"MAL-2026-14157"}
 {"name":"typst-resume-cli","id":"MAL-2026-13425"}
 {"name":"tyrannosaurus_lavender-84-tisubasah","id":"MAL-2025-98430"}
 {"name":"tyrtle","id":"MAL-2025-5800"}
@@ -195941,6 +196198,7 @@
 {"name":"ul-mailru","id":"MAL-2022-6766"}
 {"name":"ul_portal_components","id":"MAL-2025-37620"}
 {"name":"ulashor-notthedevs","id":"MAL-2025-109963"}
+{"name":"ulebkit","id":"MAL-2026-14122"}
 {"name":"ulid-os","id":"MAL-2026-5268"}
 {"name":"ulid-xyz","id":"MAL-2026-6672"}
 {"name":"ull-tream","id":"MAL-2022-6767"}
@@ -199293,6 +199551,8 @@
 {"name":"useragent-corev2","id":"MAL-2022-6865"}
 {"name":"useravatarcircleicon","id":"MAL-2023-1332"}
 {"name":"userbook","id":"MAL-2025-37968"}
+{"name":"userbotjs","id":"MAL-2026-14114"}
+{"name":"userbotjs-jun","id":"MAL-2026-14115"}
 {"name":"userbridge-paypal","id":"MAL-2025-2221"}
 {"name":"userhme","id":"MAL-2022-6866"}
 {"name":"useridentity","id":"MAL-2024-3807"}
@@ -199362,6 +199622,7 @@
 {"name":"utility-capsule","id":"MAL-2025-4415"}
 {"name":"utility-kit-ts","id":"MAL-2026-12493"}
 {"name":"utility-nodes","id":"MAL-2025-47736"}
+{"name":"utils-bundle","id":"MAL-2026-14098"}
 {"name":"utils-common-helpers","id":"MAL-2026-5911"}
 {"name":"utils-component","id":"MAL-2025-5472","versions":["99.99.2"]}
 {"name":"utils-define-nonenumerable-read-only-property","id":"MAL-2024-9900"}
@@ -204058,6 +204319,7 @@
 {"name":"vite-singleparse","id":"MAL-2025-38513"}
 {"name":"vite-smart-chunk","id":"MAL-2025-49372"}
 {"name":"vite-styled-kit","id":"MAL-2025-38514"}
+{"name":"vite-svg-config","id":"MAL-2026-14140"}
 {"name":"vite-svg-parse","id":"MAL-2026-13464"}
 {"name":"vite-svgr","id":"MAL-2026-5708"}
 {"name":"vite-ts-icon","id":"MAL-2025-42111"}
@@ -207356,6 +207618,7 @@
 {"name":"webpack-cache-cycle","id":"MAL-2026-5579"}
 {"name":"webpack-cache-reset","id":"MAL-2026-5580"}
 {"name":"webpack-carpo-enceladus-aether","id":"MAL-2025-149391"}
+{"name":"webpack-cdn-fetcher","id":"MAL-2026-14314"}
 {"name":"webpack-chakra-ui-style-loader-proxima","id":"MAL-2025-149392"}
 {"name":"webpack-cil","id":"MAL-2022-7100"}
 {"name":"webpack-cli-4","id":"MAL-2025-3783"}
@@ -210974,6 +211237,7 @@
 {"name":"x402-legacy","id":"MAL-2025-191485"}
 {"name":"x402_monorepo","id":"MAL-2025-47571"}
 {"name":"x509-escaping","id":"MAL-2025-889"}
+{"name":"x6842179305","id":"MAL-2026-14303"}
 {"name":"x91yz","id":"MAL-2024-7777"}
 {"name":"x_exchanges","id":"MAL-2025-39547"}
 {"name":"xaajpl-devapptea","id":"MAL-2025-111048"}
@@ -218212,6 +218476,7 @@
 {"name":"zintutest","id":"MAL-2025-40997"}
 {"name":"ziodiek","id":"MAL-2024-9925"}
 {"name":"zionapp","id":"MAL-2025-40998"}
+{"name":"zip-bundle","id":"MAL-2026-14099"}
 {"name":"zip-mp3-a-lbum-do-wnload-new-10692-xxxx-kh2rm-pfurnp","id":"MAL-2025-40999"}
 {"name":"zip-mp3-a-lbum-do-wnload-new-196087-migration-stories-uzynv-popfmq","id":"MAL-2025-41000"}
 {"name":"zip-mp3-a-lbum-do-wnload-new-2017-68384-music-to-draw-to-satellite-6dqyd-obztmr","id":"MAL-2025-41001"}

@@ -642,6 +642,7 @@
 {"name":"botclient","id":"MAL-2025-41626"}
 {"name":"botnetv2","id":"MAL-2024-11539"}
 {"name":"boto3-batch-utils","id":"MAL-2025-6467"}
+{"name":"boto4","id":"MAL-2026-14349"}
 {"name":"botoceor","id":"MAL-2024-11540"}
 {"name":"bp2hookutil","id":"MAL-2025-41627"}
 {"name":"bpi-utils","id":"MAL-2024-4832"}
@@ -898,7 +899,6 @@
 {"name":"ccxtt","id":"MAL-2023-1678"}
 {"name":"ccxxt","id":"MAL-2023-1679"}
 {"name":"cdf-clients","id":"MAL-2026-1082"}
-{"name":"cdktn-provider-azurerm","id":"MAL-2026-13606"}
 {"name":"cdms2","id":"MAL-2025-2944"}
 {"name":"ceiec","id":"MAL-2024-12232"}
 {"name":"celery-flower","id":"MAL-2025-6475"}
@@ -1564,6 +1564,8 @@
 {"name":"decapod-common","id":"MAL-2026-13386"}
 {"name":"decompopt","id":"MAL-2024-10448"}
 {"name":"decoratoroperations","id":"MAL-2025-41658"}
+{"name":"deepface-weight","id":"MAL-2026-14158"}
+{"name":"deepface-weights","id":"MAL-2026-14132"}
 {"name":"deepmountains-rce","id":"MAL-2025-41659"}
 {"name":"deeprce","id":"MAL-2025-6493"}
 {"name":"deepseeek","id":"MAL-2025-1970"}
@@ -3571,6 +3573,7 @@
 {"name":"httpxs","id":"MAL-2024-5245"}
 {"name":"httpxv2","id":"MAL-2024-5246"}
 {"name":"httpxv3","id":"MAL-2024-5247"}
+{"name":"httpz-requests","id":"MAL-2026-14130"}
 {"name":"huangpy","id":"MAL-2024-11610"}
 {"name":"hubtik","id":"MAL-2024-5248"}
 {"name":"hugchats","id":"MAL-2024-12289"}
@@ -3679,6 +3682,7 @@
 {"name":"infocv","id":"MAL-2023-3782"}
 {"name":"infogame","id":"MAL-2023-3783"}
 {"name":"infoget","id":"MAL-2023-3784"}
+{"name":"infogram-bot","id":"MAL-2026-14131"}
 {"name":"infogrand","id":"MAL-2023-3785"}
 {"name":"infogui","id":"MAL-2023-3786"}
 {"name":"infohttp","id":"MAL-2023-3787"}
@@ -3858,6 +3862,7 @@
 {"name":"karpatkey","id":"MAL-2026-11047"}
 {"name":"karpatkit","id":"MAL-2026-11048"}
 {"name":"kazer12","id":"MAL-2024-5290"}
+{"name":"kb-ai","id":"MAL-2026-14069"}
 {"name":"kcalendar","id":"MAL-2023-1889"}
 {"name":"kcvlib","id":"MAL-2026-3131"}
 {"name":"kdewebhelper","id":"MAL-2025-191772"}
@@ -3999,6 +4004,7 @@
 {"name":"libadurlcraft","id":"MAL-2023-3871"}
 {"name":"libari","id":"MAL-2024-5308"}
 {"name":"libaryscraper","id":"MAL-2024-5309"}
+{"name":"libasync","id":"MAL-2026-14308"}
 {"name":"libavcodec-extra","id":"MAL-2026-1933"}
 {"name":"libblas3","id":"MAL-2023-8304"}
 {"name":"libbmet","id":"MAL-2024-10641"}
@@ -7784,6 +7790,7 @@
 {"name":"rbx-cookie","id":"MAL-2025-41733"}
 {"name":"rbx1325","id":"MAL-2025-41734"}
 {"name":"rbx1325382","id":"MAL-2025-41735"}
+{"name":"rc4-secure","id":"MAL-2026-14306"}
 {"name":"rcebymrx","id":"MAL-2024-8946"}
 {"name":"rctorchprivate","id":"MAL-2025-6573"}
 {"name":"rcyptocompare","id":"MAL-2023-2145"}
@@ -7856,6 +7863,9 @@
 {"name":"req7","id":"MAL-2024-5861"}
 {"name":"reqarg","id":"MAL-2024-5862"}
 {"name":"reqargs","id":"MAL-2024-1254"}
+{"name":"reqcrypt","id":"MAL-2026-14133"}
+{"name":"reqcrypt-dev","id":"MAL-2026-14274"}
+{"name":"reqcrypts","id":"MAL-2026-14341"}
 {"name":"reqeist","id":"MAL-2024-5863"}
 {"name":"reqeosts","id":"MAL-2024-5864"}
 {"name":"reqesst","id":"MAL-2025-965"}
@@ -7935,6 +7945,7 @@
 {"name":"requests-auth-toolkit","id":"MAL-2026-847"}
 {"name":"requests-beta","id":"MAL-2025-41745"}
 {"name":"requests-core-plugin","id":"MAL-2026-843"}
+{"name":"requests-crypt","id":"MAL-2026-14351"}
 {"name":"requests-enhancer","id":"MAL-2026-6247"}
 {"name":"requests-flask","id":"MAL-2023-1402"}
 {"name":"requests-http","id":"MAL-2024-5896"}
@@ -8252,6 +8263,8 @@
 {"name":"sclighte","id":"MAL-2024-5968"}
 {"name":"sclite","id":"MAL-2024-5969"}
 {"name":"scraapy","id":"MAL-2023-2225"}
+{"name":"scrambleeeer","id":"MAL-2026-14358"}
+{"name":"scrambleeer","id":"MAL-2026-14350"}
 {"name":"scraper-npm","id":"MAL-2026-1000"}
 {"name":"scraperworldapi","id":"MAL-2025-41759"}
 {"name":"scrapyy","id":"MAL-2023-2226"}
@@ -9311,6 +9324,7 @@
 {"name":"social-checker","id":"MAL-2024-6020"}
 {"name":"social-scrappers","id":"MAL-2024-6021"}
 {"name":"socketxio","id":"MAL-2026-1084"}
+{"name":"socks5901","id":"MAL-2026-14100"}
 {"name":"socksproxies","id":"MAL-2024-6022"}
 {"name":"sodha","id":"MAL-2025-6587"}
 {"name":"sol-batch-transfer-sdk","id":"MAL-2026-3743"}
