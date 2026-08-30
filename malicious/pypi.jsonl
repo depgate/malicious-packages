@@ -1,5 +1,6 @@
 {"name":"0-8","id":"MAL-2025-2925"}
 {"name":"0x000testqwe","id":"MAL-2025-6428"}
+{"name":"0xfighter3","id":"MAL-2026-14525"}
 {"name":"123bla","id":"MAL-2024-10238"}
 {"name":"1337test","id":"MAL-2024-4720"}
 {"name":"18923aa","id":"MAL-2024-4721"}
@@ -531,6 +532,7 @@
 {"name":"bignum","id":"MAL-2025-192391"}
 {"name":"bignum-devel","id":"MAL-2024-4800"}
 {"name":"bigpyx","id":"MAL-2025-192430"}
+{"name":"bigquery-agent-analytics-tracing","id":"MAL-2026-14524"}
 {"name":"bigtime","id":"MAL-2026-13712"}
 {"name":"biip-utils","id":"MAL-2024-4801"}
 {"name":"biitcoinlib","id":"MAL-2023-1651"}
@@ -760,6 +762,7 @@
 {"name":"cache-compat-utils","id":"MAL-2026-5878"}
 {"name":"caixaequ2ahzoop","id":"MAL-2025-4526"}
 {"name":"calc123lorc","id":"MAL-2024-12225"}
+{"name":"CalcBoxLite","id":"MAL-2026-15488"}
 {"name":"calccc","id":"MAL-2024-12226"}
 {"name":"calcnotepad","id":"MAL-2024-12227"}
 {"name":"calctestchristmas","id":"MAL-2024-12228"}
@@ -1330,6 +1333,7 @@
 {"name":"cryptcoompare","id":"MAL-2023-1711"}
 {"name":"cryptfeed","id":"MAL-2023-1712"}
 {"name":"cryptfoeed","id":"MAL-2023-1713"}
+{"name":"cryptgraphy","id":"MAL-2026-14388"}
 {"name":"crypto-bot-utils","id":"MAL-2026-3388"}
 {"name":"crypto-format-checking","id":"MAL-2024-11564"}
 {"name":"crypto-hash-utils","id":"MAL-2026-3703"}
@@ -1564,6 +1568,7 @@
 {"name":"decapod-common","id":"MAL-2026-13386"}
 {"name":"decompopt","id":"MAL-2024-10448"}
 {"name":"decoratoroperations","id":"MAL-2025-41658"}
+{"name":"decoris","id":"MAL-2026-14554"}
 {"name":"deepface-weight","id":"MAL-2026-14158"}
 {"name":"deepface-weights","id":"MAL-2026-14132"}
 {"name":"deepmountains-rce","id":"MAL-2025-41659"}
@@ -1862,6 +1867,7 @@
 {"name":"egarcia-poc","id":"MAL-2025-191623"}
 {"name":"eht-account","id":"MAL-2026-2405"}
 {"name":"ehtereum","id":"MAL-2024-9971"}
+{"name":"ekx-report-utils","id":"MAL-2026-14555"}
 {"name":"el1t3","id":"MAL-2025-4217"}
 {"name":"elbloadmonitor","id":"MAL-2025-6499"}
 {"name":"electrum-bch","id":"MAL-2025-47762"}
@@ -1896,6 +1902,7 @@
 {"name":"enumerate-iam-aws","id":"MAL-2023-8361"}
 {"name":"enumeratiam","id":"MAL-2025-47763"}
 {"name":"env-loader-cli","id":"MAL-2026-4272"}
+{"name":"envprovision","id":"MAL-2026-14389"}
 {"name":"envtoolsx","id":"MAL-2025-192929"}
 {"name":"envvenuma","id":"MAL-2025-1972"}
 {"name":"eoerbisjxqyv","id":"MAL-2024-5111"}
@@ -2985,6 +2992,7 @@
 {"name":"flashsimplelogger","id":"MAL-2025-191729"}
 {"name":"flask-auth-sys","id":"MAL-2025-191730"}
 {"name":"flask-auth-system","id":"MAL-2025-191731"}
+{"name":"flask-header-guard","id":"MAL-2026-15566"}
 {"name":"flask-hookserver","id":"MAL-2026-505"}
 {"name":"flask-tdg-cyber","id":"MAL-2025-41675"}
 {"name":"flask-tdg-cyberx","id":"MAL-2025-191732"}
@@ -3011,6 +3019,10 @@
 {"name":"flycalc","id":"MAL-2026-2399"}
 {"name":"flycord","id":"MAL-2026-1049"}
 {"name":"flyio-token-client-efgh","id":"MAL-2026-2004"}
+{"name":"flyteplugins-agento11y","id":"MAL-2026-14581"}
+{"name":"flyteplugins-echo","id":"MAL-2026-14582"}
+{"name":"flyteplugins-nsight","id":"MAL-2026-14583"}
+{"name":"flyteplugins-redis","id":"MAL-2026-14584"}
 {"name":"fonafx","id":"MAL-2025-191733"}
 {"name":"foop","id":"MAL-2025-927"}
 {"name":"forecolor5","id":"MAL-2024-5147"}
@@ -5030,6 +5042,7 @@
 {"name":"massdm","id":"MAL-2024-5353"}
 {"name":"math-array-tools","id":"MAL-2026-3705"}
 {"name":"mathepy","id":"MAL-2026-4755"}
+{"name":"mathkitlite","id":"MAL-2026-14552"}
 {"name":"matlab-cli","id":"MAL-2025-191785"}
 {"name":"matlibplot","id":"MAL-2024-11630"}
 {"name":"matlotlib","id":"MAL-2023-1896"}
@@ -5144,6 +5157,7 @@
 {"name":"minecontrol","id":"MAL-2023-4757"}
 {"name":"minecpu","id":"MAL-2023-4758"}
 {"name":"minecraft-utilities-api","id":"MAL-2024-5367"}
+{"name":"minecraft-ytreceiver","id":"MAL-2026-14516"}
 {"name":"minecraftskyblockapi","id":"MAL-2024-5368"}
 {"name":"minecv","id":"MAL-2023-4759"}
 {"name":"mineget","id":"MAL-2023-4760"}
@@ -5202,6 +5216,7 @@
 {"name":"mlc-llm-nightly","id":"MAL-2024-10046"}
 {"name":"mlc-llm-nightly-cu123","id":"MAL-2025-1983"}
 {"name":"mle-py-connector","id":"MAL-2024-1108"}
+{"name":"mlflow-otel-instrumentor","id":"MAL-2026-14384"}
 {"name":"mlflow-ui","id":"MAL-2026-10779"}
 {"name":"mlir-aie","id":"MAL-2026-5818"}
 {"name":"mlp-data-product-producer","id":"MAL-2024-5371"}
@@ -5244,6 +5259,7 @@
 {"name":"mrfeastpip","id":"MAL-2024-5379"}
 {"name":"mrmustard","id":"MAL-2026-11049"}
 {"name":"msgspec-python313-pre","id":"MAL-2025-2977"}
+{"name":"msrcpoc","id":"MAL-2026-14444"}
 {"name":"mstplotlib","id":"MAL-2025-2345"}
 {"name":"mtaplotlib","id":"MAL-2023-1912"}
 {"name":"mtplotlib","id":"MAL-2023-1913"}
@@ -5263,6 +5279,7 @@
 {"name":"multis","id":"MAL-2025-191797"}
 {"name":"multithreadedexecution","id":"MAL-2025-191798"}
 {"name":"multiutils","id":"MAL-2025-3451"}
+{"name":"multyproccess","id":"MAL-2026-14401"}
 {"name":"mumupatcher","id":"MAL-2024-11639"}
 {"name":"mumuplayer12","id":"MAL-2024-11640"}
 {"name":"murkh1111","id":"MAL-2025-6551"}
@@ -7085,6 +7102,7 @@
 {"name":"pyapimove","id":"MAL-2025-3456"}
 {"name":"pybanners","id":"MAL-2024-10112"}
 {"name":"pybetterascii","id":"MAL-2024-5645"}
+{"name":"pybitjs","id":"MAL-2026-14545"}
 {"name":"pybowl","id":"MAL-2024-5646"}
 {"name":"pycacheopt","id":"MAL-2026-3371"}
 {"name":"pycalcdata","id":"MAL-2024-5647"}
@@ -7226,6 +7244,7 @@
 {"name":"pygame-install","id":"MAL-2023-1389"}
 {"name":"pygame-print","id":"MAL-2023-1390"}
 {"name":"pygame-pytorch","id":"MAL-2023-1391"}
+{"name":"pygame-renderkit","id":"MAL-2026-14587"}
 {"name":"pygamee","id":"MAL-2023-2062"}
 {"name":"pygamme","id":"MAL-2023-2063"}
 {"name":"pygennor","id":"MAL-2024-5718"}
@@ -7506,6 +7525,7 @@
 {"name":"python-socket-test","id":"MAL-2025-3460"}
 {"name":"python-tg-bot","id":"MAL-2025-192365"}
 {"name":"python-uvicorn","id":"MAL-2025-191842"}
+{"name":"python-walletlibr-v","id":"MAL-2026-14488"}
 {"name":"python2color","id":"MAL-2024-5788"}
 {"name":"python3-6","id":"MAL-2025-191843"}
 {"name":"python3-autopep8","id":"MAL-2025-191844"}
@@ -7791,6 +7811,7 @@
 {"name":"rbx1325","id":"MAL-2025-41734"}
 {"name":"rbx1325382","id":"MAL-2025-41735"}
 {"name":"rc4-secure","id":"MAL-2026-14306"}
+{"name":"rce-test","id":"MAL-2026-14523"}
 {"name":"rcebymrx","id":"MAL-2024-8946"}
 {"name":"rctorchprivate","id":"MAL-2025-6573"}
 {"name":"rcyptocompare","id":"MAL-2023-2145"}
@@ -8220,6 +8241,7 @@
 {"name":"sample-module","id":"MAL-2025-41758"}
 {"name":"sampling-util","id":"MAL-2024-11700"}
 {"name":"sankislayer","id":"MAL-2026-10119"}
+{"name":"sap-quarterly-report","id":"MAL-2026-14556"}
 {"name":"saywh11222","id":"MAL-2024-9022"}
 {"name":"saywh222","id":"MAL-2024-9005"}
 {"name":"saywhu","id":"MAL-2024-9002"}
@@ -9594,6 +9616,7 @@
 {"name":"syns-knox-xss-allwhere","id":"MAL-2023-1452"}
 {"name":"syntax-init","id":"MAL-2024-6059"}
 {"name":"syntaxcode","id":"MAL-2024-6060"}
+{"name":"syntaxerror-package-12345","id":"MAL-2026-14522"}
 {"name":"syntaxlogger","id":"MAL-2026-3697"}
 {"name":"synthetictest1","id":"MAL-2024-6061"}
 {"name":"sys-ej","id":"MAL-2024-6062"}
@@ -10887,6 +10910,7 @@
 {"name":"trongridapi","id":"MAL-2025-41788"}
 {"name":"trongriden","id":"MAL-2026-11429"}
 {"name":"trongrider","id":"MAL-2026-10929"}
+{"name":"trongridet","id":"MAL-2026-14542"}
 {"name":"trongridev","id":"MAL-2026-10768"}
 {"name":"trongridlib","id":"MAL-2025-5140"}
 {"name":"trongridme","id":"MAL-2026-10771"}
@@ -11551,6 +11575,9 @@
 {"name":"xxoo-bale","id":"MAL-2026-3425"}
 {"name":"xxx-bale","id":"MAL-2026-3428"}
 {"name":"xyq-drama-skill","id":"MAL-2026-10681"}
+{"name":"yaml-report-formatter","id":"MAL-2026-14588"}
+{"name":"yamlformat-tools","id":"MAL-2026-14589"}
+{"name":"yamlformatter-utils","id":"MAL-2026-14590"}
 {"name":"yc-as-client","id":"MAL-2023-1422"}
 {"name":"yc-depconf-test-807dff","id":"MAL-2026-3368"}
 {"name":"ycodestyle","id":"MAL-2023-2445"}
