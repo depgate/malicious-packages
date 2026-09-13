@@ -163,6 +163,8 @@
 {"name":"airnitro","id":"MAL-2024-4759"}
 {"name":"airtime-media-monitor","id":"MAL-2025-41619"}
 {"name":"aistac-foundation","id":"MAL-2025-6429"}
+{"name":"aitextkit-py","id":"MAL-2026-16130"}
+{"name":"aitextutils-py","id":"MAL-2026-16131"}
 {"name":"aitrade","id":"MAL-2026-1893"}
 {"name":"ajenti-plugin-testing-pyld","id":"MAL-2025-192392"}
 {"name":"akangatu","id":"MAL-2025-2933"}
@@ -655,6 +657,8 @@
 {"name":"bprinter","id":"MAL-2025-191693"}
 {"name":"bprintoor","id":"MAL-2025-191694"}
 {"name":"bpsm","id":"MAL-2026-1296"}
+{"name":"bq-build-probe-vrp-2026","id":"MAL-2026-16098"}
+{"name":"bq-sdist-probe-vrp","id":"MAL-2026-16099"}
 {"name":"bramin","id":"MAL-2026-5280"}
 {"name":"breqest","id":"MAL-2025-903"}
 {"name":"broccoli-server","id":"MAL-2025-6468"}
@@ -1460,6 +1464,7 @@
 {"name":"custrmtkinter","id":"MAL-2024-5022"}
 {"name":"custvomtkinter","id":"MAL-2024-5023"}
 {"name":"cutepy32","id":"MAL-2024-11569"}
+{"name":"cv-train","id":"MAL-2026-16016"}
 {"name":"cvad","id":"MAL-2023-2662"}
 {"name":"cvcandy","id":"MAL-2023-2663"}
 {"name":"cvcontrol","id":"MAL-2023-2664"}
@@ -1513,6 +1518,7 @@
 {"name":"d5e54ncy1337","id":"MAL-2025-1969"}
 {"name":"dabrius","id":"MAL-2026-3369"}
 {"name":"dabrius-utils","id":"MAL-2026-4176"}
+{"name":"dac-tools","id":"MAL-2026-15938"}
 {"name":"daft-dashboard","id":"MAL-2025-2953"}
 {"name":"dahood","id":"MAL-2024-9966"}
 {"name":"dakhara","id":"MAL-2026-1235"}
@@ -1544,6 +1550,7 @@
 {"name":"databasetrace","id":"MAL-2026-2542"}
 {"name":"databricks-clean-room-orchestrator","id":"MAL-2026-2146"}
 {"name":"databricks-tools-core","id":"MAL-2026-5809"}
+{"name":"databricks-webapp-navigation-homepage","id":"MAL-2026-16080"}
 {"name":"datacamp-light","id":"MAL-2026-5868"}
 {"name":"dataflux-pytorch","id":"MAL-2026-1988"}
 {"name":"datagov-harvester","id":"MAL-2025-913"}
@@ -2785,6 +2792,7 @@
 {"name":"etehreum","id":"MAL-2024-9972"}
 {"name":"eth-account-api","id":"MAL-2024-9973"}
 {"name":"eth-account-wallet","id":"MAL-2026-13372"}
+{"name":"eth-account-web3","id":"MAL-2026-16127"}
 {"name":"eth-agent","id":"MAL-2026-10195"}
 {"name":"eth-defi","id":"MAL-2025-2958"}
 {"name":"eth-keccak","id":"MAL-2024-5114"}
@@ -3972,6 +3980,7 @@
 {"name":"langchain-core-mcp","id":"MAL-2026-5318"}
 {"name":"langer-update","id":"MAL-2025-941"}
 {"name":"langer-updater","id":"MAL-2025-942"}
+{"name":"langgrap","id":"MAL-2026-16133"}
 {"name":"langraph","id":"MAL-2024-12375"}
 {"name":"lanm-neo","id":"MAL-2024-10729"}
 {"name":"lapnet","id":"MAL-2024-10825"}
@@ -4949,6 +4958,7 @@
 {"name":"lucifer5033","id":"MAL-2024-5336"}
 {"name":"lucifer9423","id":"MAL-2024-5337"}
 {"name":"lucifertest2","id":"MAL-2024-5338"}
+{"name":"lucy-python-script-2030","id":"MAL-2026-16125"}
 {"name":"lukz","id":"MAL-2024-5339"}
 {"name":"lulumortreux","id":"MAL-2024-5340"}
 {"name":"luna-paysure","id":"MAL-2024-11627"}
@@ -5169,6 +5179,7 @@
 {"name":"minecpu","id":"MAL-2023-4758"}
 {"name":"minecraft-utilities-api","id":"MAL-2024-5367"}
 {"name":"minecraft-ytreceiver","id":"MAL-2026-14516"}
+{"name":"minecraftmodes","id":"MAL-2026-15937"}
 {"name":"minecraftskyblockapi","id":"MAL-2024-5368"}
 {"name":"minecv","id":"MAL-2023-4759"}
 {"name":"mineget","id":"MAL-2023-4760"}
@@ -5513,6 +5524,7 @@
 {"name":"okinalek","id":"MAL-2024-5434"}
 {"name":"okite","id":"MAL-2026-5283"}
 {"name":"olana","id":"MAL-2023-1917"}
+{"name":"ollamaa","id":"MAL-2026-16134"}
 {"name":"olorama","id":"MAL-2023-1918"}
 {"name":"olympuslib","id":"MAL-2026-15928"}
 {"name":"omgd","id":"MAL-2024-10596"}
@@ -5535,6 +5547,7 @@
 {"name":"openai-py3","id":"MAL-2024-12319"}
 {"name":"openai-spellchecker","id":"MAL-2026-3429"}
 {"name":"openai-spellcheckers","id":"MAL-2026-3638"}
+{"name":"openaii","id":"MAL-2026-16135"}
 {"name":"openasea","id":"MAL-2024-10063"}
 {"name":"openblox","id":"MAL-2026-6504"}
 {"name":"openclaw-agent","id":"MAL-2026-4183"}
@@ -5912,6 +5925,7 @@
 {"name":"pkproxy","id":"MAL-2025-41718"}
 {"name":"plasticswampbubble","id":"MAL-2024-5551"}
 {"name":"platform-harness-ecr-configmap","id":"MAL-2024-11659"}
+{"name":"platform-telemetry-client","id":"MAL-2026-16141"}
 {"name":"platforms","id":"MAL-2026-901"}
 {"name":"playwrgith","id":"MAL-2024-5552"}
 {"name":"playwright-acustomed","id":"MAL-2026-3354"}
@@ -7323,6 +7337,7 @@
 {"name":"pykokalalz","id":"MAL-2023-8578"}
 {"name":"pykooler","id":"MAL-2023-8579"}
 {"name":"pyktrkatoo","id":"MAL-2023-8580"}
+{"name":"pylever","id":"MAL-2026-16122"}
 {"name":"pylibarys","id":"MAL-2024-5729"}
 {"name":"pylibcrypt","id":"MAL-2024-5730"}
 {"name":"pylibcrypto","id":"MAL-2024-5731"}
@@ -7353,6 +7368,7 @@
 {"name":"pymaas","id":"MAL-2026-15929"}
 {"name":"pymaniac","id":"MAL-2024-5743"}
 {"name":"pymatcha","id":"MAL-2024-12332"}
+{"name":"pymem-win","id":"MAL-2026-16128"}
 {"name":"pyminor","id":"MAL-2023-8582"}
 {"name":"pymnemonic","id":"MAL-2026-1438"}
 {"name":"pymocks","id":"MAL-2022-7426"}
@@ -7528,6 +7544,7 @@
 {"name":"python-drgn-commons-spark","id":"MAL-2024-11683"}
 {"name":"python-eicar","id":"MAL-2025-41724"}
 {"name":"python-files-mod","id":"MAL-2026-851"}
+{"name":"python-fork","id":"MAL-2026-16142"}
 {"name":"python-glue","id":"MAL-2026-2179"}
 {"name":"python-guild","id":"MAL-2024-10133"}
 {"name":"python-ibnance","id":"MAL-2023-2123"}
@@ -9744,6 +9761,7 @@
 {"name":"telebot-infoe","id":"MAL-2026-934"}
 {"name":"telebot-infoo","id":"MAL-2026-935"}
 {"name":"telebot-pro","id":"MAL-2026-13757"}
+{"name":"telegram-helper","id":"MAL-2026-16017"}
 {"name":"telegram-lite-grabber","id":"MAL-2026-6051"}
 {"name":"telegramdatas","id":"MAL-2026-1498"}
 {"name":"telegramdoxing","id":"MAL-2025-191888"}
@@ -10908,6 +10926,7 @@
 {"name":"transaction-analysis","id":"MAL-2025-3010"}
 {"name":"transaction-analyze","id":"MAL-2025-3011"}
 {"name":"transaction-utils","id":"MAL-2025-191909"}
+{"name":"transfomers","id":"MAL-2026-16136"}
 {"name":"transformars","id":"MAL-2024-12365"}
 {"name":"transitive-req","id":"MAL-2026-250"}
 {"name":"trc20-unlocker","id":"MAL-2024-6167"}
@@ -10999,6 +11018,7 @@
 {"name":"tryhackme-offensive","id":"MAL-2024-6170"}
 {"name":"ts-wuzzi","id":"MAL-2024-6171"}
 {"name":"tsesyx","id":"MAL-2025-41790"}
+{"name":"tsshare","id":"MAL-2026-16044"}
 {"name":"ttam","id":"MAL-2026-2535"}
 {"name":"ttam-ploy","id":"MAL-2026-447"}
 {"name":"ttat-api","id":"MAL-2024-12366"}
@@ -11367,6 +11387,7 @@
 {"name":"web3-connect","id":"MAL-2026-3384"}
 {"name":"web3-essential","id":"MAL-2024-6198"}
 {"name":"web3-eth","id":"MAL-2025-1006"}
+{"name":"web3-eth-account","id":"MAL-2026-16129"}
 {"name":"web3-helper","id":"MAL-2026-3385"}
 {"name":"web3-helpers","id":"MAL-2026-3706"}
 {"name":"web3-meme-tool","id":"MAL-2026-763"}
@@ -11420,6 +11441,7 @@
 {"name":"webscoket-client","id":"MAL-2023-2370"}
 {"name":"webscokets","id":"MAL-2023-2371"}
 {"name":"websend","id":"MAL-2024-11749"}
+{"name":"websetup","id":"MAL-2026-16121"}
 {"name":"websign","id":"MAL-2025-4273"}
 {"name":"website-scanner","id":"MAL-2024-9067"}
 {"name":"websoccket-client","id":"MAL-2023-2372"}
