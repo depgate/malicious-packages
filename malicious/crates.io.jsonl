@@ -7,6 +7,7 @@
 {"name":"arrayref","id":"MAL-2026-14336"}
 {"name":"internment","id":"MAL-2026-14337"}
 {"name":"littest","id":"MAL-2023-8429"}
+{"name":"logs-update","id":"MAL-2026-16164"}
 {"name":"lsh","id":"MAL-2026-3126"}
 {"name":"mysten-metrics","id":"MAL-2026-2958"}
 {"name":"proc-macro1","id":"MAL-2026-14338"}
