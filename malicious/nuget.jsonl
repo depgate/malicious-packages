@@ -485,6 +485,11 @@
 {"name":"Danger.ScriptExec-Vulnerable","id":"MAL-2024-4464"}
 {"name":"DevLib.ModernUI.WinForm","id":"MAL-2024-4465"}
 {"name":"DiffEոgiոeTray","id":"MAL-2024-4466"}
+{"name":"dip.api","id":"MAL-2026-16487"}
+{"name":"dip.infrastructure","id":"MAL-2026-16488"}
+{"name":"dip.infrastructure.context","id":"MAL-2026-16489"}
+{"name":"dip.ioc","id":"MAL-2026-16543"}
+{"name":"dip.ioc.extensions","id":"MAL-2026-16544"}
 {"name":"Discord_Rpc.Net","id":"MAL-2024-11506"}
 {"name":"DiscordNetApi","id":"MAL-2024-11507"}
 {"name":"DiscordRichPresenceAPI","id":"MAL-2024-4467"}

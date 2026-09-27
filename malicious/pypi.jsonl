@@ -379,6 +379,7 @@
 {"name":"atomicdecoders","id":"MAL-2024-9945"}
 {"name":"atomicdecoderss","id":"MAL-2024-9946"}
 {"name":"atplotlib","id":"MAL-2023-1586"}
+{"name":"auclean","id":"MAL-2026-16410"}
 {"name":"audio-separator-fork","id":"MAL-2024-9947"}
 {"name":"audit-themis-i18n","id":"MAL-2024-12210"}
 {"name":"auohttp","id":"MAL-2026-38"}
@@ -1008,6 +1009,7 @@
 {"name":"cloudscrapersafe","id":"MAL-2025-6478"}
 {"name":"cloudx-auth","id":"MAL-2025-6479"}
 {"name":"cloudx-base","id":"MAL-2025-6480"}
+{"name":"cloushaar-poc-exfil-91827","id":"MAL-2026-16377"}
 {"name":"clowpy","id":"MAL-2024-4901"}
 {"name":"cmd2func","id":"MAL-2026-5290"}
 {"name":"cmdb-worker-pckg","id":"MAL-2024-11558"}
@@ -1355,6 +1357,7 @@
 {"name":"crypto-pygame","id":"MAL-2023-1360"}
 {"name":"crypto-regex-checker","id":"MAL-2024-11565"}
 {"name":"crypto-regex-gener","id":"MAL-2024-11566"}
+{"name":"crypto-trader-py","id":"MAL-2026-16406"}
 {"name":"crypto-trading-toolkit","id":"MAL-2026-12082"}
 {"name":"crypto-wallet-sdk","id":"MAL-2026-12083"}
 {"name":"crypto-wallet-utils","id":"MAL-2026-3377"}
@@ -1802,6 +1805,7 @@
 {"name":"donotinstallthisistest5","id":"MAL-2025-41664"}
 {"name":"donotinstallthisistest6","id":"MAL-2025-6213"}
 {"name":"dontdownloadthis","id":"MAL-2024-5094"}
+{"name":"donutautosellsrc","id":"MAL-2026-17192"}
 {"name":"dotenv-sync","id":"MAL-2026-6082"}
 {"name":"doughnuts","id":"MAL-2025-41665"}
 {"name":"doverius","id":"MAL-2025-6496"}
@@ -3908,6 +3912,7 @@
 {"name":"keras-arg","id":"MAL-2023-1373"}
 {"name":"keras-beautifulsoup","id":"MAL-2023-1374"}
 {"name":"keras-preprocess","id":"MAL-2024-10649"}
+{"name":"kerokwis","id":"MAL-2026-16421"}
 {"name":"kersa","id":"MAL-2024-11621"}
 {"name":"kertash","id":"MAL-2025-191774"}
 {"name":"keybard","id":"MAL-2025-4221"}
@@ -5150,6 +5155,7 @@
 {"name":"mem8","id":"MAL-2026-5319"}
 {"name":"memlib","id":"MAL-2025-6547"}
 {"name":"memorylib","id":"MAL-2025-6548"}
+{"name":"memoryos","id":"MAL-2026-16475"}
 {"name":"memtools","id":"MAL-2025-6549"}
 {"name":"mennort","id":"MAL-2024-12305"}
 {"name":"meowsapi","id":"MAL-2025-4224"}
@@ -5322,6 +5328,7 @@
 {"name":"my-main-manager","id":"MAL-2024-12308"}
 {"name":"my-package-jiecub3","id":"MAL-2026-2962"}
 {"name":"my-pipeline-watcher-poc","id":"MAL-2026-3218"}
+{"name":"my-private-pkg","id":"MAL-2026-17180"}
 {"name":"my-service-manager","id":"MAL-2024-12309"}
 {"name":"my-super-lib","id":"MAL-2026-1434"}
 {"name":"my-test-package-2025-xyz","id":"MAL-2026-4837"}
@@ -5959,6 +5966,7 @@
 {"name":"pokemon-app-sdk","id":"MAL-2025-191815"}
 {"name":"polidoro-cli","id":"MAL-2025-6568"}
 {"name":"pollow","id":"MAL-2024-5559"}
+{"name":"poly-check-b","id":"MAL-2026-16407"}
 {"name":"polyclawd","id":"MAL-2026-927"}
 {"name":"polydata-analytics","id":"MAL-2026-4285"}
 {"name":"polymarket-data","id":"MAL-2026-5086"}
@@ -6160,6 +6168,7 @@
 {"name":"propt-toolkit","id":"MAL-2023-2015"}
 {"name":"proressbar2","id":"MAL-2023-2016"}
 {"name":"prorgessbar2","id":"MAL-2023-2017"}
+{"name":"prosocks","id":"MAL-2026-17167"}
 {"name":"proto-google-cloud-dlp-v2beta1","id":"MAL-2025-4666"}
 {"name":"protoc","id":"MAL-2024-10107"}
 {"name":"protocol-stub-generator","id":"MAL-2026-3237"}
@@ -6204,6 +6213,7 @@
 {"name":"puffioner131","id":"MAL-2024-8025"}
 {"name":"puffionerlolpo2131","id":"MAL-2024-11665"}
 {"name":"pullcc","id":"MAL-2023-4957"}
+{"name":"pullgetsage","id":"MAL-2026-16366"}
 {"name":"pulllgtb","id":"MAL-2023-4958"}
 {"name":"pullload","id":"MAL-2023-4959"}
 {"name":"pullmc","id":"MAL-2023-4960"}
@@ -7957,6 +7967,7 @@
 {"name":"reqjuests","id":"MAL-2024-5869"}
 {"name":"reqoests","id":"MAL-2024-5870"}
 {"name":"reqpack","id":"MAL-2026-2116"}
+{"name":"reqparser","id":"MAL-2026-17181"}
 {"name":"reqquest","id":"MAL-2024-5871"}
 {"name":"reqquests","id":"MAL-2022-7435"}
 {"name":"reqquests-toolbelt","id":"MAL-2023-2150"}
@@ -8015,6 +8026,7 @@
 {"name":"requests-auroras","id":"MAL-2026-16274"}
 {"name":"requests-auth-toolkit","id":"MAL-2026-847"}
 {"name":"requests-beta","id":"MAL-2025-41745"}
+{"name":"requests-cache-utils","id":"MAL-2026-17191"}
 {"name":"requests-core-plugin","id":"MAL-2026-843"}
 {"name":"requests-crypt","id":"MAL-2026-14351"}
 {"name":"requests-enhancer","id":"MAL-2026-6247"}
@@ -8243,6 +8255,7 @@
 {"name":"rrequests","id":"MAL-2022-7442"}
 {"name":"rrequests-toolbelt","id":"MAL-2023-2194"}
 {"name":"rrlzjulvyx","id":"MAL-2024-5959"}
+{"name":"rrs","id":"MAL-2026-16346"}
 {"name":"rsa2026","id":"MAL-2025-191660"}
 {"name":"rsacracker","id":"MAL-2025-41753"}
 {"name":"rsquests","id":"MAL-2026-5304"}
@@ -9305,6 +9318,7 @@
 {"name":"sherm","id":"MAL-2024-6002"}
 {"name":"shermed","id":"MAL-2024-6003"}
 {"name":"sherms","id":"MAL-2024-6004"}
+{"name":"sherpy","id":"MAL-2026-17188"}
 {"name":"shikitesting","id":"MAL-2024-6005"}
 {"name":"shimi","id":"MAL-2024-6006"}
 {"name":"shinchina","id":"MAL-2024-12343"}
@@ -9384,6 +9398,7 @@
 {"name":"smtblib","id":"MAL-2025-192579"}
 {"name":"smtmlib","id":"MAL-2025-192958"}
 {"name":"smtrlib","id":"MAL-2025-192690"}
+{"name":"snap-queue","id":"MAL-2026-16408"}
 {"name":"snapshot-date","id":"MAL-2026-610"}
 {"name":"snapshot-photo","id":"MAL-2025-191871"}
 {"name":"snelt","id":"MAL-2024-6017"}
@@ -9547,6 +9562,7 @@
 {"name":"stake-auto-better","id":"MAL-2024-6037"}
 {"name":"starexx","id":"MAL-2025-191662"}
 {"name":"starlette-healthcheck","id":"MAL-2026-6724"}
+{"name":"starlette-healthchecks","id":"MAL-2026-16356"}
 {"name":"stationschedule","id":"MAL-2024-12352"}
 {"name":"stats-helpers","id":"MAL-2026-2139"}
 {"name":"statsapi","id":"MAL-2025-191878"}
@@ -9765,6 +9781,7 @@
 {"name":"tdata-grabber","id":"MAL-2026-6560"}
 {"name":"team-bsb-bot","id":"MAL-2025-2622"}
 {"name":"teensorflow","id":"MAL-2023-2293"}
+{"name":"tego-managed-agents-test","id":"MAL-2026-17183"}
 {"name":"telco","id":"MAL-2025-192363"}
 {"name":"telcoo","id":"MAL-2025-192386"}
 {"name":"telebot-bot","id":"MAL-2025-192942"}
@@ -11211,6 +11228,7 @@
 {"name":"venv-utils","id":"MAL-2026-3803"}
 {"name":"verad","id":"MAL-2023-7805"}
 {"name":"vercc","id":"MAL-2023-7806"}
+{"name":"vercel-runtime-python","id":"MAL-2026-17168"}
 {"name":"verhttp","id":"MAL-2023-7807"}
 {"name":"veriftest1asdl","id":"MAL-2025-4250"}
 {"name":"veriftest1asdla","id":"MAL-2025-4251"}
