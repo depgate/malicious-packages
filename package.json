@@ -6,9 +6,12 @@
   "type": "module",
   "scripts": {
     "process": "tsx src/process.ts",
-    "process:test": "tsx src/process.ts -- --limit 10",
+    "process:test": "tsx src/process.ts --limit 10",
+    "validate": "tsx src/validate.ts",
+    "client": "tsx client/index.ts",
+    "typecheck": "tsc --noEmit",
     "build": "tsc",
-    "run": "node dist/process.js"
+    "run": "node dist/src/process.js"
   },
   "dependencies": {},
   "devDependencies": {

@@ -1,0 +1,100 @@
+{
+  "schema_version": "2.0.0",
+  "generated_at": "2026-10-01T15:11:24Z",
+  "upstream_repo": "https://github.com/ossf/malicious-packages.git",
+  "upstream_commit": "af3e7b18d0e04aedeb9009af50f18a618b3da2d3",
+  "changes_window_days": 180,
+  "total_records": 238675,
+  "ecosystems": {
+    "npm": {
+      "file": "npm.jsonl",
+      "sha256": "4bcb4bc81991f5d114c3cfe51b51f0395587ef49a5279eacf56d62291a65198b",
+      "bytes": 29021645,
+      "records": 221826,
+      "changes_file": "npm.changes.jsonl",
+      "changes_sha256": "cdfec15339bfb5337c6033f7c5e6be4132dbf25803f34446afcd3fe6b29e8c98",
+      "changes_records": 221826,
+      "max_modified": "2026-10-01T15:11:24Z"
+    },
+    "pypi": {
+      "file": "pypi.jsonl",
+      "sha256": "43c0a17f776a64343302f7b1d48bfa399e370545e4be0bfa0e4cd9475cf4726b",
+      "bytes": 1529799,
+      "records": 11768,
+      "changes_file": "pypi.changes.jsonl",
+      "changes_sha256": "280f7b0f4c42e87b156ccaaea4914c11983bee4b65878e70d51b04ad61cb2433",
+      "changes_records": 11768,
+      "max_modified": "2026-10-01T15:11:24Z"
+    },
+    "go": {
+      "file": "go.jsonl",
+      "sha256": "ff65251e0dcb022c4a5c659adb1b35cb4794e9b810057249b6f4469988ca397c",
+      "bytes": 2448,
+      "records": 18,
+      "changes_file": "go.changes.jsonl",
+      "changes_sha256": "022f3e0acf1218c40ac8107ae04b16ef2d7c8e1870ab63075729709561326cd8",
+      "changes_records": 18,
+      "max_modified": "2026-10-01T15:11:24Z"
+    },
+    "maven": {
+      "file": "maven.jsonl",
+      "sha256": "6873921ea4ce09203cbf955bbf72ba25b70c1afc1e7f3a7d408ed03794569476",
+      "bytes": 286,
+      "records": 2,
+      "changes_file": "maven.changes.jsonl",
+      "changes_sha256": "c675df16a0ac9f6a223524cf57b61c090515db5836bad98b57dffa54f2f4e146",
+      "changes_records": 2,
+      "max_modified": "2026-10-01T15:11:24Z"
+    },
+    "nuget": {
+      "file": "nuget.jsonl",
+      "sha256": "a8199a6cf84ccffd84cd436f310a2b9d7b846fa093cf319938109c3ba6bb6ab7",
+      "bytes": 166082,
+      "records": 782,
+      "changes_file": "nuget.changes.jsonl",
+      "changes_sha256": "7e8efb9f29efd00f33d408206fdf9ca4549d9294a1c6bdf8bae5b7c545054334",
+      "changes_records": 782,
+      "max_modified": "2026-10-01T15:11:24Z"
+    },
+    "crates.io": {
+      "file": "crates.io.jsonl",
+      "sha256": "d33de3eb35b28f205dc90ef8242942886672a58b3e558868c1a2ff83b19766dd",
+      "bytes": 2600,
+      "records": 20,
+      "changes_file": "crates.io.changes.jsonl",
+      "changes_sha256": "c0b0ee10b6c4aa61fe3e00ac0b2e83821af029c3d140915d2a80b0bc9bfc57e3",
+      "changes_records": 20,
+      "max_modified": "2026-10-01T15:11:24Z"
+    },
+    "rubygems": {
+      "file": "rubygems.jsonl",
+      "sha256": "c7ba954318d5f6336068ebb926a662864592b01f202feef9eb2a91b29d6fbf29",
+      "bytes": 680936,
+      "records": 4238,
+      "changes_file": "rubygems.changes.jsonl",
+      "changes_sha256": "a777dc005d59cf56a2037ff882911f16adcbff74869fae67b9519f13c19f38c8",
+      "changes_records": 4238,
+      "max_modified": "2026-10-01T15:11:24Z"
+    },
+    "vscode": {
+      "file": "vscode.jsonl",
+      "sha256": "bd49706eb2456c85b307f141532c10f93a133faa8982bd2bade8759c83219a44",
+      "bytes": 543,
+      "records": 4,
+      "changes_file": "vscode.changes.jsonl",
+      "changes_sha256": "9c34cc788b1c0878d6b8a066ab5bb2cdba53bb4724cc026def6cfc7c7885d0a8",
+      "changes_records": 4,
+      "max_modified": "2026-10-01T15:11:24Z"
+    },
+    "vscode:open-vsx.org": {
+      "file": "vscode-open-vsx.org.jsonl",
+      "sha256": "72ab376da07768269273c080e6bdb17b1f96258294d581a99170361fe70b5c1f",
+      "bytes": 2623,
+      "records": 17,
+      "changes_file": "vscode-open-vsx.org.changes.jsonl",
+      "changes_sha256": "7425cc2fc2f7d4094f4c9091974ab2db2e46a8fe171d34514085052c53096e7e",
+      "changes_records": 17,
+      "max_modified": "2026-10-01T15:11:24Z"
+    }
+  }
+}

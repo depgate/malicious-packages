@@ -1,6 +1,7 @@
 node_modules/
 dist/
 .tmp-*/
+.client-state.json
 # malicious/ - keep in repo for consumers
 *.log
 .env
