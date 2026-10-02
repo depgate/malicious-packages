@@ -1,13 +1,13 @@
 # malicious-packages
 
 Processes [OSSF malicious-packages](https://github.com/ossf/malicious-packages) into lightweight,
-incrementally consumable JSONL files per ecosystem for fast consumption by DepGate/OSSShield and similar tools.
+incrementally consumable JSONL files per ecosystem for fast consumption by secmods/depgate and similar tools.
 
 ## Output
 
 Everything lives in `malicious-packages/` and is committed to this repository, so it can be fetched with
 `git clone --depth 1` or over raw GitHub HTTP
-(`https://github.com/depgate/malicious-packages/raw/refs/heads/main/malicious-packages/<file>`).
+(`https://github.com/secmods/malicious-packages/raw/refs/heads/main/malicious-packages/<file>`).
 
 | File | Purpose |
 |------|---------|
@@ -213,7 +213,7 @@ When the feed changes, the same workflow publishes a release whose asset is `mal
 (the `malicious-packages/` directory). The newest one is always available at:
 
 ```
-https://github.com/depgate/malicious-packages/releases/latest/download/malicious-packages.tar.gz
+https://github.com/secmods/malicious-packages/releases/latest/download/malicious-packages.tar.gz
 ```
 
 Feed releases older than 14 days are deleted. The newest release is kept even if it is older than
