@@ -34,13 +34,52 @@ jobs:
         run: npm run validate
 
       - name: Commit and push output
+        id: commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add malicious/
+          git add malicious-packages/
           if git diff --staged --quiet; then
             echo "No changes to commit"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             git commit -m "chore: update malware packages $(date -u +%Y-%m-%dT%H:%MZ)"
             git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
+
+      - name: Publish malicious-packages.tar.gz release
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          tag="feed-$(date -u +%Y%m%dT%H%M%SZ)"
+          generated=$(jq -r .generated_at malicious-packages/manifest.json)
+          records=$(jq -r .total_records malicious-packages/manifest.json)
+          tar -czf malicious-packages.tar.gz malicious-packages
+          gh release create "$tag" malicious-packages.tar.gz \
+            --title "Malicious packages $generated" \
+            --latest \
+            --notes "Snapshot of malicious-packages/ at generated_at=${generated} (${records} packages). Extracting creates the malicious-packages/ directory. Incremental clients should use manifest.json and the changes files instead of downloading this archive on every sync."
+
+      - name: Delete feed releases older than 14 days
+        if: success()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cutoff=$(date -u -d '14 days ago' +%Y-%m-%dT%H:%M:%SZ)
+          # Keep the newest feed release even if it is older than the cutoff, so
+          # releases/latest/download/malicious-packages.tar.gz keeps resolving.
+          gh release list --limit 200 --json tagName,publishedAt \
+            | jq -r --arg cutoff "$cutoff" '
+                [ .[] | select(.tagName | startswith("feed-")) ]
+                | sort_by(.publishedAt) | reverse
+                | .[1:]
+                | .[]
+                | select(.publishedAt < $cutoff)
+                | .tagName
+              ' \
+            | while read -r tag; do
+                echo "Deleting $tag"
+                gh release delete "$tag" --yes --cleanup-tag
+              done

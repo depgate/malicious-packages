@@ -5,9 +5,9 @@ incrementally consumable JSONL files per ecosystem for fast consumption by DepGa
 
 ## Output
 
-Everything lives in `malicious/` and is committed to this repository, so it can be fetched with
+Everything lives in `malicious-packages/` and is committed to this repository, so it can be fetched with
 `git clone --depth 1` or over raw GitHub HTTP
-(`https://github.com/depgate/malicious-packages/raw/refs/heads/main/malicious/<file>`).
+(`https://github.com/depgate/malicious-packages/raw/refs/heads/main/malicious-packages/<file>`).
 
 | File | Purpose |
 |------|---------|
@@ -156,7 +156,7 @@ week 3     -> manifest + npm.changes.jsonl             (CHANGES, covers weeks 2-
 
 ### Reference client
 
-`client/index.ts` implements the table above against a local `malicious/` folder. It has no
+`client/index.ts` implements the table above against a local `malicious-packages/` folder. It has no
 database; it keeps a state file (`.client-state.json`) holding the watermark and reports, per
 ecosystem, the shard count, which files it would download and how many rows it would upsert/delete.
 
@@ -166,14 +166,14 @@ npm run client -- --first                        # first-time load (FULL), saves
 npm run client -- --next                         # subsequent sync using the saved watermark, saves it
 npm run client -- --next --since 2026-09-27T03:23:00Z   # simulate a client with that watermark
 npm run client -- --next --dry-run               # decide and report without saving state
-npm run client -- --dir /path/to/malicious --state /tmp/state.json --json
+npm run client -- --dir /path/to/malicious-packages --state /tmp/state.json --json
 ```
 
 ## Usage
 
 ```bash
 npm install
-npm run process                     # full run, writes to malicious/ (CI)
+npm run process                     # full run, writes to malicious-packages/ (CI)
 npm run process:test                # smoke test: 10 packages per ecosystem -> .tmp-malicious-output/
 npm run process -- --limit 20       # custom limit (also writes to .tmp-malicious-output/)
 npm run validate                    # verify manifest hashes, shard ordering, counts, size limits
@@ -206,5 +206,16 @@ automatically behaves as `--fresh`, since there is no previous state to diff aga
 ## Pipeline
 
 A GitHub Action (`.github/workflows/process-daily.yml`) runs weekly (Sunday 00:00 UTC) and on
-manual dispatch. It runs the producer, validates the output, and commits `malicious/` if anything
+manual dispatch. It runs the producer, validates the output, and commits `malicious-packages/` if anything
 changed. Upstream OSSF data is updated daily, so the schedule can be tightened without code changes.
+
+When the feed changes, the same workflow publishes a release whose asset is `malicious-packages.tar.gz`
+(the `malicious-packages/` directory). The newest one is always available at:
+
+```
+https://github.com/depgate/malicious-packages/releases/latest/download/malicious-packages.tar.gz
+```
+
+Feed releases older than 14 days are deleted. The newest release is kept even if it is older than
+that, so the URL above keeps resolving. The archive is a bulk snapshot for a first load or an
+offline copy. Incremental clients should keep using `manifest.json` and the changes files.

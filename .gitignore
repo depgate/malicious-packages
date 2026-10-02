@@ -2,7 +2,7 @@ node_modules/
 dist/
 .tmp-*/
 .client-state.json
-# malicious/ - keep in repo for consumers
+# malicious-packages/ - keep in repo for consumers
 *.log
 .env
 .DS_Store

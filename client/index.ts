@@ -127,7 +127,7 @@ function parseArgs(): Args {
     process.exit(2);
   }
   return {
-    dir: resolve(value('--dir') ?? 'malicious'),
+    dir: resolve(value('--dir') ?? 'malicious-packages'),
     stateFile: resolve(value('--state') ?? '.client-state.json'),
     mode: first ? 'first' : next ? 'next' : 'inspect',
     since,

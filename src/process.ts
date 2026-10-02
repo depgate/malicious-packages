@@ -2,7 +2,7 @@
 /**
  * Process OSSF malicious-packages into lightweight, incrementally consumable JSONL per ecosystem.
  *
- * Outputs (in malicious/):
+ * Outputs (in malicious-packages/):
  *   <eco>.jsonl          full snapshot, sorted by name, one record per package
  *   <eco>.changes.jsonl  rolling window of upsert/delete ops, newest first
  *   manifest.json        schema version, run timestamp, upstream commit, per-file hashes
@@ -497,7 +497,7 @@ async function main(): Promise<void> {
   const { limit, out, repo, windowDays, shardMaxBytes, force } = parseArgs();
   let { fresh } = parseArgs();
   // Limited runs produce bogus deletes against the real snapshot, so they default to a scratch dir.
-  const outDir = resolve(out ?? (limit ? '.tmp-malicious-output' : 'malicious'));
+  const outDir = resolve(out ?? (limit ? '.tmp-malicious-output' : 'malicious-packages'));
   const repoPath = resolve(repo ?? '.tmp-ossf-malicious-packages');
   const runTs = nowIso();
 

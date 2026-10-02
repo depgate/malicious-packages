@@ -5,7 +5,7 @@
  * every record carries `modified`, changes files are newest-first, and no file is large enough
  * to trip GitHub's size limits.
  *
- * Run: npm run validate [-- --dir malicious]
+ * Run: npm run validate [-- --dir malicious-packages]
  */
 import { createHash } from 'crypto';
 import { readdir, readFile } from 'fs/promises';
@@ -42,7 +42,7 @@ const GITHUB_FILE_LIMIT_BYTES = 50 * 1024 * 1024;
 
 const args = process.argv.slice(2);
 const dirIdx = args.indexOf('--dir');
-const dir = resolve(dirIdx >= 0 && args[dirIdx + 1] ? args[dirIdx + 1] : 'malicious');
+const dir = resolve(dirIdx >= 0 && args[dirIdx + 1] ? args[dirIdx + 1] : 'malicious-packages');
 
 const errors: string[] = [];
 const fail = (msg: string) => errors.push(msg);
