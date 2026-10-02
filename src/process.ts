@@ -12,12 +12,17 @@
  *
  * Run: npm run process                     # full (CI)
  * Run: npm run process -- --limit 10       # local smoke test, writes to .tmp-malicious-output/
- * Flags: --out <dir> --repo <existing-clone-dir> --window-days <n> --force (skip mass-delete guard)
+ * Flags: --out <dir> --repo <existing-clone-dir> --window-days <n> --shard-max-bytes <n>
+ *        --force (skip mass-delete guard) --fresh (ignore previous state, reset changes files)
+ *
+ * Snapshots larger than --shard-max-bytes are split into <eco>-00.jsonl, <eco>-01.jsonl, ... by
+ * contiguous sorted name ranges; a snapshot that fits in one file is written as <eco>.jsonl.
+ * The manifest lists every shard, so consumers never guess file names.
  *
  * Requires: git (to clone the repo)
  */
 import { createHash } from 'crypto';
-import { mkdir, readdir, readFile, rm, stat, writeFile } from 'fs/promises';
+import { mkdir, readdir, readFile, rm, writeFile } from 'fs/promises';
 import { join, resolve } from 'path';
 import { execSync } from 'child_process';
 
@@ -25,6 +30,8 @@ const OSSF_REPO = 'https://github.com/ossf/malicious-packages.git';
 const OSSV_BASE = 'osv/malicious';
 const SCHEMA_VERSION = '2.0.0';
 const DEFAULT_WINDOW_DAYS = 180;
+/** Snapshot files larger than this are split into shards. GitHub warns at 50 MB and rejects at 100 MB. */
+const DEFAULT_SHARD_MAX_BYTES = 25 * 1024 * 1024;
 const MAX_DELETE_RATIO = 0.1;
 
 type OSVRangeEvent = {
@@ -87,13 +94,21 @@ type EcosystemResult = {
   previousCount: number;
 };
 
-type ManifestEcosystem = {
+/** One snapshot shard. `files[]` in order is the complete snapshot sorted by name. */
+type ManifestFile = {
   file: string;
   sha256: string;
   bytes: number;
   records: number;
+};
+
+type ManifestEcosystem = {
+  files: ManifestFile[];
+  records: number;
+  bytes: number;
   changes_file: string;
   changes_sha256: string;
+  changes_bytes: number;
   changes_records: number;
   max_modified: string | null;
 };
@@ -103,9 +118,18 @@ type Manifest = {
   generated_at: string;
   upstream_repo: string;
   upstream_commit: string | null;
+  /** Clients whose watermark is older than this must do a full load; the changes files do not reach back further. */
+  changes_since: string;
   changes_window_days: number;
+  shard_max_bytes: number;
   total_records: number;
   ecosystems: Record<string, ManifestEcosystem>;
+};
+
+/** Loose shape of a previously written manifest (either the single-`file` or the `files[]` layout). */
+type PreviousManifest = {
+  changes_since?: string;
+  ecosystems?: Record<string, { file?: string; files?: { file: string }[] }>;
 };
 
 const ECOSYSTEMS = [
@@ -271,8 +295,90 @@ function toJsonl(rows: unknown[]): string {
   return rows.length ? rows.map((r) => JSON.stringify(r)).join('\n') + '\n' : '';
 }
 
+function escapeRegex(s: string): string {
+  return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+/** Matches `<base>.jsonl` and `<base>-NN.jsonl`, but not `<base>.changes.jsonl` or other ecosystems. */
+function snapshotFilePattern(base: string): RegExp {
+  return new RegExp(`^${escapeRegex(base)}(-\\d+)?\\.jsonl$`);
+}
+
+async function readPreviousManifest(outDir: string): Promise<PreviousManifest | null> {
+  try {
+    return JSON.parse(await readFile(join(outDir, 'manifest.json'), 'utf-8')) as PreviousManifest;
+  } catch {
+    return null;
+  }
+}
+
+/**
+ * Previous snapshot files for an ecosystem, taken from the previous manifest (handles both the
+ * single-file and sharded layouts). An ecosystem absent from the manifest has no previous state.
+ */
+function previousSnapshotFiles(prev: PreviousManifest, ecosystem: string): string[] {
+  const eco = prev.ecosystems?.[ecosystem];
+  if (eco?.files?.length) return eco.files.map((f) => f.file);
+  if (eco?.file) return [eco.file];
+  return [];
+}
+
+type Shard = { file: string; text: string; records: MalwareEntry[] };
+
+/** Split sorted entries into shards no larger than `maxBytes` (a single oversized line is kept whole). */
+function shardSnapshot(base: string, entries: MalwareEntry[], maxBytes: number): Shard[] {
+  const groups: { lines: string[]; records: MalwareEntry[]; bytes: number }[] = [];
+  let current = { lines: [] as string[], records: [] as MalwareEntry[], bytes: 0 };
+  for (const e of entries) {
+    const line = JSON.stringify(e) + '\n';
+    const len = Buffer.byteLength(line, 'utf-8');
+    if (current.bytes + len > maxBytes && current.lines.length > 0) {
+      groups.push(current);
+      current = { lines: [], records: [], bytes: 0 };
+    }
+    current.lines.push(line);
+    current.records.push(e);
+    current.bytes += len;
+  }
+  groups.push(current);
+
+  if (groups.length === 1) {
+    return [{ file: `${base}.jsonl`, text: groups[0].lines.join(''), records: groups[0].records }];
+  }
+  return groups.map((g, i) => ({
+    file: `${base}-${String(i).padStart(2, '0')}.jsonl`,
+    text: g.lines.join(''),
+    records: g.records,
+  }));
+}
+
 function compareOps(a: ChangeOp, b: ChangeOp): number {
   return compareStrings(b.modified, a.modified) || compareStrings(a.name, b.name);
+}
+
+function windowCutoff(runTs: string, windowDays: number): string {
+  return new Date(Date.parse(runTs) - windowDays * 86_400_000).toISOString().replace(/\.\d{3}Z$/, 'Z');
+}
+
+/**
+ * Oldest client watermark the changes files are complete for. Ops older than the window are
+ * pruned, so it is at least `runTs - window`; it never moves backwards past a previous reset.
+ *
+ * - fresh run, or no previous manifest (first 2.0 run / from scratch): records that existed
+ *   before this run were never emitted as ops, so only this run's watermark is safe.
+ * - previous manifest without `changes_since` (written before the field existed): its changes
+ *   files are complete back to the window cutoff.
+ */
+function computeChangesSince(
+  runTs: string,
+  windowDays: number,
+  previousManifest: PreviousManifest | null,
+  fresh: boolean
+): string {
+  if (fresh || !previousManifest) return runTs;
+  const cutoff = windowCutoff(runTs, windowDays);
+  const prev = previousManifest.changes_since ?? cutoff;
+  return prev > cutoff ? prev : cutoff;
 }
 
 async function processEcosystem(
@@ -281,18 +387,21 @@ async function processEcosystem(
   outDir: string,
   runTs: string,
   windowDays: number,
+  previousManifest: PreviousManifest | null,
+  fresh: boolean,
   limit?: number
 ): Promise<EcosystemResult> {
   const acc = new Map<string, Accumulator>();
   await collectFromDir(join(repoPath, OSSV_BASE, ecosystem), acc, limit);
 
   const base = fileNameFor(ecosystem);
-  const previous = await readJsonl<Partial<MalwareEntry> & { name: string }>(join(outDir, `${base}.jsonl`));
+  let previous: (Partial<MalwareEntry> & { name: string })[] = [];
+  if (!fresh && previousManifest) {
+    for (const file of previousSnapshotFiles(previousManifest, ecosystem)) {
+      previous = previous.concat(await readJsonl<Partial<MalwareEntry> & { name: string }>(join(outDir, file)));
+    }
+  }
   const previousByName = new Map(previous.map((p) => [p.name, p]));
-  // A snapshot written by the pre-2.0 producer has no `modified` field. Its records are
-  // treated as pre-existing: they get stamped with this run's timestamp but are not
-  // emitted as change ops, so the changes file is not flooded on the first run.
-  const legacyBootstrap = previous.length > 0 && previous.every((p) => !p.modified);
 
   const snapshot: MalwareEntry[] = [];
   const ops: ChangeOp[] = [];
@@ -308,8 +417,6 @@ async function processEcosystem(
       modified = runTs;
       added++;
       ops.push({ op: 'upsert', modified, ...content });
-    } else if (legacyBootstrap) {
-      modified = runTs;
     } else if (prev.modified && contentKey(prev as MalwareEntry) === contentKey(content)) {
       modified = prev.modified;
     } else {
@@ -328,7 +435,13 @@ async function processEcosystem(
     }
   }
 
-  const cutoff = new Date(Date.parse(runTs) - windowDays * 86_400_000).toISOString();
+  // A fresh run has no history to express as deltas: the changes file starts empty and
+  // `changes_since` in the manifest sends every existing client to a full load.
+  if (fresh) {
+    return { ecosystem, snapshot, changes: [], added, updated, deleted, previousCount: 0 };
+  }
+
+  const cutoff = windowCutoff(runTs, windowDays);
   const touched = new Set(ops.map((o) => o.name));
   const existingOps = await readJsonl<ChangeOp>(join(outDir, `${base}.changes.jsonl`));
   const changes = existingOps
@@ -357,7 +470,9 @@ function parseArgs(): {
   out?: string;
   repo?: string;
   windowDays: number;
+  shardMaxBytes: number;
   force: boolean;
+  fresh: boolean;
 } {
   const args = process.argv.slice(2);
   const value = (flag: string): string | undefined => {
@@ -366,23 +481,28 @@ function parseArgs(): {
   };
   const limitRaw = parseInt(value('--limit') ?? '', 10);
   const windowRaw = parseInt(value('--window-days') ?? '', 10);
+  const shardRaw = parseInt(value('--shard-max-bytes') ?? '', 10);
   return {
     limit: limitRaw > 0 ? limitRaw : undefined,
     out: value('--out'),
     repo: value('--repo'),
     windowDays: windowRaw > 0 ? windowRaw : DEFAULT_WINDOW_DAYS,
+    shardMaxBytes: shardRaw > 0 ? shardRaw : DEFAULT_SHARD_MAX_BYTES,
     force: args.includes('--force'),
+    fresh: args.includes('--fresh'),
   };
 }
 
 async function main(): Promise<void> {
-  const { limit, out, repo, windowDays, force } = parseArgs();
+  const { limit, out, repo, windowDays, shardMaxBytes, force } = parseArgs();
+  let { fresh } = parseArgs();
   // Limited runs produce bogus deletes against the real snapshot, so they default to a scratch dir.
   const outDir = resolve(out ?? (limit ? '.tmp-malicious-output' : 'malicious'));
   const repoPath = resolve(repo ?? '.tmp-ossf-malicious-packages');
   const runTs = nowIso();
 
   if (limit) console.log(`Local mode: processing up to ${limit} packages per ecosystem -> ${outDir}`);
+  if (fresh) console.log('Fresh run: ignoring previous state; changes files will be empty and changes_since reset.');
   let upstreamCommit: string | null = null;
   if (repo) {
     console.log(`Using existing upstream clone at ${repoPath}`);
@@ -395,10 +515,17 @@ async function main(): Promise<void> {
 
   try {
     await mkdir(outDir, { recursive: true });
+    const previousManifest = await readPreviousManifest(outDir);
+    // Without a previous manifest there is no history to express as deltas, and `changes_since`
+    // will equal this run anyway, so no client could ever consume the ops. Behave like --fresh.
+    if (!previousManifest && !fresh) {
+      console.log('No previous manifest found; treating this as a fresh run (changes files start empty).');
+      fresh = true;
+    }
 
     const results: EcosystemResult[] = [];
     for (const ecosystem of ECOSYSTEMS) {
-      const r = await processEcosystem(repoPath, ecosystem, outDir, runTs, windowDays, limit);
+      const r = await processEcosystem(repoPath, ecosystem, outDir, runTs, windowDays, previousManifest, fresh, limit);
       results.push(r);
       console.log(
         `${ecosystem}: ${r.snapshot.length} packages (+${r.added} ~${r.updated} -${r.deleted}), ` +
@@ -424,31 +551,55 @@ async function main(): Promise<void> {
       generated_at: runTs,
       upstream_repo: OSSF_REPO,
       upstream_commit: upstreamCommit,
+      changes_since: computeChangesSince(runTs, windowDays, previousManifest, fresh),
       changes_window_days: windowDays,
+      shard_max_bytes: shardMaxBytes,
       total_records: total,
       ecosystems: {},
     };
 
+    const existingFiles = new Set(await readdir(outDir));
+
     for (const r of results) {
       const base = fileNameFor(r.ecosystem);
-      const snapshotText = toJsonl(r.snapshot);
+      const shards = shardSnapshot(base, r.snapshot, shardMaxBytes);
       const changesText = toJsonl(r.changes);
-      await writeFile(join(outDir, `${base}.jsonl`), snapshotText, 'utf-8');
+
+      const files: ManifestFile[] = [];
+      for (const s of shards) {
+        await writeFile(join(outDir, s.file), s.text, 'utf-8');
+        files.push({
+          file: s.file,
+          sha256: sha256(s.text),
+          bytes: Buffer.byteLength(s.text, 'utf-8'),
+          records: s.records.length,
+        });
+      }
       await writeFile(join(outDir, `${base}.changes.jsonl`), changesText, 'utf-8');
-      const { size } = await stat(join(outDir, `${base}.jsonl`));
+
+      // Shard count can shrink (or go back to a single file); remove files from the previous layout.
+      const keep = new Set(files.map((f) => f.file));
+      const pattern = snapshotFilePattern(base);
+      for (const name of existingFiles) {
+        if (pattern.test(name) && !keep.has(name)) await rm(join(outDir, name), { force: true });
+      }
+
       manifest.ecosystems[r.ecosystem] = {
-        file: `${base}.jsonl`,
-        sha256: sha256(snapshotText),
-        bytes: size,
+        files,
         records: r.snapshot.length,
+        bytes: files.reduce((n, f) => n + f.bytes, 0),
         changes_file: `${base}.changes.jsonl`,
         changes_sha256: sha256(changesText),
+        changes_bytes: Buffer.byteLength(changesText, 'utf-8'),
         changes_records: r.changes.length,
         max_modified: r.snapshot.reduce<string | null>(
           (m, e) => (m == null || e.modified > m ? e.modified : m),
           null
         ),
       };
+      if (shards.length > 1) {
+        console.log(`${r.ecosystem}: split into ${shards.length} shards (${files.map((f) => f.file).join(', ')})`);
+      }
     }
 
     await writeFile(join(outDir, 'manifest.json'), JSON.stringify(manifest, null, 2) + '\n', 'utf-8');
